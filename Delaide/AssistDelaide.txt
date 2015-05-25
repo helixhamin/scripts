@@ -1,0 +1,3 @@
+input /echo Weijun and Yuehan are now assisting you.
+send Weijun input /assist Delaide
+send Yuehan input /assist Delaide

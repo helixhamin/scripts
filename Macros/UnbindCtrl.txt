@@ -1,0 +1,11 @@
+Unbind ^1
+Unbind ^2
+Unbind ^3
+Unbind ^4
+Unbind ^5
+Unbind ^6
+Unbind ^7
+Unbind ^8
+Unbind ^9
+Unbind ^0
+Unbind ^-

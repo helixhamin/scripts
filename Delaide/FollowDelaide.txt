@@ -1,0 +1,3 @@
+input /echo Weijun and Yuehan are now following you.
+send Weijun input /follow Delaide
+send Yuehan input /follow Delaide

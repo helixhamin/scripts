@@ -1,0 +1,3 @@
+input /echo Delaide and Yuehan should be attacking now...
+send Delaide /attack <t>
+send Yuehan /attack <t>

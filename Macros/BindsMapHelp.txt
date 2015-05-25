@@ -1,0 +1,2 @@
+input /echo Ctrl+1 = Follow
+input /echo Ctrl+2 = Assist

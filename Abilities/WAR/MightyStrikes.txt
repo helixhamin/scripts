@@ -1,0 +1,2 @@
+input /echo Turns all melee attacks into critical hits
+input /ja "Mighty Strikes" <me>
