@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances the accuracy of the user's next spell
+input /ja "Elemental Seal" <me>
