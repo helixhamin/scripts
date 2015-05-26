@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:water-Target:Conal-Effect:Breath-Notes:Damage is 1100 at max hp
+input /pet "Aqua Breath" <me>

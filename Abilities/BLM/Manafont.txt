@@ -1,0 +1,2 @@
+input /echo Eliminates the cost of magic spells
+input /ja "Manafont" <me>

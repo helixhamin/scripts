@@ -1,0 +1,2 @@
+input /echo Summons a familiar without consuming the content of its jug
+input /ja "Bestial Loyalty" <me>

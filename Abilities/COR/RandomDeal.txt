@@ -1,0 +1,2 @@
+input /echo Has the possibility of resetting the reuse time of a job ability for each party member within area of effect
+input /ja "Random Deal" <me>

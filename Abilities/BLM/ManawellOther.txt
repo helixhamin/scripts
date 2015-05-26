@@ -1,0 +1,2 @@
+input /echo Eliminates the cost of the next magic spell the target casts
+input /ja "Manawell" <stpc>

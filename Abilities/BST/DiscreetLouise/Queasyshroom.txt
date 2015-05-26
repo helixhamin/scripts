@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Dark-Target:Single-Effect:Poison-Notes:7/tic : 60 seconds
+input /pet "Queasyshroom" <me>

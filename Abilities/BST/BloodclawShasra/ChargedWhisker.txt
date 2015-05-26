@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Lightning-Target:Radial
+input /pet "Charged Whisker" <me>

@@ -1,0 +1,2 @@
+input /echo Commands the charmed Pet to make a random special attack
+input /pet "Sic" <me>

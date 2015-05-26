@@ -1,0 +1,2 @@
+input /echo Paralyze+10%, Bind+10%
+input /ja "Ice Shot" <t>

@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Ice-Target:Conal-Effect:Paralyze-Notes:25% proc rate: 90 seconds
+input /pet "Snow Cloud" <me>

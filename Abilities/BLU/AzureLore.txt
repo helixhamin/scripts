@@ -1,0 +1,2 @@
+input /echo Enhances the effect of blue magic spells
+input /ja "Azure Lore" <me>

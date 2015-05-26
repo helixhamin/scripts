@@ -1,0 +1,2 @@
+input /echo Commands the pet to cease attacking and return to you
+input /pet "Heel" <me>

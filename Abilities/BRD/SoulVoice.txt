@@ -1,0 +1,2 @@
+input /echo Enhances the effects of your songs
+input /ja "Soul Voice" <me>

@@ -1,0 +1,2 @@
+input /echo Enhances the effect of your next song
+input /ja "Marcato" <me>

@@ -1,0 +1,2 @@
+input /echo Allows access to additional blue magic spells
+input /ja "Unbridled Learning" <me>

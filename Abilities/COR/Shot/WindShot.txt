@@ -1,0 +1,2 @@
+input /echo Acid Bolt Defense Down+5%, Silence+10%, Gravity+10%
+input /ja "Wind Shot" <t>

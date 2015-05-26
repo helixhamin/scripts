@@ -1,0 +1,2 @@
+input /echo Poison Duration increase
+input /ja "Water Shot" <t>

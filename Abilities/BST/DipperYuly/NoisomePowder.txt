@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enfeeble-Target:Radial-Effect:Attack Down-Notes:15% : 50 seconds
+input /pet "Noisome Powder" <me>

@@ -1,0 +1,2 @@
+input /echo Erases one roll or bust effect. Targets self-cast effect with the longest remaining duration
+input /ja "Fold" <me>

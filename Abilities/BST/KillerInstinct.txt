@@ -1,0 +1,2 @@
+input /echo Grants your pet's Killer effect to party members within area of effect
+input /ja "Killer Instinct" <me>

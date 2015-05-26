@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Water-Target:Conal-Effect:Max HP Down & Bio-Notes:Max HP down is 10% : 30 seconds; Bio is 10% attack down : 60 seconds & 15/tic
+input /pet "Purulent Ooze" <me>

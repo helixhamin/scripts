@@ -1,0 +1,2 @@
+input /echo If the next spell you cast is a "physical" blue magic spell, a TP bonus will be granted
+input /ja "Efflux" <me>

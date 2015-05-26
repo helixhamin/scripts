@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:Enhance-Target:Self-Effects:Enhances Defense-Def+100
+input /pet "Water Wall" <me>

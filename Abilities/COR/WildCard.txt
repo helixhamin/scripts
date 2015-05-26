@@ -1,0 +1,2 @@
+input /echo Has a random effect on all party members within area of effect
+input /ja "Wild Card" <me>

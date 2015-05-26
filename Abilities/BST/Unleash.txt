@@ -1,0 +1,3 @@
+input /echo Increases the accuracy of Charm and eliminates the recast times of Call Beast, Sic, and Ready
+input /echo Sets pet's TP at 300 when either Charm or Call Beast is used
+input /ja "Unleash" <me>

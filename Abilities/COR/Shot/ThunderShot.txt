@@ -1,0 +1,2 @@
+input /echo Stun+10%
+input /ja "Thunder Shot" <t>

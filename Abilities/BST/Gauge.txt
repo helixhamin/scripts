@@ -1,0 +1,2 @@
+input /echo Checks to see if an enemy can be charmed
+input /ja "Gauge" <stnpc>

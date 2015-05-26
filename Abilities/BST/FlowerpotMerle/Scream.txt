@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Enfeeble-Target:Radial-Effect:Mnd down-Notes:-5 MND : 50 seconds
+input /pet "Scream" <me>

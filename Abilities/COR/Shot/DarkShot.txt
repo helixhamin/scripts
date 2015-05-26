@@ -1,0 +1,2 @@
+input /echo Bio Attack Down+5%, Damage Over Time increase; Blind+10%
+input /ja "Dark Shot" <t>

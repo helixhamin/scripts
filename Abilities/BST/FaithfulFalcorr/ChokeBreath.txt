@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Slashing-Target:Conal-Effect:Paralyze & Silence-Notes:10% paralyze proc : 30 seconds
+input /pet "Choke Breath" <me>

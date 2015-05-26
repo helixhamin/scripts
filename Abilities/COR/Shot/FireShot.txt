@@ -1,0 +1,2 @@
+input /echo Burn
+input /ja "Fire Shot" <t>

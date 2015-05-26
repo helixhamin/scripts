@@ -1,0 +1,2 @@
+input /echo Calls a beast to fight by your side
+input /ja "Call Beast" <me>

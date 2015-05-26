@@ -1,0 +1,2 @@
+input /echo Reduces the amount of enmity generated from Elemental Magic spells and increases Magic Accuracy
+input /ja "Subtle Sorcery" <me>

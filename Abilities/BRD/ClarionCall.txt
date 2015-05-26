@@ -1,0 +1,2 @@
+input /echo Increases the number of songs that can affect party members by one
+input /ja "Clarion Call" <me>

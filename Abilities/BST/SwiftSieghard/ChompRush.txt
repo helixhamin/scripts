@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:Slashing-Target:Single-Effect:Slow-Notes:25% : 1.75 minutes
+input /pet "Chomp Rush" <me>

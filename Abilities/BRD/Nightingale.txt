@@ -1,0 +1,2 @@
+input /echo Halves the casting and recast times of songs
+input /ja "Nightingale" <me>

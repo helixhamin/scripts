@@ -1,0 +1,2 @@
+input /echo Allows for Blue Magic spells accessible via Unbridled Learning to be cast without recast times and eliminates the recast time for Unbridled Learning
+input /ja "Unbridled Wisdom" <me>

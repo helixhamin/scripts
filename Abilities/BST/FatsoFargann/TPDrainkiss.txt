@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:Enfeeble-Target:Single-Effect:Absorb TP
+input /pet "TP Drainkiss" <me>

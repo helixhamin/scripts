@@ -1,0 +1,2 @@
+input /echo Commands the Pet to stay in one place
+input /pet "Stay" <me>

@@ -1,0 +1,8 @@
+<t>      Target  (non-select) 
+<bt>     Battle Target (non-select, current RED mob) 
+<scan>   Current Wide Stan Target 
+<st>     General Blue Arrow Select (default's self) 
+<stnpc>  NPC Blue Arrow Select (defaults current target or nearest target, smaller range then <st>) 
+<stpc>   PC Blue Arrow Target (same as stnpc, cept for PCs, not NPCs.) 
+<lastst> Target (non-select) last ST target (carries across macros) 
+<pet>    Target Pet (non-select) 

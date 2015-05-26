@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Blunt-Target:Radial-Effect:Defense Down-Notes:Reduces defense by 25%
+input /pet "Tortoise Stomp" <me>

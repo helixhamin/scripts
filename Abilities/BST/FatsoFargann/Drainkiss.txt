@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Dark-Target:Single-Effect:Absorb HP
+input /pet "Drainkiss" <me>

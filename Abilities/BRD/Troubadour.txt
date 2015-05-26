@@ -1,0 +1,2 @@
+input /echo Increases the casting time of songs by 1.5 and doubles the effect duration
+input /ja "Troubadour" <me>

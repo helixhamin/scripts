@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:piercing-Target:Radial
+input /pet "Whirl Claws" <me>

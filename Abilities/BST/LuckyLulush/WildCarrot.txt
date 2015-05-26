@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enhance-Target:Party-Effect:Curaga
+input /pet "Wild Carrot" <me>

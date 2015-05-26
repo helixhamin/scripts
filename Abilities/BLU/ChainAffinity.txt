@@ -1,0 +1,2 @@
+input /echo Makes it possible for your next "physical" blue magic spell to be used in a skillchain
+input /ja "Chain Affinity" <me>

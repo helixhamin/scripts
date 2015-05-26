@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:Fire-Target:Radial-Effect:Att and Def Down-Notes:Reduces Att and Def by 33% : 65~70 seconds
+input /pet "Corrosive Ooze" <me>

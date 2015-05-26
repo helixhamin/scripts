@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enhance-Target:Self-Effect:Enhances defense-Notes:Def + 50%
+input /pet "Harden Shell" <me>

@@ -1,0 +1,2 @@
+input /echo Grants "Store TP" effect to pets
+input /pet "Spur" <me>

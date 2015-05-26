@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Blunt-Target:Single-Effect:Silence-Notes:50 sec.
+input /pet "Brain Crush" <me>

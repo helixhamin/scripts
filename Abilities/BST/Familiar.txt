@@ -1,0 +1,2 @@
+input /echo Enhances your pet's powers and increases the duration of Charm
+input /ja "Familiar" <me>

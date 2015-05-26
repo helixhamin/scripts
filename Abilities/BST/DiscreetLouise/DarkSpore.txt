@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:Dark-Target:Conal-Effect:Blind-Notes:2.5 minutes
+input /pet "Dark Spore" <me>

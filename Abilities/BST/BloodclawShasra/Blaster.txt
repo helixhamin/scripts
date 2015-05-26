@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enfeeble-Target:Single-Effect:Paralyze-Notes:~10% : 45 seconds
+input /pet "Blaster" <me>

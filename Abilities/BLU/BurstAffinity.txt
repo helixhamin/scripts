@@ -1,0 +1,2 @@
+input /echo Makes it possible for your next "magical" blue magic spell to be used in a Magic Burst
+input /ja "Burst Affinity" <me>

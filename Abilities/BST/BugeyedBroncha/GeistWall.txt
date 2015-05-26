@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Enfeeble-Target:Radial-Effect:Dispel
+input /pet "Geist Wall" <me>

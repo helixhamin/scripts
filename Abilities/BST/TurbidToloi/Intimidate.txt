@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enfeeble-Target:Conal-Effect:Slow-Notes:25%:4.75 minutes
+input /pet "Intimidate" <me>

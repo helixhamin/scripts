@@ -1,0 +1,2 @@
+input /echo Increases the power of your next magical blue magic spell. Limits area of effect to single target
+input /ja "Convergence" <me>

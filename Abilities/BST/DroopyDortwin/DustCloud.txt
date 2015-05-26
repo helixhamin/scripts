@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Dark-Target:Conal-Effect:Blind
+input /pet "Dust Cloud" <me>

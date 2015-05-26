@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enhance-Target:Self-Effect:Berserk-Notes:Attack +50%; Def -50%
+input /pet "Rage" <me>

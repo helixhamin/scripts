@@ -1,0 +1,2 @@
+input /echo Occasionally uses three units of ammunition to deal extra damage
+input /ja "Triple Shot" <me>

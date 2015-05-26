@@ -1,0 +1,2 @@
+input /echo Commands your pet to attack the target
+input /pet "Fight" <stnpc>

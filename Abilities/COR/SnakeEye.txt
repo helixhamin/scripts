@@ -1,0 +1,2 @@
+input /echo Your next roll will automatically be a 1
+input /ja "Snake Eye" <me>

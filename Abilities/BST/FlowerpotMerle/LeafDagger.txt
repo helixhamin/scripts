@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Slashing-Target:Single-Effect:Poison-Notes:7/tic
+input /pet "Leaf Dagger" <me>

@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Blunt-Target:Conal-Effect:Defense Down-Notes:-25% DEF for 60 seconds
+input /pet "Sweeping Gouge" <me>

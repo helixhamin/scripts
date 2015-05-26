@@ -1,0 +1,2 @@
+input /echo Grants the effect of your next support Blue Magic spell to party members within range
+input /ja "Diffusion" <me>

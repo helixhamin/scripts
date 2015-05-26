@@ -1,0 +1,2 @@
+input /echo Dia Defense Down+5%, Damage Over Time increase
+input /ja "Light Shot" <t>

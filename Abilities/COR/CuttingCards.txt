@@ -1,0 +1,2 @@
+input /echo Reduces the recast times of other party members' special abilities
+input /ja "Cutting Cards" <stpc>

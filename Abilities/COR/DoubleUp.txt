@@ -1,0 +1,2 @@
+input /echo Enhances an active Phantom Roll effect that is eligible for Double-Up
+input /ja "Double-Up" <me>

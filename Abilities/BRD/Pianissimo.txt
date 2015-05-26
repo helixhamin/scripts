@@ -1,0 +1,2 @@
+input /echo Limits area of effect of next song to a single target
+input /ja "Pianissimo" <me>

@@ -1,0 +1,2 @@
+input /echo Slow+10%
+input /ja "Earth Shot" <t>

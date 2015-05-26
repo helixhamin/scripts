@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Blunt-Target:Single-Effect:Crit
+input /pet "Lamb Chop" <me>

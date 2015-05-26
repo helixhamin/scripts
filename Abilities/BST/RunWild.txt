@@ -1,0 +1,2 @@
+input /echo Your familiar will gain heightened powers, but will disappear when the effect expires
+input /ja "Run Wild" <me>

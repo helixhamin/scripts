@@ -1,0 +1,2 @@
+input /echo If the next song you cast affects yourself, it will not subsequently be overwritten by other songs
+input /ja "Tenuto" <me>

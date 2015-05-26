@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Dark-Target:Single-Effect:Disease-Notes:20 minutes
+input /pet "Shakeshroom" <me>

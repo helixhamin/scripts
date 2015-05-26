@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Enhance-Target:Self-Effect:Boost-Notes:4x Damage during next attack turn
+input /pet "Fantod" <me>

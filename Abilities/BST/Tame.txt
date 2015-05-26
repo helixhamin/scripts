@@ -1,0 +1,2 @@
+input /echo Makes target docile and more susceptible to charm
+input /ja "Tame" <stnpc>

@@ -1,0 +1,2 @@
+input /echo Transfers hate to your pet
+input /pet "Snarl" <me>

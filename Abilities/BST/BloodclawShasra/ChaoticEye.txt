@@ -1,0 +1,2 @@
+input /echo Charges:1-Type:Enfeeble-Target:Single-Effect:Silence-Notes:65 seconds
+input /pet "Chaotic Eye" <me>

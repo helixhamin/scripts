@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Slashing-Target:Radial-Effect:Choke
+input /pet "Tegmina Buffet" <me>

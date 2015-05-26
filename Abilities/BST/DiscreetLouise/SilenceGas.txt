@@ -1,0 +1,2 @@
+input /echo Charges:3-Type:Dark-Target:Conal-Effect:Silence-Notes:10 seconds
+input /pet "Silence Gas" <me>

@@ -1,0 +1,2 @@
+input /echo Charges:2-Type:Water-Target:Radial-Effect:Attack Down-Notes:50% : 3 minutes
+input /pet "Acid Mist" <me>
