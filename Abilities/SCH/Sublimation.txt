@@ -1,0 +1,2 @@
+input /echo Gradually creates a storage of MP while reducing your HP
+input /ja "Sublimation" <me>

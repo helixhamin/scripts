@@ -1,0 +1,2 @@
+input /echo Doubles your maximum HP and increases your current HP by the same amount
+input /ja "Inner Strength" <me>

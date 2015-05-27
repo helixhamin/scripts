@@ -1,0 +1,2 @@
+input /echo Share TP above 100 with a party member
+input /ja Shikikoyo <stpc>

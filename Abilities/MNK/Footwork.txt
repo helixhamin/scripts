@@ -1,0 +1,2 @@
+input /echo Makes kicks your primary mode of attack
+input /ja "Footwork" <me>

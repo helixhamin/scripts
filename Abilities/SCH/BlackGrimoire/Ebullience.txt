@@ -1,0 +1,2 @@
+input /echo Enhances the potency of your next black magic spell
+input /ja "Ebullience" <me>

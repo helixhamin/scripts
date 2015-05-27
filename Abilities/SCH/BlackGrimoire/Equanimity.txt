@@ -1,0 +1,2 @@
+input /echo Your next black magic spell will generate less enmity
+input /ja "Equanimity" <me>

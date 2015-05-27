@@ -1,0 +1,2 @@
+input /echo Increases chance to counter but lowers defense
+input /ja "Counterstance" <me>

@@ -1,0 +1,2 @@
+input /echo Daken will always activate but consumes shuriken while active
+input /ja "Sange" <me>

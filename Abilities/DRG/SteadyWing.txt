@@ -1,0 +1,2 @@
+input /echo Creates a barrier that temporarily absorbs a certain amount of damage dealt to your wyvern
+input /pet "Steady Wing" <me>

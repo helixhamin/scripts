@@ -1,0 +1,2 @@
+input /echo Reduces physical damage taken and increases enmity but renders Samba unusable
+input /ja "Fan Dance" <me>

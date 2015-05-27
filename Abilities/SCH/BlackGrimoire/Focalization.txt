@@ -1,0 +1,2 @@
+input /echo Increases the accuracy of your next black magic spell
+input /ja "Focalization" <me>

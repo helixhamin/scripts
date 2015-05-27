@@ -1,0 +1,2 @@
+input /echo Your next spell cast may be any from your list regardless of addenda
+input /ja "Enlightenment" <me>

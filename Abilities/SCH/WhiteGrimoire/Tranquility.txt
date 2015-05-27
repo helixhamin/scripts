@@ -1,0 +1,2 @@
+input /echo Your next white magic spell will generate less enmity
+input /ja "Tranquility" <me>

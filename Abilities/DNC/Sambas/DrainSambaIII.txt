@@ -1,0 +1,2 @@
+input /echo Inflicts the next target you strike with Drain daze, allowing party members engaged in battle with it to drain its HP
+input /ja "Drain Samba III" <me>

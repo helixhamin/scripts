@@ -1,0 +1,2 @@
+input /echo Increases Double Attack rate but renders Waltz unusable
+input /ja "Saber Dance" <me>

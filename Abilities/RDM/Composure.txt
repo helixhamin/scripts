@@ -1,0 +1,2 @@
+input /echo Increases accuracy and lengthens recast time
+input /ja "Composure" <me>

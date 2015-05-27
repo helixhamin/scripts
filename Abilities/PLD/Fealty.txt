@@ -1,0 +1,2 @@
+input /echo Grants a powerful resistance to enfeebling magic
+input /ja "Fealty" <me>

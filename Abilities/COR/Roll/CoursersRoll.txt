@@ -1,0 +1,2 @@
+input /echo Enhances "Snapshot" effect Lucky:3 Unlucky:9
+input /ja "Courser's Roll" <me>

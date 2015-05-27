@@ -1,0 +1,2 @@
+input /echo Grants immunity to all physical attacks
+input /ja "Invincible" <me>

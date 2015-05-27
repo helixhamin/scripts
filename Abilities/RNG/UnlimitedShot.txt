@@ -1,0 +1,2 @@
+input /echo Allows you to perform your next ranged attack without using ammunition
+input /ja "Unlimited Shot" <me>

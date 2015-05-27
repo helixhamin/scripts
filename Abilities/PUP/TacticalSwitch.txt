@@ -1,0 +1,2 @@
+input /echo Swaps Master's current TP with Automaton's current TP
+input /ja "Tactical Switch" <me>

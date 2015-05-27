@@ -1,0 +1,2 @@
+input /echo Increases the enhancement effect duration of your next white magic spell
+input /ja "Perpetuance" <me>

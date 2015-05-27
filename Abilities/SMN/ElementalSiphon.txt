@@ -1,0 +1,2 @@
+input /echo Drains MP from your summoned spirit
+input /ja "Elemental Siphon" <me>

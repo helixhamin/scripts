@@ -1,0 +1,2 @@
+input /echo While in effect, lowers TP cost of dances and steps to 0
+input /ja "Trance" <me>

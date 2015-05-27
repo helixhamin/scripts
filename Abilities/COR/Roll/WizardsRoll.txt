@@ -1,0 +1,2 @@
+input /echo Enhances magic attack Job:Black Mage Lucky:5 Unlucky:9
+input /ja "Wizard's Roll" <me>

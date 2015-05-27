@@ -1,0 +1,2 @@
+input /echo Enhances user's next attack
+input /ja "Boost" <me>

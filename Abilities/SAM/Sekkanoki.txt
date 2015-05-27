@@ -1,0 +1,2 @@
+input /echo Limits TP cost of next weapon skill to 100
+input /ja "Sekkanoki" <me>

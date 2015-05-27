@@ -1,0 +1,2 @@
+input /echo Deliver an attack that can stun the target and occasionally cause Plague
+input /ja "Blade Bash" <t>

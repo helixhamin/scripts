@@ -1,0 +1,2 @@
+input /echo Eliminates Blood Pact recast times and fully recovers MP when used
+input /ja "Astral Conduit" <me>

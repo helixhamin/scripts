@@ -1,0 +1,2 @@
+input /echo Super Jump does no damage to an enemy, only reduces emnity
+input /ja "Super Jump" <t>

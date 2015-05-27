@@ -1,0 +1,2 @@
+input /echo Eliminates the recast time on the next blood pact, but causes it to consume more MP
+input /ja "Apogee" <me>

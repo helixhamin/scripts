@@ -1,0 +1,2 @@
+input /echo Grants a bonus to skillchains and magic bursts initiated by your next weapon skill
+input /ja "Sengikori" <me>

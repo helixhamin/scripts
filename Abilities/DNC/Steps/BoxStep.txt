@@ -1,0 +1,2 @@
+input /echo Lowers target's defense
+input /ja "Box Step" <t>

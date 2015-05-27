@@ -1,0 +1,2 @@
+input /echo Delivers a high jumping attack on a targeted enemy which suppresses enmity
+input /ja "Soul Jump" <t>

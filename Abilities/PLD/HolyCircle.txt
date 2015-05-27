@@ -1,0 +1,2 @@
+input /echo Grants resistance, defense, and attack against Undead
+input /ja "Holy Circle" <me>

@@ -1,0 +1,2 @@
+input /echo Allows you to deliver a twofold attack Finishing Moves Used:2
+input /ja "Striking Flourish" <me>

@@ -1,0 +1,2 @@
+input /echo Enhances the effect of next breath used by wyvern
+input /ja "Deep Breathing" <me>

@@ -1,0 +1,2 @@
+input /echo Extends the effect of your next healing or enhancing white magic spell to party members within range
+input /ja "Accession" <me>

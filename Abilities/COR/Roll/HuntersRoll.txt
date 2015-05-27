@@ -1,0 +1,2 @@
+input /echo Enhances accuracy and ranged accuracy Job:Ranger Lucky:4 Unlucky:8
+input /ja "Hunter's Roll" <me>

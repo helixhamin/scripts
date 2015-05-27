@@ -1,0 +1,2 @@
+input /echo Stuns target with a low rate of success Finishing Moves Used:1
+input /ja "Violent Flourish" <t>

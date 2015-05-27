@@ -1,0 +1,2 @@
+input /echo Reduces cost of weapon skills
+input /ja "Meikyo Shisui" <me>

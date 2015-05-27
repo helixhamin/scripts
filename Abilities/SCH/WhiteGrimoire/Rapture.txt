@@ -1,0 +1,2 @@
+input /echo Enhances the potency of your next white magic spell
+input /ja "Rapture" <me>

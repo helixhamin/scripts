@@ -1,0 +1,2 @@
+input /echo Enhances Conserve MP Job:Scholar Lucky:2 Unlucky:6
+input /ja "Scholar's Roll" <me>

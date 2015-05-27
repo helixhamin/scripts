@@ -1,0 +1,3 @@
+input /ja "Boost" <me>
+wait 15
+exec Abilities/MNK/BoostLoop1.txt

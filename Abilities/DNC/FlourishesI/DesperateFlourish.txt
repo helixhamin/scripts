@@ -1,0 +1,2 @@
+input /echo Weighs down a target with a low rate of success Finishing Moves Used:1
+input /ja "Desperate Flourish" <t>

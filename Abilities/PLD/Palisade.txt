@@ -1,0 +1,2 @@
+input /echo Increases chance of blocking with shield, and eliminates enmity loss
+input /ja "Palisade" <me>

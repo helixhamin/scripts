@@ -1,0 +1,2 @@
+input /echo Allows access to additional White Magic spells while using Light Arts
+input /ja "Addendum: White" <me>

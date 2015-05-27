@@ -1,0 +1,2 @@
+input /echo Grants "Save TP" effect and a TP Bonus to your next weapon skill
+input /ja "Hagakure" <me>

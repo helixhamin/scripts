@@ -1,0 +1,2 @@
+input /echo Enhances attack Job:Dark Knight Lucky:4 Unlucky:8
+input /ja "Chaos Roll" <me>

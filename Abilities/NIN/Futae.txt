@@ -1,0 +1,2 @@
+input /echo Grants a bonus to your next elemental ninjutsu by expending two ninja tools
+input /ja "Futae" <me>

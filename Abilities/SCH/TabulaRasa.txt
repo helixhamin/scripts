@@ -1,0 +1,2 @@
+input /echo Optimizes both white and black magic capabilities while allowing charge-free stratagem use
+input /ja "Tabula Rasa" <me>

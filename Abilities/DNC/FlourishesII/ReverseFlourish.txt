@@ -1,0 +1,2 @@
+input /echo Converts remaining finishing moves into TP Finishing Moves Used:1-5
+input /ja "Reverse Flourish" <me>

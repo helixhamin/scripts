@@ -1,0 +1,2 @@
+input /echo Reduces casting time for the next magic spell the target casts
+input /ja "Spontaneity" <stpc>

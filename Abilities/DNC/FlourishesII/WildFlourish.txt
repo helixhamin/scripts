@@ -1,0 +1,2 @@
+input /echo Readies target for a skillchain Finishing Moves Used:2
+input /ja "Wild Flourish" <t>

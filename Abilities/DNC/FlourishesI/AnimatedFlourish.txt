@@ -1,0 +1,2 @@
+input /echo Provokes the target Finishing Moves Used:1-2
+input /ja "Animated Flourish" <t>

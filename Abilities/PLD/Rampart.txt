@@ -1,0 +1,2 @@
+input /echo Grants a Magic Shield effect and enhances defense
+input /ja "Rampart" <me>

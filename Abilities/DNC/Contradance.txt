@@ -1,0 +1,2 @@
+input /echo The next waltz used while under the effects of Contradance will restore an increased amount of HP
+input /ja "Contradance" <me>

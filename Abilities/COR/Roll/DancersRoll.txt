@@ -1,0 +1,2 @@
+input /echo Grants Regen status Job:Dancer Lucky:3 Unlucky:7
+input /ja "Dancer's Roll" <me>

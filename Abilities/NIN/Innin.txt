@@ -1,0 +1,3 @@
+input /echo Reduces enmity and impairs evasion.
+input /echo Grants a bonus to accuracy, critical hit rate, and ninjutsu damage when striking target from behind
+input /ja "Innin" <me>

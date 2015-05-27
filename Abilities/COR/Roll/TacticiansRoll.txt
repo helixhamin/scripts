@@ -1,0 +1,2 @@
+input /echo Grants Regain Lucky:5 Unlucky:8
+input /ja "Tactician's Roll" <me>

@@ -1,0 +1,2 @@
+input /echo Instantly grants additional Finishing Moves
+input /ja "No Foot Rise" <me>

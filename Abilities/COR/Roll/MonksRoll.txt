@@ -1,0 +1,2 @@
+input /echo Enhances "Subtle Blow" Job:Monk Lucky:3 Unlucky:7
+input /ja "Monk's Roll" <me>

@@ -1,0 +1,2 @@
+input /echo Delivers a short jumping attack on a targeted enemy
+input /ja "Jump" <t>

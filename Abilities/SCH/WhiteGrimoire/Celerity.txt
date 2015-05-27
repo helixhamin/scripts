@@ -1,0 +1,2 @@
+input /echo Reduces the casting time and the recast time of your next white magic spell by 50%
+input /ja "Celerity" <me>

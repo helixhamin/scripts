@@ -1,0 +1,2 @@
+input /echo Reduces the MP cost of your next black magic spell by 50%
+input /ja "Parsimony" <me>

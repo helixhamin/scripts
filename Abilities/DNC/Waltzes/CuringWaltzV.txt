@@ -1,0 +1,2 @@
+input /echo Restores target's HP
+input /ja "Curing Waltz V" <stpc>

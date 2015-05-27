@@ -1,0 +1,2 @@
+input /echo Lowers target's evasion
+input /ja "Quickstep" <t>

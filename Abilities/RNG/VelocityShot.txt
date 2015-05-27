@@ -1,0 +1,2 @@
+input /echo Increases attack power and speed of ranged attacks, while reducing attack power and speed of melee attacks
+input /ja "Velocity Shot" <me>

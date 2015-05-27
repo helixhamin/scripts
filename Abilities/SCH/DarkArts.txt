@@ -1,0 +1,2 @@
+input /echo Optimizes black magic capability while lowering white magic proficiency
+input /ja "Dark Arts" <me>

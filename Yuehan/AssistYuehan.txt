@@ -1,3 +1,5 @@
 input /echo Delaide and Weijun are now assting you.
 send Delaide input /assist Yuehan
 send Weijun input /assist Yuehan
+wait 2
+exec Yuehan/AttackYuehanTarget.txt

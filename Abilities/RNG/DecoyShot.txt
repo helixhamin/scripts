@@ -1,0 +1,2 @@
+input /echo Diverts enmity when launching a ranged attack from behind a party member
+input /ja "Decoy Shot" <me>

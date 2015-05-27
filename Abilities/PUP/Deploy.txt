@@ -1,0 +1,2 @@
+input /echo Orders your automaton to attack
+input /pet "Deploy" <t>

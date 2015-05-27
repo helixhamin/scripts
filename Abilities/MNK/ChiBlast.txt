@@ -1,0 +1,2 @@
+input /echo Releases Chi to attack an enemy
+input /ja "Chi Blast" <t>

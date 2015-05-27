@@ -1,0 +1,2 @@
+input /echo Summons a Wyvern to fight by your side
+input /ja "Call Wyvern" <me>

@@ -1,0 +1,2 @@
+input /echo Reduces the strain on your automaton
+input /ja "Cooldown" <me>

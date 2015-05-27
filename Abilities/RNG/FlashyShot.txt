@@ -1,0 +1,2 @@
+input /echo Your next attack will generate more enmity and ignore level difference penalties
+input /ja "Flashy Shot" <me>

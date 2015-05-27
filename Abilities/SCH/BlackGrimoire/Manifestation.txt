@@ -1,0 +1,2 @@
+input /echo Extends the effect of your next enfeebling black magic spell to targets within range
+input /ja "Manifestation" <me>

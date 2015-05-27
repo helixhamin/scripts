@@ -1,0 +1,2 @@
+input /echo Roots enemy in place
+input /ja "Shadowbind" <t>

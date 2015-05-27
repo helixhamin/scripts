@@ -1,0 +1,2 @@
+input /echo Increases potency of "Cure" Job:White Mage Lucky:3 Unlucky:7
+input /ja "Healer's Roll" <me>

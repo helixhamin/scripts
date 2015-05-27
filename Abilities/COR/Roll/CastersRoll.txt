@@ -1,0 +1,2 @@
+input /echo Enhances "Fast Cast" Lucky:2 Unlucky:7
+input /ja "Caster's Roll" <me>

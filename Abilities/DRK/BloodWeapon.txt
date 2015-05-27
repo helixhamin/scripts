@@ -1,0 +1,2 @@
+input /echo Causes all attacks to drain enemy's HP
+input /ja "Blood Weapon" <me>

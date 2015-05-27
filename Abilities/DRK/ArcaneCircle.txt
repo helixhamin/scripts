@@ -1,0 +1,2 @@
+input /echo Grants resistance, defense, and attack against Arcana
+input /ja "Arcane Circle" <me>

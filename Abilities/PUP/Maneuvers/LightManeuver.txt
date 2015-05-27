@@ -1,0 +1,2 @@
+input /echo Enhances the effect of light attachments
+input /pet "Light Maneuver" <me>

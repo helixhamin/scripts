@@ -1,0 +1,2 @@
+input /echo Makes it possible for your next elemental magic spell to be used in a skillchain, but not a magic burst
+input /ja "Immanence" <me>

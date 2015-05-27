@@ -1,0 +1,2 @@
+input /echo Adds your wyvern's strength to your own
+input /ja "Spirit Surge" <me>

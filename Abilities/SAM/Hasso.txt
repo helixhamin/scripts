@@ -1,0 +1,2 @@
+input /echo Grants a bonus to attack speed, accuracy, and Strength when using two-handed weapons, but increases recast and casting times
+input /ja "Hasso" <me>

@@ -1,0 +1,2 @@
+input /echo Improves "Double Attack" rate Job:Warrior Lucky:5 Unlucky:9
+input /ja "Fighter's Roll" <me>

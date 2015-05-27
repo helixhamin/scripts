@@ -1,0 +1,2 @@
+input /echo Gradually restores your automaton's HP
+input /ja "Repair" <me>

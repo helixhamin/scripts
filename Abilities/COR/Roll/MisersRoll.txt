@@ -1,0 +1,2 @@
+input /echo Grants Save TP Lucky:5 Unlucky:7
+input /ja "Miser's Roll" <me>

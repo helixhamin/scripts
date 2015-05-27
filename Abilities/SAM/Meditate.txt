@@ -1,0 +1,2 @@
+input /echo Gradually charges TP
+input /ja "Meditate" <me>

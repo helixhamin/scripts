@@ -1,0 +1,2 @@
+input /echo Reduces melee attack delay Lucky:4 Unlucky:9
+input /ja "Blitzer's Roll" <me>

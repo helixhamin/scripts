@@ -1,0 +1,2 @@
+input /echo Reduces max. HP, increases accuracy
+input /ja "Diabolic Eye" <me>

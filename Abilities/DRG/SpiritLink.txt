@@ -1,0 +1,2 @@
+input /echo Sacrifices own HP to heal Wyvern's HP
+input /ja "Spirit Link" <me>

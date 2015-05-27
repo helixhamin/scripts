@@ -1,0 +1,2 @@
+input /echo Channels damage taken into enhanced attack and magic attack
+input /ja "Scarlet Delirium" <me>

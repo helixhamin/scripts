@@ -1,0 +1,2 @@
+input /echo Readies target for a skillchain
+input /ja "Konzen-ittai" <t>

@@ -1,0 +1,2 @@
+input /echo Heals party members within area of effect
+input /ja "Divine Waltz" <me>

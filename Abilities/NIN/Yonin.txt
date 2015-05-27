@@ -1,0 +1,3 @@
+input /echo Increases enmity and enhances "Ninja Tool Expertise" effect, but impairs accuracy.
+input /echo Improves evasion and reduces enemy Critical Hit Rate when in front of target
+input /ja "Yonin" <me>

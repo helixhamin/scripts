@@ -1,0 +1,2 @@
+input /echo Enhances the effect of dark attachments
+input /pet "Dark Maneuver" <me>

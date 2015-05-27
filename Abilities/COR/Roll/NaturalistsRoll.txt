@@ -1,0 +1,2 @@
+input /echo Enhances Duration of enhancing magic Job:Geomancer Lucky:? Unlucky:?
+input /ja "Naturalist's Roll" <me>

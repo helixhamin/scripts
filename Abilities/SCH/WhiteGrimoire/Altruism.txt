@@ -1,0 +1,2 @@
+input /echo Increases the accuracy of your next White Magic spell
+input /ja "Altruism" <me>

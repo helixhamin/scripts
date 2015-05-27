@@ -1,0 +1,2 @@
+input /echo Improves critical hit rate Job:Thief Lucky:5 Unlucky:9
+input /ja "Rogue's Roll" <me>

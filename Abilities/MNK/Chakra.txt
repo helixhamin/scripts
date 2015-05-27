@@ -1,0 +1,2 @@
+input /echo Cures certain status effects and restores a small amount of HP to user
+input /ja "Chakra" <me>

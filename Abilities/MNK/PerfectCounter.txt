@@ -1,0 +1,2 @@
+input /echo Allows you to counter the next attack directed at you
+input /ja "Perfect Counter" <me>

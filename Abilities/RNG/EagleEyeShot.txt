@@ -1,0 +1,2 @@
+input /echo Delivers a powerful and accurate ranged attack
+input /ja "Eagle Eye Shot" <stnpc>

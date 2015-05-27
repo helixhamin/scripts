@@ -1,0 +1,2 @@
+input /echo Gradually restores MP Job:Summoner Lucky:5 Unlucky:9
+input /ja "Evoker's Roll" <me>

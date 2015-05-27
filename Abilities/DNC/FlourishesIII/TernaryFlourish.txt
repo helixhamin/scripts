@@ -1,0 +1,2 @@
+input /echo Allows you to deal a threefold attack Finishing Moves Used:3
+input /ja "Ternary Flourish" <me>

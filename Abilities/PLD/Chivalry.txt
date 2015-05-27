@@ -1,0 +1,2 @@
+input /echo Converts TP to MP
+input /ja "Chivalry" <me>

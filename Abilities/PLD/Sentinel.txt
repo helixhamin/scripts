@@ -1,0 +1,2 @@
+input /echo Reduces physical damage taken and increases enmity
+input /ja "Sentinel" <me>

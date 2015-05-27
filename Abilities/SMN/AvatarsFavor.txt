@@ -1,0 +1,2 @@
+input /echo Channels the avatar's power towards a beneficial status effect
+input /Pet "Avatar's Favor" <me>

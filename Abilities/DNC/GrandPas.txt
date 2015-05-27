@@ -1,0 +1,3 @@
+input /echo Allows flourishes to be performed without Finishing Moves and resets flourish recast timers
+input /echo Eliminates the TP cost and recast times of Finishing Moves
+input /ja "Grand Pas" <me>

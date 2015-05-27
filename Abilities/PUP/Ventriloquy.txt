@@ -1,0 +1,2 @@
+input /echo Swaps the enmity of master and automaton for target
+input /ja "Ventriloquy" <t>

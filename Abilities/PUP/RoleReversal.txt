@@ -1,0 +1,2 @@
+input /echo Swaps Master's current HP with Automaton's current HP
+input /ja "Role Reversal" <me>

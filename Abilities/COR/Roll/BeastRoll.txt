@@ -1,0 +1,2 @@
+input /echo Enhances pet attacks Job:Beastmaster Lucky:4 Unlucky:8
+input /ja "Beast Roll" <me>

@@ -1,0 +1,2 @@
+input /echo While in effect, melee attacks will not be considered physical damage
+input /ja "Formless Strikes" <me>

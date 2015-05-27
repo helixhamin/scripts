@@ -1,0 +1,2 @@
+input /echo Decreases spell interruption rate Job:Bard Lucky:2 Unlucky:6
+input /ja "Choral Roll" <me>

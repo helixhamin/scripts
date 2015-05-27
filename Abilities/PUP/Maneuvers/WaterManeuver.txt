@@ -1,0 +1,2 @@
+input /echo Enhances the effect of water attachments
+input /pet "Water Maneuver" <me>

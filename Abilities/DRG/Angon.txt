@@ -1,0 +1,2 @@
+input /echo Expends an Angon to lower an enemy's defense
+input /ja "Angon" <t>

@@ -1,0 +1,2 @@
+input /echo Orders the wyvern to attack with its breath
+input /pet "Smiting Breath" <t>

@@ -1,0 +1,2 @@
+input /echo Allows you to protect party members by placing yourself between them and the enemy
+input /ja "Cover" <stpc>

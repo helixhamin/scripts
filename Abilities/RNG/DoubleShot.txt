@@ -1,0 +1,2 @@
+input /echo Occasionally uses two units of ammunition to deal double damage
+input /ja "Double Shot" <me>

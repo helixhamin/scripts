@@ -1,0 +1,2 @@
+input /echo Strikes the target with your shield and greatly decreases its attack and accuracy
+input /ja "Intervene" <t>

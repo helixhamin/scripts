@@ -1,0 +1,2 @@
+input /echo Increases the rate at which the target yields treasure
+input /ja "Bounty Shot" <stnpc>

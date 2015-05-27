@@ -1,0 +1,2 @@
+input /echo Enhances potency of your next weapon skill Finishing Moves Used:1-3
+input /ja "Building Flourish" <me>

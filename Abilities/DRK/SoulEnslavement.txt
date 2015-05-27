@@ -1,0 +1,2 @@
+input /echo Melee attacks absorb target's TP
+input /ja "Soul Enslavement" <me>

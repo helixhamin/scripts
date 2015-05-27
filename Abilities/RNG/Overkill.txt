@@ -1,0 +1,2 @@
+input /echo Doubles Ranged Attack speed
+input /ja "Overkill" <me>

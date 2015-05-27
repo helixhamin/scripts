@@ -1,0 +1,2 @@
+input /echo Enhances magic accuracy Job:Red Mage Lucky:4 Unlucky:8
+input /ja "Warlock's Roll" <me>

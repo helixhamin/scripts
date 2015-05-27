@@ -1,0 +1,2 @@
+input /echo Increases chance of countering Lucky:4 Unlucky:8
+input /ja "Avenger's Roll" <me>

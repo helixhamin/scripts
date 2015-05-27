@@ -1,0 +1,2 @@
+input /echo Allows avatars to use their full strength and allows summmoning of Odin and Alexander
+input /ja "Astral Flow" <me>

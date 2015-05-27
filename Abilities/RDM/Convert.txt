@@ -1,0 +1,2 @@
+input /echo Swaps current HP with MP
+input /ja "Convert" <me>

@@ -1,0 +1,2 @@
+input /echo Consumes your own HP to enhance attacks
+input /ja "Souleater" <me>

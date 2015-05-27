@@ -1,0 +1,2 @@
+input /echo Reduces the casting and the recast time of your next black magic spell by 50%
+input /ja "Alacrity" <me>

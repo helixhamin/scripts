@@ -1,0 +1,2 @@
+input /echo Grants a bonus to number of main weapon attacks that varies with the number of remaining Utsusemi Shadow Images
+input /ja "Mikage" <me>

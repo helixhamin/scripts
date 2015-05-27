@@ -1,0 +1,2 @@
+input /echo Lowers a target's critical hit evasion
+input /ja "Feather Step" <t>

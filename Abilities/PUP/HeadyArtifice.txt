@@ -1,0 +1,2 @@
+input /echo Allows automatons to perform a special ability that varies with the head used
+input /ja "Heady Artifice" <me>

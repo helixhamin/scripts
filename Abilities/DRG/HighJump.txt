@@ -1,0 +1,2 @@
+input /echo Performs a high jumping attack on enemy
+input /ja "High Jump" <t>

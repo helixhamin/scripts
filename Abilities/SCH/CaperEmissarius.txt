@@ -1,0 +1,2 @@
+input /echo Transfers enmity to a party member of your choice
+input /ja "Caper Emissarius" <t>

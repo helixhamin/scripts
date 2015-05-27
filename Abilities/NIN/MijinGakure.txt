@@ -1,0 +1,2 @@
+input /echo Sacrifices user's life to deal damage to an enemy
+input /ja "Mijin Gakure" <t>

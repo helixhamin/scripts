@@ -1,0 +1,2 @@
+input /echo Enhances the effect of ice attachments
+input /pet "Ice Maneuver" <me>

@@ -1,0 +1,2 @@
+input /echo Increases the amount of experience points earned Job:Corsair Lucky:5 Unlucky:9
+input /ja "Corsair's Roll" <me>

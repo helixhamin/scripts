@@ -1,0 +1,2 @@
+input /echo Increases user's attack, but lowers defense
+input /ja "Last Resort" <me>

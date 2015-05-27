@@ -1,0 +1,2 @@
+input /echo Increases Chance of parrying and gives an enmity bonus upon a successful parry attempt
+input /ja "Issekigan" <me>

@@ -1,0 +1,2 @@
+input /echo Enhances the accuracy of your next divine magic spell and increases enmity
+input /ja "Divine Emblem" <me>

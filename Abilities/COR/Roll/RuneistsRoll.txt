@@ -1,0 +1,2 @@
+input /echo Enhances Magic Evasion Job:Rune Fencer Lucky:? Unlucky:?
+input /ja "Runeist's Roll" <me>

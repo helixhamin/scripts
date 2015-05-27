@@ -1,0 +1,2 @@
+input /echo Searches the ground around user for items
+input /ja "Scavenge" <me>

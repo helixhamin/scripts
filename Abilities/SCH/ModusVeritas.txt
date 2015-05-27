@@ -1,0 +1,2 @@
+input /echo Increases damage done by helix spells while lowering spell duration by 50%
+input /ja "Modus Veritas" <stnpc>.

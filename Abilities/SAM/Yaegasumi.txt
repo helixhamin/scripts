@@ -1,0 +1,2 @@
+input /echo Allows you to evade special attacks
+input /ja "Yaegasumi" <me>

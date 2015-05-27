@@ -1,0 +1,2 @@
+input /echo Become hidden from enemies
+input /ja "Camouflage" <me>

@@ -1,0 +1,2 @@
+input /echo Enhances the accuracy of your next dark magic spell
+input /ja "Dark Seal" <me>

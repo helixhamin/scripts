@@ -1,0 +1,2 @@
+input /echo Orders the wyvern to heal with its breath
+input /pet "Restoring Breath" <me>

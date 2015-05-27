@@ -1,0 +1,2 @@
+input /echo Your next attack will generate less enmity
+input /ja "Stealth Shot" <me>

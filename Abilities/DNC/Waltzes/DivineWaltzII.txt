@@ -1,0 +1,2 @@
+input /echo Restores the HP of all party members within a small radius
+input /ja "Divine Waltz II" <me>

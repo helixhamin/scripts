@@ -1,0 +1,2 @@
+input /echo Grants "Regain" and "Regen" Lucky:2 Unlucky:10
+input /ja "Companion's Roll" <me>

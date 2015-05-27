@@ -1,0 +1,2 @@
+input /echo Augments the fighting ability of your automaton to its maximum level
+input /ja "Overdrive" <me>

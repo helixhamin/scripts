@@ -1,0 +1,2 @@
+input /echo Enhances pet accuracy Job:Dragoon Lucky:4 Unlucky:8
+input /ja "Drachen Roll" <me>

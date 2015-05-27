@@ -1,0 +1,2 @@
+input /echo Enhances pet magic attack and magic accuracy Job:Puppetmaster Lucky:3 Unlucky:7
+input /ja "Puppet Roll" <me>

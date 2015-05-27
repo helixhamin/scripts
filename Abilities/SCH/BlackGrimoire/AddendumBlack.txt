@@ -1,0 +1,2 @@
+input /echo Allows access to additional Black Magic spells while using Dark Arts
+input /ja "Addendum: Black" <me>

@@ -1,0 +1,2 @@
+input /echo Increases ranged accuracy
+input /ja "Sharpshot" <me>

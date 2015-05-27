@@ -1,0 +1,2 @@
+input /echo Allows you to deal critical hits Finishing Moves Used:1-5
+input /ja "Climactic Flourish" <me>

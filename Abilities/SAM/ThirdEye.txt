@@ -1,0 +1,2 @@
+input /echo Anticipates and dodges the next attack directed at you
+input /ja "Third Eye" <me>

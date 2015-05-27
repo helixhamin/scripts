@@ -1,0 +1,2 @@
+input /echo Speeds up attacks
+input /ja "Hundred Fists" <me>

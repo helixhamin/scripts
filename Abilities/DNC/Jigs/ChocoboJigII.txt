@@ -1,0 +1,2 @@
+input /echo Increases Movement Speed
+input /ja "Chocobo Jig II" <me>

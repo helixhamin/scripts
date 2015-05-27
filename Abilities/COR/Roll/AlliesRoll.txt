@@ -1,0 +1,2 @@
+input /echo Enhances skillchain damage and skillchain accuracy Lucky:3 Unlucky:10
+input /ja "Allies' Roll" <me>

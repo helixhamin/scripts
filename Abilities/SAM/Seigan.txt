@@ -1,0 +1,2 @@
+input /echo Grants a bonus to Third Eye when using two-handed weapons
+input /ja "Seigan" <me>
