@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Allows you to counterattack but reduces movement speed
+input /ja "Retaliation" <me>

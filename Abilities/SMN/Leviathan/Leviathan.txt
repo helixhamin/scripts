@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Leviathan to fight by your side
+input /ma Leviathan <me>

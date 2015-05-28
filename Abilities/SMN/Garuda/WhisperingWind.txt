@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Garuda restores hit points to party members
+input /pet "Whispering Wind" <me>

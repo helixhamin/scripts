@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Titan delivers an earth-shattering attack that roots its target in place
+input /pet "Mountain Buster" <t>

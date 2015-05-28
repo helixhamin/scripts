@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons a Thunder Spirit to fight by your side
+input /ma "Thunder Spirit" <me>

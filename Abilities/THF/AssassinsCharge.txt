@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Will triple your next attack
+input /ja "Assassin's Charge" <me>

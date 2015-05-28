@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Increases potency of cure effects received for party members 
+input /pet "Soothing Current" <me>

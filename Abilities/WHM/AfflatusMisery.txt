@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Inspires you to draw strength from the damage you take
+input /ja "Afflatus Misery" <me>

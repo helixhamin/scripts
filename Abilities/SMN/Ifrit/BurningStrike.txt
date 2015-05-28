@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit delivers an attack that deals fire elemental damage
+input /pet "Burning Strike" <t>

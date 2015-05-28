@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Shiva inflicts Sleep on enemies within area of effect
+input /pet "Sleepga" <t>

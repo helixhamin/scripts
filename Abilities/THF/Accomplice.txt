@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Steals half of the target party member's enmity and redirects it to the thief
+input /ja "Accomplice" <stpc>

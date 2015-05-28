@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Steals items from an enemy while inflicting a status ailment upon it
+input /ja "Despoil" <t>

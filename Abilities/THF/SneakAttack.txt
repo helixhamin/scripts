@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Deals critical damage when striking from behind
+input /ja "Sneak Attack" <me>

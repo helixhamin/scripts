@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Diabolos delivers an attack that inflicts weight on the target
+input /pet "Somnolence" <t>

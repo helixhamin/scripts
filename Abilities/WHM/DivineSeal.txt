@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances the potency of the user's next healing spell
+input /ja "Divine Seal" <me>

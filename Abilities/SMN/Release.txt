@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Sends the avatar away
+input /pet "Release" <me>

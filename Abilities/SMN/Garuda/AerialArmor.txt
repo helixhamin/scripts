@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Gives party members within area of effect the effect of "Blink"
+input /pet "Aerial Armor" <me>

@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons a Light Spirit to fight by your side
+input /ma "Light Spirit" <me>

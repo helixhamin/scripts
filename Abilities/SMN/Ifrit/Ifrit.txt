@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Ifrit to fight by your side
+input /ma Ifrit <me>

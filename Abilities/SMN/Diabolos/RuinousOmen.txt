@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals damage equal to a random percentage of HP to enemies within area of effect
+input /pet "Ruinous Omen" <t>

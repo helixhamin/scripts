@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Gives members within area of effect effects similar to "Protect" and "Shell"
+input /pet "Shining Ruby" <me>

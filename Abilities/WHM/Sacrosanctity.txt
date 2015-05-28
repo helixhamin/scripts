@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances magic defense for party members
+input /ja "Sacrosanctity" <me>

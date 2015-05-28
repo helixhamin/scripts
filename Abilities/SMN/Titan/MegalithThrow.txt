@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Titan delivers a ranged attack that slows target
+input /pet "Megalith Throw" <t>

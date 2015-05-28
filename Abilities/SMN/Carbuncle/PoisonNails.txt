@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Poisons target
+input /pet "Poison Nails" <t>

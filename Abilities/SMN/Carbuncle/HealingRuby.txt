@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Restores target party member's hit points
+input /pet "Healing Ruby" <me>

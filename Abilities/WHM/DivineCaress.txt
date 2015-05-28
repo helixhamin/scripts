@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo If the next spell you cast cures a status ailment, your target will gain enhanced resistance to that ailment
+input /ja "Divine Caress" <me>

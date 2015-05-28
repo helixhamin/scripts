@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances critical hit rate for party members
+input /ja "Blood Rage" <me>

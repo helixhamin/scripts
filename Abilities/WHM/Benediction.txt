@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Restores a large amount of HP and removes all status ailments for party members
+input /ja "Benediction" <me>

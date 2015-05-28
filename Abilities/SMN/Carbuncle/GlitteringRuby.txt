@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Carbuncle raises the party's stats at random
+input /pet "Glittering Ruby" <me>

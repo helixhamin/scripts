@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Fenrir delivers an attack that blinds target
+input /pet "Moonlit Charge" <t>

@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances attacks of party members
+input /ja "Warcry" <me>

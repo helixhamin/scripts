@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons an Ice Spirit to fight by your side
+input /ma "Ice Spirit" <me>

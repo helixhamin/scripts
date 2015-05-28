@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons an Earth Spirit to fight by your side
+input /ma "Earth Spirit" <me>

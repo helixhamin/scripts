@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Fenrir delivers a three-hit attack on target
+input /pet "Eclipse Bite" <t>

@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Channels your MP into TP for avatars and elementals
+input /ja "Mana Cede" <me>

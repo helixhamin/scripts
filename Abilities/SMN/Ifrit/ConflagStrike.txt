@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals fire elemental damage. Additional effect: Burn
+input /pet "Conflag Strike" <t>

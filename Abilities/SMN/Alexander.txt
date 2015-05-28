@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Reduces damage taken and greatly increases resistance to most status effects
+input /ma Alexander <me>

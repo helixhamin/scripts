@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals ice elemental damage to enemies within area of effect
+input /pet "Diamond Dust" <t>

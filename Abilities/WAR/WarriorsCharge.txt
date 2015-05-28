@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Will double your next attack
+input /ja "Warrior's Charge" <me>

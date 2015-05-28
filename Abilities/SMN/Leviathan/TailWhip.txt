@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Leviathan delivers an attack that weighs target down
+input /pet "Tail Whip" <t>

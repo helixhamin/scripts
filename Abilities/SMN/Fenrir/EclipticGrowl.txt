@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Fenrir increases party member's statistics within area of effect
+input /pet "Ecliptic Growl" <me>

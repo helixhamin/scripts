@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Steal items from enemy
+input /ja "Steal" <t>

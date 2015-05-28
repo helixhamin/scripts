@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Sacrifices HP to heal a party member double the amount
+input /ja "Martyr" <stpc>

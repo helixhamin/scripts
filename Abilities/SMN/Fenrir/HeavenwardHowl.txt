@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Party members within area of effect will be able to steal HP or MP
+input /pet "Heavenward Howl" <me>

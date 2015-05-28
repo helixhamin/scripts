@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Titan to fight by your side
+input /ma Titan <me>

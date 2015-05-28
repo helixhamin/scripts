@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo User becomes invisible
+input /ja "Hide" <me>

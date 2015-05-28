@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit deals fire elemental damage to target
+input /pet "Fire IV" <t>

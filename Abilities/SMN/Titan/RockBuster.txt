@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Binds target
+input /pet "Rock Buster" <t>

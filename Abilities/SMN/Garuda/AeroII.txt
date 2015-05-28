@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Garuda deals Wind elemental damage to target
+input /pet "Aero II" <t>

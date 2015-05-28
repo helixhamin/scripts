@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances defense but weakens attacks
+input /ja "Defender" <me>

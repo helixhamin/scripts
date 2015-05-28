@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit enhances party member's attack
+input /pet "Crimson Howl" <me>

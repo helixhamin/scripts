@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Allows you to steal 1 active buff from an enemy
+input /ja "Larceny" <t>

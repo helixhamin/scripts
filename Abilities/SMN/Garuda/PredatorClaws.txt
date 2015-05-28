@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Garuda delivers a three-hit attack on the target
+input /pet "Predator Claws" <t>

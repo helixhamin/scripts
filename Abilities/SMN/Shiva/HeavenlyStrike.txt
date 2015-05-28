@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Shiva deals ice damage to target
+input /pet "Heavenly Strike" <t>

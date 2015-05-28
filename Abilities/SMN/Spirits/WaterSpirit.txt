@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons a Water Spirit to fight by your side
+input /ma "Water Spirit" <me>

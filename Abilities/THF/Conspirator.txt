@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances accuracy and "Subtle Blow" effect for party members
+input /ja "Conspirator" <me>

@@ -1,0 +1,2 @@
+input /echo Absorbs a beneficial status effect from an enemy and grants to the party
+input /ma "Atomos" <t>

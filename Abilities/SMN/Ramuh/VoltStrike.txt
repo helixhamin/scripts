@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Delivers a threefold attack that stuns target
+input /pet "Volt Strike" <t>

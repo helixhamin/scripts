@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Shiva deals ice elemental damage to target
+input /pet "Blizzard IV" <t>

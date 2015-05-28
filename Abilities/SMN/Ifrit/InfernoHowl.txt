@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit grants Enfire to party members
+input /pet "Inferno Howl" <me>

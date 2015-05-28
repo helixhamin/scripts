@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Titan deals Earth elemental damage and stuns target
+input /pet "Geocrush" <t>

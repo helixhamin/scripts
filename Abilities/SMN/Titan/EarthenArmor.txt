@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Mitigates the impact of severely damaging attacks for party members
+input /pet "Earthen Armor" <me>

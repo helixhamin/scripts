@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit delivers a two-hit attack on target
+input /pet "Double Punch" <t>

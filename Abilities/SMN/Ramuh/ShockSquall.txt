@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Temporarily prevents all enemies within area of effect from acting
+input /pet "Shock Squall" <t>

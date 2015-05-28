@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Delivers a ranged attack that slows target
+input /pet "Crag Throw" <t>

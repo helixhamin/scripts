@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Fenrir removes two beneficial status effects from enemies within Area of Effect
+input /pet "Lunar Roar" <t>

@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit delivers a single-hit attack on target
+input /pet "Punch" <t>

@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Shiva delivers a five-hit attack to target
+input /pet "Rush" <t>

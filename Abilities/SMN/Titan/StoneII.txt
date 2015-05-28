@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals earth elemental damage
+input /pet "Stone II" <t>

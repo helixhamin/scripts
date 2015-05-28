@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Fenrir increases party member's accuracy and evasion within area of effect
+input /pet "Ecliptic Howl" <me>

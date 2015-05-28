@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Ramuh to fight by your side
+input /ma Ramuh <me>

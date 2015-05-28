@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals earth elemental damage to enemies within area of effec
+input /pet "Earthen Fury" <t>

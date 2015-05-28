@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Diabolos delivers a ranged attack that deals dark damage
+input /pet "Nether Blast" <t>

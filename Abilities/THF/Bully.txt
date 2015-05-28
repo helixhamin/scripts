@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Intimidates target
+input /ja "Bully" <t>

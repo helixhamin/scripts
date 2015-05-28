@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Steal gil from enemy
+input /ja "Mug" <t>

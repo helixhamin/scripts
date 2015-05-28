@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Fenrir inflicts accuracy down and evasion down on target
+input /pet "Lunar Cry" <t>

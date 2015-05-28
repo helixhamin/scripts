@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Orders the avatar to hold back
+input /pet "Retreat" <me>

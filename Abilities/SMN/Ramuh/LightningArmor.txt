@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ramuh grants Shock Spikes to party members
+input /pet "Lightning Armor" <me>

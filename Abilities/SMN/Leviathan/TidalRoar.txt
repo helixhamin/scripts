@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Lowers attack for enemies within area of effect
+input /pet "Tidal Roar" <t>

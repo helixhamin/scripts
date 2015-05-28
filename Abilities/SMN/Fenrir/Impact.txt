@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals dark damage that lowers an enemy’s strength, dexterity, vitality, agility, intelligence, mind, and charisma
+input /pet "Impact (Blood Pact)" <t>

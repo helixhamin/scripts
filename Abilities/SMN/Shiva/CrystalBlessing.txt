@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Confers a TP bonus on party members
+input /pet "Crystal Blessing" <me>

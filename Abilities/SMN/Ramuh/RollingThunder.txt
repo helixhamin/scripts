@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ramuh grants Enthunder to party members
+input /pet "Rolling Thunder" <me>

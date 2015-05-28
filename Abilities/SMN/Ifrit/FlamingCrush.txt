@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ifrit delivers a three-hit attack that deals fire elemental damage
+input /pet "Flaming Crush" <t>

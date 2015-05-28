@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Diabolos enhances magic attack and magic defense of party members
+input /pet "Dream Shroud" <me>

@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Diabolos to fight by your side
+input /ma Diabolos <me>

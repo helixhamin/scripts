@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Carbuncle deals Light damage to an enemy
+input /pet "Meteorite" <t>

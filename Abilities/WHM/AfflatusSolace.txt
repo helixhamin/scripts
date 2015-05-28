@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Inspires you to draw strength from the healing spells you cast
+input /ja "Afflatus Solace" <me>

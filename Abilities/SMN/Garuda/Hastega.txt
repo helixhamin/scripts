@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Garuda grants party members Haste within area of effect
+input /pet "Hastega" <me>

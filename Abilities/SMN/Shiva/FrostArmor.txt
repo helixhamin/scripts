@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Shiva enchants party members with Ice Spikes
+input /pet "Frost Armor" <me>

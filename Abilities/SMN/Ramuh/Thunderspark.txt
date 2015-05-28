@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ramuh deals lightning damage and paralyzes enemies within area of effect
+input /pet "Thunderspark" <t>

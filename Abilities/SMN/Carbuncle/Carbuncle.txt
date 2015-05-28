@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Carbuncle to fight by your side
+input /ma "Carbuncle" <me>

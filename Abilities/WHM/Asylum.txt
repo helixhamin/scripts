@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Grants party members a powerful resistance to Enfeebling Magic and Dispel effects
+input /ja "Asylum" <me>

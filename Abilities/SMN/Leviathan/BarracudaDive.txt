@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Leviathan delivers a single-hit attack on target
+input /pet "Barracuda Dive" <t>

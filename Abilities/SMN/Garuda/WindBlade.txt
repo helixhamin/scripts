@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Garuda deals wind damage
+input /pet "Wind Blade" <t>

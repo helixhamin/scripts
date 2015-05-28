@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances attacks but weakens defense
+input /ja "Berserk" <me>

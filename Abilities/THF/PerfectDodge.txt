@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Allows you to dodge all melee attacks
+input /ja "Perfect Dodge" <me>

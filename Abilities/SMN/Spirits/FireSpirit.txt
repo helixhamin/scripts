@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons a Fire Spirit to fight by your side
+input /ma "Fire Spirit" <me>

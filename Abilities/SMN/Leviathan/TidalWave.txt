@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals water elemental damage to enemies within area of effect
+input /pet "Tidal Wave" <t>

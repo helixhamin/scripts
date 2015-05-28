@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Titan deals earth elemental damage to target
+input /pet "Stone IV" <t>

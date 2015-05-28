@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Shiva inflicts evasion down on enemies within area of effect
+input /pet "Diamond Storm" <t>

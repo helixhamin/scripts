@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ramuh delivers an attack that stuns target
+input /pet "Shock Strike" <t>

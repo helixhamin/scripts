@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Garuda to fight by your side
+input /ma Garuda <me>

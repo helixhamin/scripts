@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals light elemental damage to enemies within area of effect
+input /pet "Searing Light" <t>

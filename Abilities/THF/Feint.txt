@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Your next attack will greatly reduce an enemy's evasion
+input /ja "Feint" <me>

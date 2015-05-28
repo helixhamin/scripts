@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Expends a throwing tomahawk to inflict a special defense down effect on an enemy
+input /ja "Tomahawk" <bt>

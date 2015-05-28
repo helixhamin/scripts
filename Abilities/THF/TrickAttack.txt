@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Deals extra damage when striking from behind a party or alliance member
+input /ja "Trick Attack" <me>

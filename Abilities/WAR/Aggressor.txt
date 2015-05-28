@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances accuracy but impairs evasion
+input /ja "Aggressor" <me>

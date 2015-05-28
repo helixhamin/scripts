@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Increases your chance to execute a double attack to 100 percent
+input /ja "Brazen Rush" <me>

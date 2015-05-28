@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Summons Fenrir to fight by your side
+input input /ma Fenrir <me>

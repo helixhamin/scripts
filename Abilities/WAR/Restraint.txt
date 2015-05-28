@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances your weapon skill power with each normal attack you land
+input /ja "Restraint" <me>

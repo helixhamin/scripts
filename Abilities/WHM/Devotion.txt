@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Sacrifices HP to grant a party member the same amount in MP
+input /ja "Devotion" <stpt>

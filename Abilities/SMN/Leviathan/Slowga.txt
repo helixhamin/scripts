@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Leviathan inflicts slow on enemies within area of effect
+input /pet "Slowga" <t>

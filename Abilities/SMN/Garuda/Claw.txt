@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Deals physical damage
+input /pet "Claw" <t>

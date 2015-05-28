@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Leviathan restores hit points to party members and cures some status ailments
+input /pet "Spring Water" <me>

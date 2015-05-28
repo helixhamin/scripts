@@ -1,2 +1,2 @@
-input /echo 
-input 
+input /echo Ramuh deals lightning damage to target
+input /pet "Thunderstorm" <t>
