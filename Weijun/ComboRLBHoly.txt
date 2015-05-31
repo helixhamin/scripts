@@ -1,0 +1,7 @@
+input /ws "Red Lotus Blade" <t>
+wait 4
+send Yuehan input /ws Combo <t>
+wait 1
+send Delaide input /ma "Banish II" <t>
+wait 2
+input /ma Flash <t>

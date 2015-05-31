@@ -27,7 +27,6 @@ lua load findAll;
 lua load GearSwap;
 lua load lottery;
 lua load macrochanger;
-lua load organizer;
 lua load pet_fix;
 lua load PetTP;
 lua load rolltracker;
