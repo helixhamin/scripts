@@ -1,6 +1,6 @@
-Manafont
-Elemental Seal
-Mana Wall
-Enmity Douse
-Manawell
-Subtle Sorcery
+bind ^1 exec Abilities/BLM/ElementalSeal.txt
+bind ^2 exec Abilities/BLM/ManaWall.txt
+bind ^3 exec Abilities/BLM/EnmityDouse.txy
+bind ^4 exec Abilities/BLM/Manawell.txt
+bind ^5 exec Abilities/BLM/SubtleSorcery.txt
+bind ^- exec Macros/BLM/AbilitiesMap.txt

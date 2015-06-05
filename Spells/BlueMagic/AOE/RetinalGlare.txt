@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Plantoid SType:M(Light) AE:Flash
+input /echo StrongVS:Beasts WeakVS:Vermin Mod:INT 20%
+input /ma "Retinal Glare" <t>

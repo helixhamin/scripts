@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Beast SType:M(Fire)
+input /echo StrongVS:Lizards WeakVS:Plantoids Mod:Breath
+input /ma "Heat Breath" <t>

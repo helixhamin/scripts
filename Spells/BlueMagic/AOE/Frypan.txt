@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Beastmen SType:P(Blunt) AE:Stun
+input /echo STR/MND 20%
+input /ma Frypan <t>

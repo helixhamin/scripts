@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/COR/CORAbilities.txt
+2-/console exec Macros/COR/SUB.txt
+3-/console exec Macros/COR/
+4-/console exec Macros/COR/
+5-/console exec Macros/COR/
+6-/console exec Macros/COR/
+7-/console exec Macros/COR/
+8-/console exec Macros/COR/
+9-/console exec Macros/COR/
+0-/console exec Macros/COR/

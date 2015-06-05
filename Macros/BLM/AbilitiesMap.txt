@@ -1,0 +1,5 @@
+input /echo 1 = Elemental Seal
+input /echo 2 = Mana Wall
+input /echo 3 = Enmity Douse
+input /echo 4 = Manawell
+input /echo 5 = Subtle Sorcery

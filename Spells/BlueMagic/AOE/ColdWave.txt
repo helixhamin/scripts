@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Arcana SType:M(Ice) AE:Reduces HP
+input /echo StrongVS:Undead 
+input /ma "Cold Wave" <t>

@@ -1,0 +1,3 @@
+input /echo AOE:Around Caster MType:Beast SType:M(Ice) AE:Bind
+input /echo StrongVS:Lizards WeakVS:Platoids Mod:20% STR/INT
+input /ma "Polar Roar" <t>

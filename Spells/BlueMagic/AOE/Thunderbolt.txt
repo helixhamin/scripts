@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Beast SType:M(Lightning) AE:Stun
+input /echo StrongVS:Lizards WeakVS:Plantoids Mod:INT 30%, MND 20%
+input /ma Thunderbolt <t>

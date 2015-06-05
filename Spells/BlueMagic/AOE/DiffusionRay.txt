@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Arcana SType:M(Light)
+input /echo StrongVS:Undead Mod:MND 40%
+input /ma "Diffusion Ray" <t>

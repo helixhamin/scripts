@@ -1,0 +1,2 @@
+input /echo Mod:MND-VIT Softcap:550HP Cure IV
+input /ma "Magic Fruit" <stpt>

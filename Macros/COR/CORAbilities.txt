@@ -1,0 +1,7 @@
+bind ^1 exec Abilities/COR/DoubleUp.txt
+bind ^2 exec Abilities/COR/RandomDeal.txt
+bind ^3 exec Abilities/COR/SnakeEye.txt
+bind ^4 exec Abilities/COR/Fold.txt
+bind ^5 exec Abilities/COR/TripleShot.txt
+bind ^6 exec Abilities/COR/CutCard.txt
+bind ^- exec Macros/COR/AbilitiesMap.txt

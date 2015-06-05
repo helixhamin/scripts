@@ -1,0 +1,2 @@
+input /echo Mod:Caster max HP AOE Cure
+input /ma "White Wind" <me>

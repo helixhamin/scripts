@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Undead SType:M(Water) AE:Poison
+input /echo StrongVS:Arcana Mod:Breath
+input /ma "Poison Breath" <t>

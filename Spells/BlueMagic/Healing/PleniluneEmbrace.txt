@@ -1,0 +1,2 @@
+input /echo Mod:MND-VIT Cure IV + ATT/MATT Bonus
+input /ma "Plenilune Embrace" <stpt>

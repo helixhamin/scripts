@@ -1,0 +1,2 @@
+input /echo SoftCap:85HP + Erase effect
+input /ma Exuviation <me>

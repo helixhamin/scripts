@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Voragean SType:M(Water) AE:Magic DEF down
+input /echo Mod:INT
+input /ma "Acrid Stream" <t>

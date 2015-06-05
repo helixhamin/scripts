@@ -1,1 +1,6 @@
-Working on spell files now.
+Finished BLU AOE + Healing. Still need to finish other BLU spells.
+Added BLM Abilities mapping
+Added BLU Abilities mapping
+Added BRD Abilities mapping
+Added BST and Pet Abilities mapping. Still need to add jug pet side
+Added COR base Abilities mapping. Still need to add Quickdraws and Rolls.

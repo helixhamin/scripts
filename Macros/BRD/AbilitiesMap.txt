@@ -1,0 +1,6 @@
+input /echo 1 = Pianissimo
+input /echo 2 = Nightingale
+input /echo 3 = Troubadour
+input /echo 4 = Tenuto
+input /echo 5 = Marcato
+input /echo 6 = Clarion Call

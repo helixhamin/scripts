@@ -1,0 +1,9 @@
+input /echo 1 = Charm
+input /echo 2 = Gauge
+input /echo 3 = Reward
+input /echo 4 = Call Beast
+input /echo 5 = Bestial Loyalty
+input /echo 6 = Tame
+input /echo 7 = Feral Howl
+input /echo 8 = Killer Instinct
+input /echo 9 = Unleash

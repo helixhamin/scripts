@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/BRD/BRDAbilities.txt
+2-/console exec Macros/BRD/SUB.txt
+3-/console exec Macros/BRD/
+4-/console exec Macros/BRD/
+5-/console exec Macros/BRD/
+6-/console exec Macros/BRD/
+7-/console exec Macros/BRD/
+8-/console exec Macros/BRD/
+9-/console exec Macros/BRD/
+0-/console exec Macros/BRD/

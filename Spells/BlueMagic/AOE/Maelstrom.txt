@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Aquan SType:M(Water) AE:STR Down
+input /echo StrongVS:Amorphs WeakVS:Birds Mod:Int 30%,MND 10%
+input /ma Maelstrom <t>

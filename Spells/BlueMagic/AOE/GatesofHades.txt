@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Beast SType:M(Fire) AE:Burn
+input /echo StrongVS:Lizards WeakVS:Plantoids Mod:STR/DEX 20%
+input /ma "Gates of Hades" <t>

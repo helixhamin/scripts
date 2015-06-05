@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:M(Earth) SType:Lizard AE:Slow
+input /echo StrongVS:Vermin WeakVS:Beasts
+input /ma "Embalming Earth" <t>

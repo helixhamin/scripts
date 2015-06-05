@@ -1,0 +1,7 @@
+bind ^1 exec Abilities/BRD/Pianissimo.txt
+bind ^2 exec Abilities/BRD/Nightingale.txt
+bind ^3 exec Abilities/BRD/Troubadour.txt
+bind ^4 exec Abilities/BRD/Tenuto.txt
+bind ^5 exec Abilities/BRD/Marcato.txt
+bind ^6 exec Abilities/BRD/ClarionCall.txt
+bind ^- exec Macros/BRD/AbilitiesMap.txt

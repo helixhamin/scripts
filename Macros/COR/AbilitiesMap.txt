@@ -1,0 +1,6 @@
+input /echo 1 = Double-Up
+input /echo 2 = Random Deal
+input /echo 3 = Snake Eye
+input /echo 4 = Fold
+input /echo 5 = Triple Shot
+input /echo 6 = Cut Card

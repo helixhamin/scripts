@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Demon SType:M(Wind) AE:Blind
+input /echo StrongVS:Dragon Mod:Breath
+input /ma "Hecatomb Wave" <t>

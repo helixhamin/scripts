@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Dragon SType:M(Lightning)
+input /echo StrongVS:Demon Mod:Breath
+input /ma "Thunder Breath" <t>

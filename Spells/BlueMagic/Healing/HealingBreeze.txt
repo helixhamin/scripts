@@ -1,0 +1,2 @@
+input /echo Mod:MND-VIT SoftCap:180HP AOE Cure
+input /ma "Healing Breeze" <me>

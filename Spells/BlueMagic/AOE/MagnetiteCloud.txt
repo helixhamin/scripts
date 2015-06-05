@@ -1,0 +1,2 @@
+input /echo AOE:Fan MType:Beastmen SType:M(Earth) AE:Weight
+input /ma "Magnetite Cloud" <t>

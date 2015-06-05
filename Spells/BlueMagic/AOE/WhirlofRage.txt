@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Arcana SType:P(Slashing) AE:Stun
+input /echo StrongVS:Undead Mod:STR/MND 30%
+input /ma "Whirl of Rage" <t>

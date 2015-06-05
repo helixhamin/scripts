@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Luminian SType:M(Water) AE:Poison
+input /echo StrongVS:Lumorian Mod:Breath
+input /ma "Vapor Spray"<t>

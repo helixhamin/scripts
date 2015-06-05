@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Plantoid SType:M(Wind)
+input /echo StrongVS:Beasts WeakVS:Vermin
+input /ma Leafstorm <t>

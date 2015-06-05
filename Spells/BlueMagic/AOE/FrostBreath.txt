@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Lizard SType:M(Ice) AE:Paralysis
+input /echo StrongVS:Vermin WeakVS:Beasts Mod:Breath
+input /ma "Frost Breath" <t>

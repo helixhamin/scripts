@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Plantoid SType:M(Earth) AE:Slow, Poison, Silence, Paralyze, Weight, Bind, Blind
+input /echo StrongVS:Beasts WeakVS:Vermin Mod:Breath
+input /ma "Bad Breath" <t>
