@@ -7,4 +7,5 @@ bind ^6 exec Abilities/DNC/FlourishesII/WildFlourish.txt
 bind ^7 exec Abilities/DNC/FlourishesIII/ClimacticFlourish.txt
 bind ^8 exec Abilities/DNC/FlourishesIII/StrikingFlourish.txt
 bind ^9 exec Abilities/DNC/FlourishesIII/TernaryFlourish.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/DNC/FlourishesMap.txt

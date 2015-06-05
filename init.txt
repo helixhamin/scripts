@@ -27,7 +27,7 @@ drawdistance set 10
 //Bind keys
 //Bind syntax is "bind <key> <up> <command>
 // ^ represents control- and ! is alt, eg !1 is alt-1
-bind != exec Macros/UnbindCtrl.txt
+bind ^= exec Macros/UnbindCtrl.txt
 bind != exec Macros/UnbindAlt.txt
 bind !f10 drawdistance set 10
 bind ^f10 drawdistance set 1

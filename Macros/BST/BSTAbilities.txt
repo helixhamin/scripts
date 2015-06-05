@@ -7,4 +7,5 @@ bind ^6 exec Abilities/BST/Tame.txt
 bind ^7 exec Abilities/BST/FeralHowl.txt
 bind ^8 exec Abilities/BST/KillerInstinct.txt
 bind ^9 exec Abilities/BST/Unleash.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/BST/AbilitiesMap.txt

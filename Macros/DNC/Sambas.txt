@@ -4,4 +4,8 @@ bind ^3 exec Abilities/DNC/Sambas/DrainSambaII.txt
 bind ^4 exec Abilities/DNC/Sambas/HasteSamba.txt
 bind ^5 exec Abilities/DNC/Sambas/AspirSambaII.txt
 bind ^6 exec Abilities/DNC/Sambas/DrainSambaIII.txt
+bind ^7 exec Macros/Nothing.txt
+bind ^8 exec Macros/Nothing.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/DNC/SambasMap.txt

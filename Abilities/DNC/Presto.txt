@@ -1,2 +1,2 @@
-input /echo 
-input /
+input /echo Enhances the effect of your next step and grants you an additional finishing move
+input /ja "Presto" <me>

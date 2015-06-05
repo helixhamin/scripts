@@ -1,7 +1,7 @@
 ctrl:
 1-/console exec Macros/BST/BSTAbilities.txt
 2-/console exec Macros/BST/SUB.txt
-3-/console exec Macros/BST/PetCommands.txt
+3-/console exec Macros/BST/BSTPetAbilities.txt
 4-/console exec Macros/BST/
 5-/console exec Macros/BST/
 6-/console exec Macros/BST/

@@ -4,4 +4,8 @@ bind ^3 exec Abilities/DNC/FanDance.txt
 bind ^4 exec Abilities/DNC/NoFootRise.txt
 bind ^5 exec Abilities/DNC/Presto.txt
 bind ^6 exec Abilities/DNC/GrandPas.txt
+bind ^7 exec Macros/Nothing.txt
+bind ^8 exec Macros/Nothing.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/DNC/AbilitiesMap.txt

@@ -3,5 +3,9 @@ bind ^2 exec Abilities/COR/RandomDeal.txt
 bind ^3 exec Abilities/COR/SnakeEye.txt
 bind ^4 exec Abilities/COR/Fold.txt
 bind ^5 exec Abilities/COR/TripleShot.txt
-bind ^6 exec Abilities/COR/CutCard.txt
+bind ^6 exec Abilities/COR/CuttingCards.txt
+bind ^7 exec Macros/Nothing.txt
+bind ^8 exec Macros/Nothing.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/COR/AbilitiesMap.txt

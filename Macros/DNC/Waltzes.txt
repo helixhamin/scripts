@@ -6,4 +6,6 @@ bind ^5 exec Abilities/DNC/Waltzes/CuringWaltzIII.txt
 bind ^6 exec Abilities/DNC/Waltzes/CuringWaltzIV.txt
 bind ^7 exec Abilities/DNC/Waltzes/DivineWaltzII.txt
 bind ^8 exec Abilities/DNC/Waltzes/CuringWaltzV.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/DNC/WaltzesMap.txt

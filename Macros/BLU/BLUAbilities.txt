@@ -5,4 +5,7 @@ bind ^4 exec Abilities/BLU/Diffusion.txt
 bind ^5 exec Abilities/BLU/Efflux.txt
 bind ^6 exec Abilities/BLU/UnbridledLearning.txt
 bind ^7 exec Abilities/BLU/UnbridledWisdom.txt
+bind ^8 exec Macros/Nothing.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/BLU/AbilitiesMap.txt

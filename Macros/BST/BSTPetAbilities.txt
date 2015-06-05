@@ -6,4 +6,6 @@ bind ^5 exec Abilities/BST/PetCommands/Leave.txt
 bind ^6 exec Abilities/BST/PetCommands/Snarl.txt
 bind ^7 exec Abilities/BST/PetCommands/Spur.txt
 bind ^8 exec Abilities/BST/PetCommands/RunWild.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/BST/PetAbilitiesMap.txt
