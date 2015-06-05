@@ -1,7 +1,12 @@
+send Yuehan input /ja Berserk <me>
+send Weijun input /ja Berserk <me>
+wait 1
+send Weijun input /ja Warcry <me>
+wait 1
 send Yuehan input /ws "Raging Axe" <t>
 wait 4
 send Weijun input /ws "Raging Axe" <t>
 wait 1
 exec Abilities/SCH/DarkArts.txt
 wait 2
-input /ma Aero <t>
+input /ma "Aero II" <t>
