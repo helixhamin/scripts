@@ -1,0 +1,4 @@
+bind ^1 exec Abilities/DNC/Jigs/SpectralJig.txt
+bind ^2 exec Abilities/DNC/Jigs/ChocoboJig.txt
+bind ^3 exec Abilities/DNC/Jigs/ChocoboJigII.txt
+bind ^- exec Macros/DNC/JigsMap.txt

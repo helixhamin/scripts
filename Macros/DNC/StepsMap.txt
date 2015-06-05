@@ -1,0 +1,4 @@
+input /echo 1 = Quickstep
+input /echo 2 = Box Step
+input /echo 3 = Stutter Step
+input /echo 4 = Feather Step

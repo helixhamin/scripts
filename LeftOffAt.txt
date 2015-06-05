@@ -4,3 +4,4 @@ Added BLU Abilities mapping
 Added BRD Abilities mapping
 Added BST and Pet Abilities mapping. Still need to add jug pet side
 Added COR base Abilities mapping. Still need to add Quickdraws and Rolls.
+Added DNC main Abilities. Still need to add Subs.

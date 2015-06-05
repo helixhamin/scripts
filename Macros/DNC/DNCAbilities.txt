@@ -1,0 +1,7 @@
+bind ^1 exec Abilities/DNC/Contradance.txt
+bind ^2 exec Abilities/DNC/SaberDance.txt
+bind ^3 exec Abilities/DNC/FanDance.txt
+bind ^4 exec Abilities/DNC/NoFootRise.txt
+bind ^5 exec Abilities/DNC/Presto.txt
+bind ^6 exec Abilities/DNC/GrandPas.txt
+bind ^- exec Macros/DNC/AbilitiesMap.txt
