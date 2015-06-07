@@ -1,0 +1,13 @@
+input /nin "Hyoton: Ichi" <t>
+wait 10
+input /nin "Katon: Ichi" <t>
+wait 10
+input /nin "Suiton: Ichi" <t>
+wait 10
+input /nin "Raiton: Ichi" <t>
+wait 10
+input /nin "Doton: Ichi" <t>
+wait 10
+input /nin "Huton: Ichi" <t>
+wait 10
+input /echo Elemental wheel ready again

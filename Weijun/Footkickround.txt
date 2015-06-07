@@ -1,0 +1,3 @@
+input /ma "Foot Kick" <t>
+send Yuehan input /ma "Foot Kick" <t>
+send Delaide input /ma "Foot Kick" <t>

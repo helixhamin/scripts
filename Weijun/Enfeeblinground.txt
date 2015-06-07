@@ -1,0 +1,3 @@
+input /ma "Sprout Smack" <t>
+send Yuehan input /ma "Wild Oats" <t>
+send Delaide input /ma "Queasyshroom" <t>

@@ -1,0 +1,5 @@
+send Yuehan input /ws "Double Thrust" <t>
+wait 4
+input /ws "Blade: Retsu" <t>
+wait 3
+send Delaide input /ma Water <t>
