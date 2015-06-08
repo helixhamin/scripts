@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Undead SType:M(Wind) AE:Lowers VIT
+input /echo StrongVS:Arcana
+input /ma "Stinking Gas" <t>

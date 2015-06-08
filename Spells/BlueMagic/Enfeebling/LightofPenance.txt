@@ -1,0 +1,2 @@
+input /echo MType:Beastmen SType:M(Light) AE:Reduce TP, Blind, Bind
+input /ma "Light of Penance" <t>

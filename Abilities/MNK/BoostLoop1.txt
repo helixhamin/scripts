@@ -1,3 +1,3 @@
-input /ja "Boost" <me>
+exec Abilities/MNK/Boost.txt
 wait 15
-exec Abilities/MNK/BoostLoop2.txt
+exec Abilities/MNK/BoostLoop1.txt

@@ -1,0 +1,3 @@
+input /echo MType:Beast SType:M(Fire) AE:Disease
+input /echo StrongVS:Lizards WeakVS:Plantoids
+input /ma Lowing <t>

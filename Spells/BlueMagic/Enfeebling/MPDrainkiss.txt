@@ -1,0 +1,3 @@
+input /echo MType:Amorph SType:M(Dark) AE:Steals MP
+input /echo StrongVS:Birds WeakVS:Aquans
+input /ma "MP Drainkiss" <t>

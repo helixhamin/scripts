@@ -1,0 +1,2 @@
+input /echo Effect:AOE Stoneskin Calculation:Blue Magic Skill X 2/3
+input /ma Diamondhide <me>

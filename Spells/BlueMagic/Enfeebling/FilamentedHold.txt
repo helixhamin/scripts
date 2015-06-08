@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Vermin SType:M(Earth) AE:Reduces ATT speed
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:MND
+input /ma "Filamented Hold" <t>

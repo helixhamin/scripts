@@ -1,0 +1,2 @@
+input /echo Effect:Enhance ACC and EVA
+input /ma "Warm-Up" <me>

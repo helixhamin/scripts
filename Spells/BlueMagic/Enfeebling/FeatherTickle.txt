@@ -1,0 +1,3 @@
+input /echo MType:Bird SType:M(Wind) AE:Reduces TP
+input /echo StrongVS:Aquans WeakVS:Amorphs
+input /ma "Feather Tickle" <t>

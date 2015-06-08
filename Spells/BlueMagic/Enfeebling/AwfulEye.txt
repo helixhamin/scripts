@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Lizard SType:M(Water) AE:Lowers STR
+input /echo StrongVS:Vermin WeakVS:Beasts
+input /ma "Awful Eye" <t>

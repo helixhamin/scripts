@@ -1,0 +1,10 @@
+input /echo 1 = Ninja Roll
+input /echo 2 = Hunter's Roll
+input /echo 3 = Chaos Roll
+input /echo 4 = Drachen Roll
+input /echo 5 = Monk's Roll
+input /echo 6 = Beast Roll
+input /echo 7 = Samurai Roll
+input /echo 8 = Rogue's Roll
+input /echo 9 = Fighter's Roll
+input /echo 0 = Gallant's Roll

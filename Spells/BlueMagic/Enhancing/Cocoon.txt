@@ -1,0 +1,2 @@
+input /echo Effect:DEF+ 50%
+input /ma Cocoon <me>

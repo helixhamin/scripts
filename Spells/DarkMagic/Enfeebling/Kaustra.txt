@@ -1,0 +1,2 @@
+input /echo Consumes 20% of your maximum MP. Relentless dark damage slowly devours an enemy
+input /ma "Kaustra" <t>

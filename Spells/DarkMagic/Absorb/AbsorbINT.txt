@@ -1,0 +1,2 @@
+input /echo Steals an enemy's INT
+input /ma "Absorb-INT" <t>

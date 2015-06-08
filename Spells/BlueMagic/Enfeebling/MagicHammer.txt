@@ -1,0 +1,3 @@
+input /echo MType:Beastmen SType:M(Light) AE:Steals MP
+input /echo Mod:MND 30%
+input /ma "Magic Hammer" <t>

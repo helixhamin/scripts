@@ -1,0 +1,6 @@
+input /echo 1 = Jump
+input /echo 2 = High Jump
+input /echo 3 = Super Jump
+input /echo 4 = Spirit Jump
+input /echo 5 = Soul Jump
+input /echo 6 = Fly High

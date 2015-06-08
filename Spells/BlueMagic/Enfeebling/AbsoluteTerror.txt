@@ -1,0 +1,3 @@
+input /echo MType:Dragon SType:M AE:Fear
+input /echo StrongVS:Demon
+input /ma "Absolute Terror" <t>

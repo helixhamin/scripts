@@ -1,0 +1,2 @@
+input /echo Effect:Stoneskin
+input /ma "Metallic Body" <me>

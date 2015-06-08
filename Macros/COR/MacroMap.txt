@@ -1,10 +1,10 @@
 ctrl:
 1-/console exec Macros/COR/CORAbilities.txt
 2-/console exec Macros/COR/SUB.txt
-3-/console exec Macros/COR/
-4-/console exec Macros/COR/
-5-/console exec Macros/COR/
-6-/console exec Macros/COR/
+3-/console exec Macros/COR/Quickdraw.txt
+4-/console exec Macros/COR/MageRolls.txt
+5-/console exec Macros/COR/MeleeRolls.txt
+6-/console exec Macros/COR/OtherRolls.txt
 7-/console exec Macros/COR/
 8-/console exec Macros/COR/
 9-/console exec Macros/COR/

@@ -1,0 +1,3 @@
+input /echo MType:Beast SType:M(Wind) AE:Silence
+input /echo StrongVS:Lizards WeakVS:Plantoids
+input /ma "Chaotic Eye" <t>

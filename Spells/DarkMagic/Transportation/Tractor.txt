@@ -1,0 +1,2 @@
+input /echo Drags a KO'd target toward you
+input /ma "Tractor" <t>

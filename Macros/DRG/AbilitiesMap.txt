@@ -1,0 +1,4 @@
+input /echo 1 = Call Wyvern
+input /echo 2 = Ancient Circle
+input /echo 3 = Angon
+input /echo 4 = Dragon Breaker

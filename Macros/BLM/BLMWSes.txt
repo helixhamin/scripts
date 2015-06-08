@@ -1,33 +1,40 @@
-Heavy Swing-Staff
-Shining Strike-Ckub
-Wasp Sting-Dagger
-Slice-Scythe
-Dark Harvest-Scythe
-Rock Crusher-Staff
-Seraph Strike-Ckub
-Gust Slash-Dagger
-Earth Crusher-Staff
-Brainshaker-Club
-Shadowstitch-Dagger
-Shadow of Death-Scythe
-Starburst-Staff
-Starlight-Club
-Viper Bite-Dagger
-Nightmare Scythe-Scythe
-Moonlight-Club
-Cyclone-Dagger
-Spinning Scythe-Scythe
-Sunburst-Staff
-Skullbreaker-Club
-Energy Steal-Dagger
-Shell Crusher-Staff
-Vorpal Scythe-Scythe
-True Strike-Club
-Energy Drain-Dagger
-Full Swing-Staff
-Judgment-Club
-Spirit Taker-Staff
-Retribution-Staff
-Black Halo-Club
-Vidohunir-Staff
-Cataclysm-Staff
+Scythe
+Slice
+Dark Harvest
+Shadow of Death
+Nightmare Scythe
+Spinning Scythe
+Vorpal Scythe
+
+Staff:
+Heavy Swing
+Rock Crusher
+Earth Crusher
+Starburst
+Sunburst
+Shell Crusher
+Full Swing
+Spirit Taker
+Retribution
+Vidohunir
+Cataclysm
+
+Club
+Shining Strike
+Seraph Strike
+Brainshaker
+Starlight
+Moonlight
+Skullbreaker
+True Strike
+Judgment
+Black Halo
+
+Dagger
+Wasp Sting
+Gust Slash
+Shadowstitch
+Viper Bite
+Cyclone
+Energy Steal
+Energy Drain

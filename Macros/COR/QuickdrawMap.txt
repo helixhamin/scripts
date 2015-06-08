@@ -1,0 +1,8 @@
+input /echo 1 = Light Shot
+input /echo 2 = Dark Shot
+input /echo 3 = Earth Shot
+input /echo 4 = Fire Shot
+input /echo 5 = Ice Shot
+input /echo 6 = Thunder Shot
+input /echo 7 = Water Shot
+input /echo 8 = Wind Shot

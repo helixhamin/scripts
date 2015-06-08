@@ -1,0 +1,2 @@
+input /echo Effect:Enhance ATT
+input /ma "Triumphant Roar" <me>

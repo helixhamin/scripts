@@ -1,0 +1,2 @@
+input /echo AOE:Around MType:Empty SType:M(Wind) AE:Silence,Blin
+input /ma "Auroral Drape" <t>

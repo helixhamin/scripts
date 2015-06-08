@@ -1,0 +1,2 @@
+input /echo Effect:Blink-4 shadows
+input /ma "Zephyr Mantle" <me>

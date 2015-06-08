@@ -1,0 +1,3 @@
+input /echo MType:Luminion SType:M(Light) AE:Flash
+input /echo StrongVS:Lumorians
+input /ma "Actinic Burst" <t>

@@ -1,0 +1,35 @@
+Melee
+Ninja Roll - Increase EVA, NIN
+Hunter's Roll - RACC and ACC, RNG
+Chaos Roll - ATT, DRK
+Drachen Roll - Pet ACC, DRG
+Monk's Roll - Subtle blow, MNK
+Beast Roll - Pet ATT, BST
+Samurai Roll - Store TP, SAM
+Rogue's Roll - Crit hit rate, THF
+Fighter's Roll - Double ATT, WAR
+Gallant's Roll - Reduce Damage taken, PLD
+
+
+Mage
+Corsair's Roll - Increase exp, COR
+Magus's Roll - MDEF, BLU
+Healer's Roll - Cure potency, WHM
+Choral Roll - Spell interrupt, BRD
+Evoker's Roll - Restore MP, SMN
+Warlock's Roll - MACC, RDM
+Puppet Roll - Pet & party MATT and MACC, PUP
+Wizard's Roll - MATT, BLM
+Dancer's Roll - Regen, DNC
+Scholar's Roll - Conserve MP, SCH
+
+
+Bolter's Roll - Increase movement speed
+Caster's Roll - Enhance fast cast
+Courser's Roll - Snapshot
+Blitzer's Roll - Reduce ATT delay
+Tactician's Roll - Regain
+Allies' Roll - Enhance skillchain ACC and damage
+Miser's Roll - Save TP
+Companion's Roll - Regain + regen
+Avenger's Roll - Counter rate increase

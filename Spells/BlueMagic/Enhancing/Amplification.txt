@@ -1,0 +1,2 @@
+input /echo Effect:Enhance MATT and MDEF
+input /ma Amplification <me>

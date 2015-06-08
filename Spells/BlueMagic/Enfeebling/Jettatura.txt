@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Bird SType:M(Dark) AE:Fear
+input /echo StrongVS:Aquans WeakVS:Amorphs
+input /ma Jettatura <t>

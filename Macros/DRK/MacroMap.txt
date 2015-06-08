@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/DRK/DRKAbilities.txt
+2-/console exec Macros/DRK/SUB.txt
+3-/console exec Macros/DRK/
+4-/console exec Macros/DRK/
+5-/console exec Macros/DRK/
+6-/console exec Macros/DRK/
+7-/console exec Macros/DRK/
+8-/console exec Macros/DRK/
+9-/console exec Macros/DRK/
+0-/console exec Macros/DRK/

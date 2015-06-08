@@ -1,0 +1,2 @@
+input /echo AOE:Around MType:Beastmen SType:M(Dark) AE:Lowers DEF and MDEF
+input /ma Enervation <t>

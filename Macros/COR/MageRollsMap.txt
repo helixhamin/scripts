@@ -1,0 +1,10 @@
+input /echo 1 = Corsair's Roll
+input /echo 2 = Magus's Roll
+input /echo 3 = Healer's Roll
+input /echo 4 = Choral Roll
+input /echo 5 = Evoker's Roll
+input /echo 6 = Warlock's Roll
+input /echo 7 = Puppet Roll
+input /echo 8 = Wizard's Roll
+input /echo 9 = Dancer's Roll
+input /echo 0 = Scholar's Roll

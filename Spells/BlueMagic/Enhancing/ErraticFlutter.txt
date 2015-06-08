@@ -1,0 +1,2 @@
+input /echo Effect:Increased ATT speed
+input /ma "Erratic Flutter" <me>

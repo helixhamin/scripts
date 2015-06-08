@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Bird SType:M(Light) AE:Sleep
+input /echo StrongVS:Aquans WeakVS:Amorphs
+input /ma Yawn <t>

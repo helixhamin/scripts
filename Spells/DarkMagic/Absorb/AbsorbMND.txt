@@ -1,0 +1,2 @@
+input /echo Steals an enemy's MND
+input /ma "Absorb-MND" <t>

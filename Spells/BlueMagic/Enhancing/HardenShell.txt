@@ -1,0 +1,2 @@
+input /echo Effect:Enhance DEF 100%
+input /ma "Harden Shell" <me>

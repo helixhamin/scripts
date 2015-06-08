@@ -1,0 +1,2 @@
+input /echo Temporarily prevents an enemy from acting
+input /ma "Stun" <stnpc>

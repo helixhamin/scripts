@@ -1,0 +1,3 @@
+input /echo AOE:Fan MType:Lizard SType:M(Ice) AE:Lowers EVA
+input /echo StrongVS:Vermin WeakVS:Beasts
+input /ma Infrasonics <t>

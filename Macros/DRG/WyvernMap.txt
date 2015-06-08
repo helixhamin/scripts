@@ -1,0 +1,6 @@
+input /echo 1 = Dismiss
+input /echo 2 = Spirit Link
+input /echo 3 = Deep Breathing
+input /echo 4 = Smiting Breath
+input /echo 5 = Restoring Breath
+input /echo 6 = Steady Wing

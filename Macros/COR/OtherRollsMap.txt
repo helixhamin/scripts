@@ -1,0 +1,9 @@
+input /echo 1 = Bolter's Roll
+input /echo 2 = Caster's Roll
+input /echo 3 = Courser's Roll
+input /echo 4 = Blitzer's Roll
+input /echo 5 = Tactician's Roll
+input /echo 6 = Allies' Roll
+input /echo 7 = Miser's Roll
+input /echo 8 = Companion's Roll
+input /echo 9 = Avenger's Roll

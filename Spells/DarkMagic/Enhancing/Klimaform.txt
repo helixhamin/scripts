@@ -1,0 +1,2 @@
+input /echo Increases the magic accuracy for spells of the same element as the current weather
+input /ma "Klimaform" <me>

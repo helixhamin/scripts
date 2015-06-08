@@ -1,0 +1,2 @@
+input /echo Steals an enemy's beneficial status effects
+input /ma "Absorb-Attri" <t>

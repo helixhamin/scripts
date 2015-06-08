@@ -1,0 +1,2 @@
+input /echo Effect:Refresh
+input /ma "Battery Charge" <me>

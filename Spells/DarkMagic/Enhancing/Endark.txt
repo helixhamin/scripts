@@ -1,0 +1,2 @@
+input /echo Adds dark damage to your attacks
+input /ma "Endark" <me>

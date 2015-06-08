@@ -1,0 +1,2 @@
+input /echo Effect:DEF up + Ice Spikes
+input /ma "Reactor Cool" <me>

@@ -1,0 +1,2 @@
+input /echo Covers you with magical darkness spikes. Steals HP from enemies that hit you
+input /ma "Dread Spikes" <me>

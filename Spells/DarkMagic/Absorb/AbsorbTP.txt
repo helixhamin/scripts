@@ -1,0 +1,2 @@
+input /echo Steals an enemy's TP
+input /ma "Absorb-TP" <t>

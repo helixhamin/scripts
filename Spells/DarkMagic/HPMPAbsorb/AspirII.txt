@@ -1,0 +1,2 @@
+input /echo Steals an enemy's MP
+input /ma "Aspir II" <t>

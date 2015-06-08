@@ -1,0 +1,3 @@
+input /echo AOE:Around MType:Demon SType:M(Wind) AE:Weakens DEF
+input /echo StrongVS:Dragon
+input /ma "Frightful Roar" <t>

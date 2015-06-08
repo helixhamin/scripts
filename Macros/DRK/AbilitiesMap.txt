@@ -1,0 +1,10 @@
+input /echo 1 = Arcane Circle
+input /echo 2 = Last Resort
+input /echo 3 = Weapon Bash
+input /echo 4 = Souleater
+input /echo 5 = Dark Seal
+input /echo 6 = Diabolic Eye
+input /echo 7 = Nether Void
+input /echo 8 = Arcane Crest
+input /echo 9 = Scarlet Delirium
+input /echo 0 = Soul Enslavement

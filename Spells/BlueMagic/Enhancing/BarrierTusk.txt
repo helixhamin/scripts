@@ -1,0 +1,2 @@
+input /echo Effect:Reduce damage taken
+input /ma "Barrier Tusk" <me>

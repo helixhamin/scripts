@@ -1,0 +1,2 @@
+input /echo Effect:Magic Shield
+input /ma "Magic Barrier" <me>

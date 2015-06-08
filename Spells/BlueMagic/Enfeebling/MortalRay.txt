@@ -1,0 +1,3 @@
+input /echo MType:Demon SType:M(Dark) AE:Doom
+input /echo StrongVS:Dragon
+input /ma "Mortal Ray" <t>

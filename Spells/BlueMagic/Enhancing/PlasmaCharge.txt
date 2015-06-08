@@ -1,0 +1,2 @@
+input /echo Effect:Shock Spikes
+input /ma "Plasma Charge" <me>
