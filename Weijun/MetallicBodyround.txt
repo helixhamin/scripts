@@ -1,0 +1,3 @@
+input /ma "Metallic Body" <me>
+send Yuehan input /ma "Metallic Body" <me>
+send Delaide input /ma "Metallic Body" <me>
