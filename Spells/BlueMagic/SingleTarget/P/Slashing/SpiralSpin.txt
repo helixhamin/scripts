@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Slashing) AE:ACC down
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:AGI 30%
+input /ma "Spiral Spin" <t>

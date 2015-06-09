@@ -1,0 +1,3 @@
+input /echo MType:Bird SType:P(Blunt) AE:Knockback
+input /echo StrongVS:Aquans WeakVS:Amorphs Mod:AGI 30%
+input /ma "Helldive" <t>

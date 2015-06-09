@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Blunt)
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:DEF, STR 50%, VIT 50%
+input /ma "Cannonball" <t>

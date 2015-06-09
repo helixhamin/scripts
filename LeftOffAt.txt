@@ -1,5 +1,2 @@
-Finished BLU Enfeebling, Enhancing. Still need to finish single target.
-Dark Magic done
-COR - Completed Quickdraws, Completed Rolls
-Finished DRG Abilities
-Finished DRK Abilities
+BLU Spells done
+Started adding BLU self skillchains. Have added the skillchain folders, wses, and spells. Still need to fill out the actual blank txt files.

@@ -1,0 +1,3 @@
+input /echo MType:Plantoid SType:P(Blunt) AE:Slow
+input /echo StrongVS:Beasts WeakVS:Vermin Mod:VIT 30%
+input /ma "Sprout Smack" <t>

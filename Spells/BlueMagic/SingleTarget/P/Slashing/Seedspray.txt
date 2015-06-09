@@ -1,0 +1,3 @@
+input /echo MType:Plantoid SType:P(Slashing) AE:DEF down
+input /echo StrongVS:Beasts WeakVS:Vermin Mod:DEX 30%
+input /ma "Seedspray" <t>

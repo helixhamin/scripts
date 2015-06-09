@@ -1,0 +1,3 @@
+input /echo MType:Plantoid SType:P(Piercing) AE:Sleep(Sleep is Dark based)
+input /echo StrongVS:Beast WeakVS:Vermin Mod:STR/AGI 20%
+input /ma "Pinecone Bomb" <t>

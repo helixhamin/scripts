@@ -1,0 +1,3 @@
+input /echo MType:Luminion SType:P(Piercing) AE:Poison
+input /echo StrongVS:Lumorian Mod:STR/DEX 20%
+input /ma "Disseverment" <t>

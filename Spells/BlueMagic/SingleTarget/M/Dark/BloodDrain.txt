@@ -1,0 +1,3 @@
+input /echo MType:Bird SType:M(Dark) AE:Steals HP
+input /echo StrongVS:Aquans WeakVS:Amorphs Mod:Blue Magic Skill*.33
+input /ma "Blood Drain" <t>

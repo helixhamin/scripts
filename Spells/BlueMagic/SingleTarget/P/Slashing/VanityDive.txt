@@ -1,0 +1,3 @@
+input /echo MType:Empty SType:P(Slashing)
+input /echo Mod:DEX 50%
+input /ma "Vanity Dive" <t>

@@ -1,0 +1,2 @@
+input /echo MType:Elemental SType:P AE:Paralysis
+input /ma "Paralyzing Triad" <t>

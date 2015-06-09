@@ -1,0 +1,3 @@
+input /echo MType:Beastmen SType:M(Dark)
+input /echo Mod:MND 40%
+input /ma "Evryone. Grudge" <t>

@@ -1,0 +1,3 @@
+input /echo MType:Voragean SType:M(Dark) AE:Steal HP and beneficial effect
+input /echo Mod:Blue Magic Skill*0.77
+input /ma "Osmosis" <t>

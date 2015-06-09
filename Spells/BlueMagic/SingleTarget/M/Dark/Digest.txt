@@ -1,0 +1,3 @@
+input /echo MType:Amorph SType:M(Dark) AE:Steals HP
+input /echo StrongVS:Birds WeakVS:Aquans Mod:Blue Magic Skill*.55
+input /ma "Digest" <t>

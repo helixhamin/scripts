@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Blunt)
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:STR/VIT 10%
+input /ma "Power Attack" <t>

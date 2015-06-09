@@ -1,0 +1,3 @@
+input /echo MType:Demon SType:P(Blunt)
+input /echo StrongVS:Dragons Mod:STR/DEX 20%
+input /ma "Frenetic Rip" <t>

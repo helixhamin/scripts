@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Slashing) AE:Stun, Knockback
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:AGI 40%
+input /ma "Sudden Lunge" <t>

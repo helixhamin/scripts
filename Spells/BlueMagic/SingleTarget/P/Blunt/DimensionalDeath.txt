@@ -1,0 +1,3 @@
+input /echo MType:Undead SType:P(Blunt)
+input /echo StrongVS:Arcana Mod:STR 50%
+input /ma "Dimensional Death" <t>

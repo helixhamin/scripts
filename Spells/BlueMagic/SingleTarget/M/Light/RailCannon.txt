@@ -1,0 +1,3 @@
+input /echo MType:Arcana SType:M(Light)
+input /echo StrongVS:Undead
+input /ma "Rail Cannon" <t>

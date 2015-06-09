@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Slashing)
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:STR 60%
+input /ma "Death Scissors" <t>

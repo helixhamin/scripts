@@ -1,0 +1,3 @@
+input /echo MType:Plantoid SType:P(Blunt)
+input /echo StrongVS:Beasts WeakVS:Vermin Mod:STR 35%
+input /ma "Uppercut" <t>

@@ -1,0 +1,3 @@
+input /echo MType:Demon SType:P(Slashing)
+input /echo StrongVS:Dragons Mod:STR 30%
+input /ma "Quadrastrike" <t>

@@ -1,0 +1,3 @@
+input /echo MType:Undead SType:P(Slashing) AE:Drain
+input /echo StrongVS:Arcana
+input /ma "Bloodrake" <t>

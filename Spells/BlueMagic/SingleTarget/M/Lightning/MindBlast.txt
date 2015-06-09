@@ -1,0 +1,3 @@
+input /echo MType:Demon SType:M(Lightning) AE:Paralysis
+input /echo StrongVS:Dragons Mod:MND 30%
+input /ma "Mind Blast" <t>

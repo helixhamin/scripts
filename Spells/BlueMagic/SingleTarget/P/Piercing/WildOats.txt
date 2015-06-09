@@ -1,0 +1,3 @@
+input /echo MType:Plantoid SType:P(Piercing) AE:VIT down
+input /echo StrongVS:Beasts WeakVS:Vermin Mod:AGI 30%
+input /ma "Wild Oats" <t>

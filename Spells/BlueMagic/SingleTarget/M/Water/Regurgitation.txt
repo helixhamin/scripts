@@ -1,0 +1,3 @@
+input /echo MType:Lizard SType:M(Water) AE:Bind, Knockback
+input /echo StrongVS:Vermin WeakVS:Beasts Mod:MAB, INT, MND 30%
+input /ma "Regurgitation" <t>

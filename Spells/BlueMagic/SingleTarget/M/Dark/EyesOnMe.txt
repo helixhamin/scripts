@@ -1,0 +1,3 @@
+input /echo MType:Demon SType:M(Dark)
+input /echo StrongVS:Dragon Mod:CHR 40%
+input /ma "Eyes On Me" <t>

@@ -1,0 +1,3 @@
+input /echo MType:Beastmen SType:P(Blunt)
+input /echo Mod:DEX 30%
+input /ma "Hysteric Barrage" <t>

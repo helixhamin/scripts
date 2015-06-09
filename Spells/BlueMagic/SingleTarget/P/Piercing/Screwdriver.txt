@@ -1,0 +1,3 @@
+input /echo MType:Aquan SType:P(Piercing)
+input /echo StrongVS:Amorphs WeakVS:Birds Mod:STR/MND 20%
+input /ma "Screwdriver" <t>

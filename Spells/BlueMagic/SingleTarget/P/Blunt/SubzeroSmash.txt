@@ -1,0 +1,3 @@
+input /echo MType:Aquan SType:P(Blunt) AE:Paralysis
+input /echo StrongVS:Amorphs WeakVS:Birds Mod:MND
+input /ma "Sub-zero Smash" <t>

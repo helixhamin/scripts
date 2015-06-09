@@ -1,0 +1,3 @@
+input /echo MType:Demon SType:M(Dark)
+input /echo StrongVS:Dragons Mod:INT 40%
+input /ma "Dark Orb" <t>

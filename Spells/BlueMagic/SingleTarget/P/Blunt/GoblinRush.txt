@@ -1,0 +1,3 @@
+input /echo MType:Beastmen SType:P(Blunt)
+input /echo Mod:STR/DEX 30%
+input /ma "Goblin Rush" <t>

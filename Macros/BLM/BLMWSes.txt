@@ -1,7 +1,7 @@
 Scythe
 Slice
 Dark Harvest
-Shadow of Death
+Shadow of Death (Only with SJ DRK/WAR)
 Nightmare Scythe
 Spinning Scythe
 Vorpal Scythe
@@ -9,32 +9,32 @@ Vorpal Scythe
 Staff:
 Heavy Swing
 Rock Crusher
-Earth Crusher
+Earth Crusher (Only with SJ GEO/PLD/WAR/MNK/WHM)
 Starburst
-Sunburst
+Sunburst (Only with SJ GEO/PLD/WAR/MNK/WHM)
 Shell Crusher
 Full Swing
 Spirit Taker
 Retribution
 Vidohunir
-Cataclysm
+Cataclysm (Only with SJ GEO/PLD/WAR/MNK/WHM)
 
 Club
 Shining Strike
-Seraph Strike
+Seraph Strike  (Only with SJ PLD/WHM/GEO/WAR/DRK/BLU/SAM)
 Brainshaker
 Starlight
-Moonlight
+Moonlight (Only with SJ PLD/WHM/GEO/WAR/DRK/BLU/SAM)
 Skullbreaker
 True Strike
-Judgment
+Judgment (Only with SJ PLD/WHM/GEO/WAR/DRK/BLU/SAM)
 Black Halo
 
 Dagger
 Wasp Sting
 Gust Slash
 Shadowstitch
-Viper Bite
-Cyclone
+Viper Bite (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)
+Cyclone (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)
 Energy Steal
-Energy Drain
+Energy Drain (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)

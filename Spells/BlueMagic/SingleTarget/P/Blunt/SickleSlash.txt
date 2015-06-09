@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Blunt)
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:DEX 50%
+input /ma "Sickle Slash" <t>

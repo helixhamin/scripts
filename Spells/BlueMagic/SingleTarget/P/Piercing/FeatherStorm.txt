@@ -1,0 +1,3 @@
+input /echo MType:Beastmen SType:P(Piercing) AE:Poison
+input /echo Mod:AGI 30%
+input /ma "Feather Storm" <t>

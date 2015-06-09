@@ -1,0 +1,3 @@
+input /echo MType:Vermin SType:P(Piercing) AE:Reduces caster HP to 1
+input /echo StrongVS:Plantoids WeakVS:Lizards Mod:Current HP
+input /ma "Final Sting" <t>

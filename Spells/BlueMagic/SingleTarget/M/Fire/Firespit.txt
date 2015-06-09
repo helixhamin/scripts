@@ -1,0 +1,3 @@
+input /echo MType:Beastmen SType:M(Fire)
+input /echo Mod:INT/MND 20%
+input /ma "Firespit" <t>

@@ -1,0 +1,3 @@
+input /echo MType:Undead SType:P(Slashing) AE:ACC down
+input /echo StrongVS:Arcana Mod:DEX 50%
+input /ma "Barbed Crescent" <t>

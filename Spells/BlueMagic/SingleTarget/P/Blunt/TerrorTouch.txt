@@ -1,0 +1,3 @@
+input /echo MType:Undead SType:P(Blunt) AE:ATT down
+input /echo StrongVS:Arcana Mod:DEX/INT 20%
+input /ma "Terror Touch" <t>

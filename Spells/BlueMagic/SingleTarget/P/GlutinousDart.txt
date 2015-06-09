@@ -1,0 +1,2 @@
+input /echo MType:Beastmen SType:P
+input /ma "Glutinous Dart" <t>

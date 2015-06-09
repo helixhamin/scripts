@@ -1,0 +1,3 @@
+input /echo MType:Empty SType:P(Piercing)
+input /echo Mod:STR/VIT 32%
+input /ma "Quad. Continuum" <t>

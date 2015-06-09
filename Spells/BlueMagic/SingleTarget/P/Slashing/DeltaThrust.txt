@@ -1,0 +1,3 @@
+input /echo MType:Lizard SType:P(Slashing) AE:Plague
+input /echo StrongVS:Vermin WeakVS:Beasts Mod:VIT 50%, STR 20%
+input /ma "Delta Thrust" <t>

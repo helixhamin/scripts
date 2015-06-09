@@ -1,0 +1,3 @@
+input /echo MType:Amorph SType:M(Water) AE:ATT/DEF down
+input /echo StrongVS:Birds WeakVS:Aquans Mod:INT 20%
+input /ma "Corrosive Ooze" <t>

@@ -1,3 +1,0 @@
-input /echo AOE:Around MType:Undead SType:M(Dark) AE:Steals HP
-input /echo StrongVS:Arcana
-input /ma "Blood Saber" <me>

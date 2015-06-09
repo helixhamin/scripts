@@ -1,0 +1,3 @@
+input /echo MType:Beast SType:P AE:DEF down
+input /echo StrongVS:Lizards WeakVS:Plantoids
+input /ma "Sweeping Gouge" <t>
