@@ -1,0 +1,3 @@
+input /echo Delivers a short-ranged twofold attack. Accuracy varies with TP
+input /echo Mod: AGI 70%
+input /ws "Blast Shot" <t>

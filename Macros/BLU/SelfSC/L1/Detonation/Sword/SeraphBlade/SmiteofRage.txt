@@ -1,0 +1,5 @@
+exec WeaponSkills/Sword/SeraphBlade.txt
+wait 2
+exec Abilities/BLU/ChainAffinity.txt
+wait 2
+exec Spells/BlueMagic/SingleTarget/P/Slashing/SmiteofRage.txt

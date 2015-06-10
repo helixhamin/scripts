@@ -1,0 +1,3 @@
+input /echo Light elemental damage. Damage varies with TP
+input /echo Mod: CHR 60%, DEX 30%
+input /ws "Primal Rend" <t>

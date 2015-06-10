@@ -1,0 +1,3 @@
+input /echo Accuracy varies with TP
+input /echo Mod: MND/INT 50%
+input /ws Exudation <t>

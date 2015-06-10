@@ -1,0 +1,3 @@
+input /echo Fire elemental damage. Damage varies with TP
+input /echo Mod: AGI 70%
+input /ws "Hot Shot" <t>

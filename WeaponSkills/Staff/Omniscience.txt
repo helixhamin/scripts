@@ -1,0 +1,3 @@
+input /echo Darkness elemental damage. Lowers target's magic attack
+input /echo Mod: MND 80%
+input /ws "Omniscience" <t>

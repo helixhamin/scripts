@@ -1,3 +1,5 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo AOE:Around MType:Vermin SType:M(Wind) AE:Dispel
 input /echo StrongVS:Plantoids WeakVS:Lizards
 input /ma "Droning Whirlwind" <t>

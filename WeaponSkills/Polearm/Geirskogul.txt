@@ -1,0 +1,3 @@
+input /echo Shock Spikes
+input /echo Mod: DEX 80%
+input /ws "Geirskogul" <t>

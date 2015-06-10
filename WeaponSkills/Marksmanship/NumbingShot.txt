@@ -1,0 +1,3 @@
+input /echo Delivers a short-ranged attack that deals triple damage. AE: Paralysis
+input /echo Mod: AGI 80%
+input /ws "Numbing Shot" <t>

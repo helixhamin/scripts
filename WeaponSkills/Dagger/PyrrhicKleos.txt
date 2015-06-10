@@ -1,0 +1,3 @@
+input /echo Delivers a fourfold attack that lowers target's evasion
+input /echo Mod: STR/DEX 40%
+input /ws "Pyrrhic Kleos" <t>

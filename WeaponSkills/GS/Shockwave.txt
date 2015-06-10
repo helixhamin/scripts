@@ -1,0 +1,3 @@
+input /echo Delivers an area attack that puts target to sleep
+input /echo Mod: STR/MND 30%
+input /ws "Shockwave" <t>

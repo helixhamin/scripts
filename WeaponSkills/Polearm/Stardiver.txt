@@ -1,0 +1,3 @@
+input /echo Delivers a fourfold attack that reduces critical hit evasion
+input /echo Mod: STR (73% / 76% / 79% / 82% / 85%)
+input /ws "Stardiver" <t>

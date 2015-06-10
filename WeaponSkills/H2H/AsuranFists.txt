@@ -1,0 +1,3 @@
+input /echo Delivers an eightfold attack. Accuracy varies with TP
+input /echo Mod: STR/VIT 15%
+input /ws "Asuran Fists" <t>

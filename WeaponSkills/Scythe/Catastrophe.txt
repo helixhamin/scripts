@@ -1,0 +1,3 @@
+input /echo Converts damage dealt into own HP
+input /echo Mod: STR/INT 40%
+input /ws "Catastrophe" <t>

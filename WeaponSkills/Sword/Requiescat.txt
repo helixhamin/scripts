@@ -1,0 +1,3 @@
+input /echo Delivers a fivefold attack of non-elemental damage
+input /echo Mod: MND (73% / 76% / 79% / 82% / 85%)
+input /ws "Requiescat" <t>

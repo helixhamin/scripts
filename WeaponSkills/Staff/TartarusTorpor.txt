@@ -1,0 +1,3 @@
+input /echo Puts to sleep enemies within the area of effect and lowers their magical defense and magical evasion
+input /echo Mod:STR/INT 30% 
+input /ws "Tartarus Torpor" <t>

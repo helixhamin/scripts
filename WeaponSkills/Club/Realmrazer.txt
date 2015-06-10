@@ -1,0 +1,3 @@
+input /echo Sevenfold attack. ACC varies with TP
+input /echo Mod: MND (73%, 76%, 79%, 82%, 85%)
+input /ws Realmrazer <t>

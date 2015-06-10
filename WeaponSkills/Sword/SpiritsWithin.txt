@@ -1,0 +1,3 @@
+input /echo Damage varies with current HP and TP
+input /echo Mod: Current HP
+input /ws "Spirits Within" <t>

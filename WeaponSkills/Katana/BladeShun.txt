@@ -1,0 +1,3 @@
+input /echo Delivers a fivefold attack. Attack power varies with TP
+input /echo Mod: DEX (73% / 76% / 79% / 82% / 85%)
+input /ws "Blade: Shun" <t>

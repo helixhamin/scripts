@@ -1,0 +1,3 @@
+input /echo Lowers targets's INT
+input /echo Mod: STR 100%
+input /ws Skullbreaker <t>

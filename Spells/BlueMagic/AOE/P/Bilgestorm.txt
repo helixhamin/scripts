@@ -1,3 +1,5 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo AOE:Around MType:Demon SType:P(?) AE:ATT/ACC/DEF down
 input /echo StrongVS:Dragon
 input /ma Bilgestorm <t>

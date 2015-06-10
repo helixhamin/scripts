@@ -1,0 +1,3 @@
+input /echo Light elemental damage. Damage varies with TP
+input /echo Mod: STR 50%, MND 30%
+input /ws "Tachi: Koki" <t>

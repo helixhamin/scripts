@@ -1,0 +1,3 @@
+input /echo Regen 10HP/Tick, duration varies with TP
+input /echo Mod: STR/MND 40%
+input /ws "Knights of Round" <t>

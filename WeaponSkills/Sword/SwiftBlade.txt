@@ -1,0 +1,3 @@
+input /echo Delivers a threefold attack. Accuracy varies with TP
+input /echo Mod: STR/MND 50%
+input /ws "Swift Blade" <t>

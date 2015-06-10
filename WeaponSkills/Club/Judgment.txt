@@ -1,0 +1,3 @@
+input /echo Delivers a single-hit attack. Damage varies with TP
+input /echo Mod: STR/MND 50%
+input /ws Judgment <t>

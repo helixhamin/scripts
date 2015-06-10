@@ -1,0 +1,3 @@
+input /echo Enmity -20
+input /echo Mod: DEX/AGI 40%
+input /ws "Coronach" <t>

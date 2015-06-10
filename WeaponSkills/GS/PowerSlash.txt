@@ -1,0 +1,3 @@
+input /echo Deals critical damage. Critical chance varies with TP
+input /echo Mod: STR/VIT 60%
+input /ws "Power Slash" <t>

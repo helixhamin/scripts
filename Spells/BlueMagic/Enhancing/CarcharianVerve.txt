@@ -1,2 +1,4 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo Effect:Grants Attack Boost, Magic Attack Boost, and Aquaveil effect
 input /ma "Carcharian Verve" <me>

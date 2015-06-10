@@ -1,0 +1,3 @@
+input /echo Deals double damage and Poisons target
+input /echo Mod: DEX 100%
+input /ws "Viper Bite" <t>

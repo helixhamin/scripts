@@ -1,0 +1,3 @@
+input /echo Delivers a fivefold attack. Accuracy varies with TP
+input /echo Mod: DEX/CHR 40%
+input /ws "Dancing Edge" <t>

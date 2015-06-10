@@ -1,0 +1,3 @@
+input /echo Water elemental damage. Damage varies with TP
+input /echo Mod: STR/INT 30%
+input /ws "Blade: Teki" <t>

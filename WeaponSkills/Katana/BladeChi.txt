@@ -1,0 +1,3 @@
+input /echo Delivers a twofold attack that deals earth elemental damage
+input /echo Mod: STR/INT 30%
+input /ws "Blade: Chi" <t>

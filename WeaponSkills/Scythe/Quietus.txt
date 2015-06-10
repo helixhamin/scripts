@@ -1,0 +1,3 @@
+input /echo Delivers a triple damage attack that ignores target's defense
+input /echo Mod: STR/MND 60%
+input /ws "Quietus" <t>

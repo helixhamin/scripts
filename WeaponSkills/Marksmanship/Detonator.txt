@@ -1,0 +1,3 @@
+input /echo Damage varies with TP
+input /echo Mod: AGI 70%
+input /ws "Detonator" <t>

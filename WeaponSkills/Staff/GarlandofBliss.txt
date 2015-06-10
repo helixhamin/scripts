@@ -1,0 +1,3 @@
+input /echo Light elemental damage. Lowers target's defense
+input /echo Mod: MND 70%, STR 30%
+input /ws "Garland of Bliss" <t>

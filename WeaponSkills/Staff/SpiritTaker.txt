@@ -1,0 +1,3 @@
+input /echo Converts damage dealt into own MP
+input /echo Mod: INT/MND 50%
+input /ws "Spirit Taker" <t>

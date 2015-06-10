@@ -1,0 +1,3 @@
+input /echo Deals quadruple damage. Chance of critical hit varies with TP
+input /echo Mod: AGI 80%
+input /ws "Blade: Hi" <t>

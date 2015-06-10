@@ -1,0 +1,11 @@
+bind ^1 exec 
+bind ^2 exec 
+bind ^3 exec 
+bind ^4 exec 
+bind ^5 exec 
+bind ^6 exec 
+bind ^7 exec 
+bind ^8 exec 
+bind ^9 exec 
+bind ^0 exec Macros/Nothing.txt
+bind ^- exec Macros/BLU/UnbridledLearningMap.txt

@@ -1,0 +1,3 @@
+input /echo Darkness elemental damage. Additional effect: Lowers target's attack
+input /echo Mod: INT 70%, STR 30%
+input /ws "Infernal Scythe" <t>

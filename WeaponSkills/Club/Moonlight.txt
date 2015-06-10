@@ -1,0 +1,3 @@
+input /echo Restores MP for party members in range
+input /echo Mod: Club Skill/9 - 1
+input /ws Moonlight <t>

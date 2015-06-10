@@ -1,0 +1,3 @@
+input /echo Light elemental damage. Damage varies with TP
+input /echo Mod: AGI 100%
+input /ws "Trueflight" <t>

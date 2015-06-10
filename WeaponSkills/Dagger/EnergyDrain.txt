@@ -1,0 +1,3 @@
+input /echo Steals MP. Amount stolen varies with TP
+input /echo Mod: MND 100%
+input /ws "Energy Drain" <t>

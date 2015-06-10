@@ -1,0 +1,3 @@
+input /echo Poisons target. Duration of effect varies with TP
+input /echo Mod: DEX 100%
+input /ws "Wasp Sting" <t>

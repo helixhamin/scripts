@@ -1,0 +1,3 @@
+input /echo Darkness elemental damage. Damage varies with TP
+input /echo Mod: AGI 100%
+input /ws "Leaden Salute" <t>

@@ -1,0 +1,3 @@
+input /echo Delivers a twofold attack. Damage varies with TP
+input /echo Mod: DEX 80%
+input /ws "Dimidiation" <t>

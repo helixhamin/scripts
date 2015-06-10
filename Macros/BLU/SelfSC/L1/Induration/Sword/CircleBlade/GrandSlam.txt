@@ -1,0 +1,5 @@
+exec WeaponSkills/Sword/CircleBlade.txt
+wait 2
+exec Abilities/BLU/ChainAffinity.txt
+wait 2
+exec Spells/BlueMagic/AOE/P/Blunt/GrandSlam.txt

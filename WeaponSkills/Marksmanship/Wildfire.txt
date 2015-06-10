@@ -1,0 +1,3 @@
+input /echo Fire elemental damage. Enmity generation varies with TP
+input /echo Mod: AGI 60%
+input /ws "Wildfire" <t>

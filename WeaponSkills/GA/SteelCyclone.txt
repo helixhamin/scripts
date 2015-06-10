@@ -1,0 +1,3 @@
+input /echo Damage varies with TP
+input /echo Mod: STR/VIT 60%
+input /ws "Steel Cyclone" <t>

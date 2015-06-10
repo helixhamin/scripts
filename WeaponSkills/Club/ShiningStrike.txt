@@ -1,0 +1,3 @@
+input /echo Light elemental damage
+input /echo Mod: STR/MND 40%
+input /ws "Shining Strike" <t>

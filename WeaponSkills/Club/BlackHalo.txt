@@ -1,0 +1,3 @@
+input /echo Twofold attack. Damage varies with TP
+input /echo Mod: MND 70%, STR 30%
+input /ws "Black Halo" <t>

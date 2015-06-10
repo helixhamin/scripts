@@ -1,0 +1,3 @@
+input /echo Deals critical damage and lowers target's INT
+input /echo Mod: AGI 70%
+input /ws "Sniper Shot" <t>

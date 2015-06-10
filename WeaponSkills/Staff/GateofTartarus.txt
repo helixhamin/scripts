@@ -1,0 +1,3 @@
+input /echo Lowers target's attack
+input /echo Mod: INT 80%
+input /ws "Gate of Tartarus" <t>

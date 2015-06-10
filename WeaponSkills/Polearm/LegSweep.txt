@@ -1,0 +1,3 @@
+input /echo Stuns target. Chance of stunning varies with TP
+input /echo Mod: STR 100%
+input /ws "Leg Sweep" <t>

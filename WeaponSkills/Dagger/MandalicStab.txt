@@ -1,0 +1,3 @@
+input /echo Damage Varies with TP
+input /echo Mod: DEX 60%
+input /ws "Mandalic Stab" <t>

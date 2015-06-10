@@ -1,2 +1,4 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo Effect:Enhance DEF 100%
 input /ma "Harden Shell" <me>

@@ -1,3 +1,5 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo AOE:Around MType:Arcana SType:P(Blunt) AE:Weaken DEF
 input /echo StrongVS:Undead Mod: STR/MND 25%
 input /ma Tourbillion <t>

@@ -1,0 +1,3 @@
+input /echo Lowers target's attack. Duration of effect varies with TP
+input /echo Mod: STR/VIT 60%
+input /ws "Weapon Break" <t>

@@ -1,0 +1,3 @@
+input /echo Delivers a threefold attack that lowers target's MEVA
+input /echo Mod: MND 50%, STR 30%
+input /ws "Death Blossom" <t>

@@ -1,0 +1,3 @@
+input /echo Restores MP
+input /echo Mod: Club Skill
+input /ws Starlight <t>

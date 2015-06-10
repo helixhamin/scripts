@@ -1,0 +1,3 @@
+input /echo Earth elemental damage. Damage varies with TP
+input /echo Mod: STR/INT 40%
+input /ws "Rock Crusher" <t>

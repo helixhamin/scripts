@@ -1,2 +1,4 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo Effect:Single attack immunity
 input /ma "Pyric Bulwark" <me>

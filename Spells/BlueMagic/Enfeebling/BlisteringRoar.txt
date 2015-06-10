@@ -1,3 +1,5 @@
+exec Abilities/BLU/UnbridledLearning.txt
+wait 1
 input /echo AOE:Around MType:Lizard AE:Fear
 input /echo StrongVS:Vermin WeakVS:Beasts
 input /ma "Blistering Roar" <t>

@@ -1,0 +1,3 @@
+input /echo Lowers enemy's defense. Duration of effect varies with TP
+input /echo Mod: STR 100%
+input /ws "Shell Crusher" <t>

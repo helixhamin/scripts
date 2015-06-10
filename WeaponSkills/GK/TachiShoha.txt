@@ -1,0 +1,3 @@
+input /echo Delivers a two-hit attack. Damage varies with TP
+input /echo Mod: STR (73% / 76% / 79% / 82% / 85%)
+input /ws "Tachi: Shoha" <t>

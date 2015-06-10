@@ -1,0 +1,3 @@
+input /echo Delivers an area attack. Radius varies with TP
+input /echo Mod: STR 60%
+input /ws "Fell Cleave" <t>

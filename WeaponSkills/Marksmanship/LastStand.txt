@@ -1,0 +1,3 @@
+input /echo Delivers a twofold attack. Damage varies with TP
+input /echo Mod: AGI (73% / 76% / 79% / 82% / 85%)
+input /ws "Last Stand" <t>

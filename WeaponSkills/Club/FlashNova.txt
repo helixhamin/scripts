@@ -1,0 +1,3 @@
+input /echo Light elemental damage. AE: Flash
+input /echo Mod: STR/MND 50%
+input /ws "Flash Nova" <t>

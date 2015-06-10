@@ -1,0 +1,3 @@
+input /echo Earth elemental damage to enemies within the area of effect
+input /echo Mod: STR/INT 40%
+input /ws "Earth Crusher" <t>

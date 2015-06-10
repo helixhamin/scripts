@@ -1,0 +1,3 @@
+input /echo Deals fire elemental damage to enemy
+input /echo Mod: STR/INT 40%
+input /ws "Red Lotus Blade" <t>

@@ -1,0 +1,3 @@
+input /echo Delivers a four-hit attack. Damage varies with TP
+input /echo Mod: VIT (73% / 76% / 79% / 82% / 85%)
+input /ws "Upheaval" <t>

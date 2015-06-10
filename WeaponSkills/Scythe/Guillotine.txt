@@ -1,0 +1,3 @@
+input /echo Delivers a fourfold attack that silences target
+input /echo Mod: MND 50%, STR 30%
+input /ws "Guillotine" <t>

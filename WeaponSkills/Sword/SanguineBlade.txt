@@ -1,0 +1,3 @@
+input /echo Drains target's HP. Amount drained varies with TP
+input /echo Mod: MND 50%, STR 30%
+input /ws "Sanguine Blade" <t>

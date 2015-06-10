@@ -1,0 +1,3 @@
+input /echo Lightning elemental damage. Damage varies with TP
+input /echo Mod: STR/MND 40%
+input /ws "Cloudsplitter" <t>

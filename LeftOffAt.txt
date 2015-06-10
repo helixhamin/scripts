@@ -1,2 +1,4 @@
-BLU Spells done
-Started adding BLU self skillchains. Have added the skillchain folders, wses, and spells. Still need to fill out the actual blank txt files.
+Finished setting up BLU solo SCes. Still need to test
+Added Unbridled Learning to BLU spells that require it, so it will use the ability before it uses the spell.
+Finished Weapon skills.
+Started scripting more BLU binds.

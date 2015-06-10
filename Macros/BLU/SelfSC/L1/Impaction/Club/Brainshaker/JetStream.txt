@@ -1,0 +1,5 @@
+exec WeaponSkills/Club/Brainshaker.txt
+wait 2
+exec Abilities/BLU/ChainAffinity.txt
+wait 2
+exec Spells/BlueMagic/SingleTarget/P/Blunt/JetStream.txt

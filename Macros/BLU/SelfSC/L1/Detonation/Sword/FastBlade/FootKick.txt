@@ -1,0 +1,5 @@
+exec WeaponSkills/Sword/FastBlade.txt
+wait 2
+exec Abilities/BLU/ChainAffinity.txt
+wait 2
+exec Spells/BlueMagic/SingleTarget/P/Slashing/FootKick.txt

@@ -1,0 +1,11 @@
+input /echo ` = Sword 2
+input /echo 1 = Fast Blade
+input /echo 2 = Burning Blade
+input /echo 3 = Red Lotus Blade
+input /echo 4 = Flat Blade
+input /echo 5 = Shining Blade
+input /echo 6 = Seraph Blade
+input /echo 7 = Circle Blade
+input /echo 8 = Spirits Within
+input /echo 9 = Vorpal Blade
+input /echo 0 = Swift Blade

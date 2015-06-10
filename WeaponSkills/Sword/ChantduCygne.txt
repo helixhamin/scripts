@@ -1,0 +1,3 @@
+input /echo Delivers a threefold attack. Chance of critical hit varies with TP
+input /echo Mod: DEX 80%
+input /ws "Chant du Cygne" <t>

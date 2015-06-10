@@ -1,0 +1,5 @@
+exec WeaponSkills/Sword/ChantduCynge.txt
+wait 2
+exec Abilities/BLU/ChainAffinity.txt
+wait 1
+exec Spells/BlueMagic/AOE/P/Blunt/Tourbillion.txt

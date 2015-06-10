@@ -1,0 +1,3 @@
+input /echo Deals critical damage. Chance of critical hit varies with TP
+input /echo Mod: AGI 50%, STR 20%
+input /ws "Arching Arrow" <t>

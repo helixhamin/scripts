@@ -1,0 +1,3 @@
+input /echo Blinds enemy. Duration of blindness varies with TP
+input /echo Mod: STR/MND 60%
+input /ws "Nightmare Scythe" <t>

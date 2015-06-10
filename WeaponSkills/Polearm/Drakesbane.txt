@@ -1,0 +1,3 @@
+input /echo Delivers a fourfold attack. Chance of critical hit varies with TP
+input /echo Mod: STR 50%
+input /ws "Drakesbane" <t>

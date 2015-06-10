@@ -1,0 +1,3 @@
+input /echo Delivers a fivefold attack. Damage varies with TP
+input /echo Mod: STR (73% / 76% / 79% / 82% / 85%)
+input /ws "Resolution" <t>

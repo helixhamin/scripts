@@ -1,0 +1,3 @@
+input /echo Deals critical damage. ACC varies with TP
+input /echo Mod: STR 100%
+input /ws "True Strike" <t>

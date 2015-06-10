@@ -1,0 +1,3 @@
+input /echo Delivers a twofold attack. Damage varies with TP
+input /echo Mod: DEX/AGI 40%
+input /ws "Shark Bite" <t>

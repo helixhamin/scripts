@@ -1,0 +1,3 @@
+input /echo Delivers a threefold attack. Damage varies with TP
+input /echo Mod: STR/DEX 30%
+input /ws "Combo" <t>

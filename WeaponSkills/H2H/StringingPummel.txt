@@ -1,0 +1,3 @@
+input /echo Delivers a sixfold attack. Chance of critical hit varies with TP
+input /echo Mod: STR/VIT 32%
+input /ws "Stringing Pummel" <t>

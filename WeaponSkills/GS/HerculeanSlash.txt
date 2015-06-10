@@ -1,0 +1,3 @@
+input /echo Paralyzes target. Duration of effect varies with TP
+input /echo Mod: VIT 80%
+input /ws "Herculean Slash" <t>

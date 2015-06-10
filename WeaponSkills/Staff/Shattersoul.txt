@@ -1,0 +1,3 @@
+input /echo Delivers a threefold attack that lowers target's magical defense
+input /echo Mod: INT (73% / 76% / 79% / 82% / 85%)
+input /ws "Shattersoul" <t>

@@ -1,0 +1,3 @@
+input /echo Paralyzes target. Damage varies with TP
+input /echo Mod: STR 75%
+input /ws "Tachi: Kasha" <t>

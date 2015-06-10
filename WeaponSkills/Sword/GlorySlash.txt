@@ -1,0 +1,2 @@
+input /echo Delivers an area attack that deals triple damage
+input /ws "Glory Slash" <t>

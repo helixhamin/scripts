@@ -1,0 +1,3 @@
+input /echo Temporarily improves Ranged Accuracy
+input /echo Mod: STR/AGI 40%
+input /ws "Namas Arrow" <t>

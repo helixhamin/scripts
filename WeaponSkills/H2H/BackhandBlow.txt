@@ -1,0 +1,3 @@
+input /echo Deals critical damage. Chance of critial hit varies with TP
+input /echo Mod: STR/DEX 50%
+input /ws "Backhand Blow" <t>

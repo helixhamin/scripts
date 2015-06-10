@@ -1,0 +1,3 @@
+input /echo Fire elemental damage. Damage varies with TP
+input /echo Mod: AGI 50%, STR 20%
+input /ws "Flaming Arrow" <t>

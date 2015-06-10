@@ -1,0 +1,3 @@
+input /echo Lowers target's defense. Duration of effect varies with TP
+input /echo Mod: STR/VIT 60%
+input /ws "Armor Break" <t>

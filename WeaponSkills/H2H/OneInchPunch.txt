@@ -1,0 +1,3 @@
+input /echo Delivers an attack that ignores target's defense
+input /echo Mod: VIT 100%
+input /ws "One Inch Punch" <t>

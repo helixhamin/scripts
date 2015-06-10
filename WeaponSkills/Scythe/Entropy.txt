@@ -1,0 +1,3 @@
+input /echo Delivers a fourfold attack that converts damage dealt into own MP
+input /echo Mod: INT (73% / 76% / 79% / 82% / 85%)
+input /ws "Entropy" <t>

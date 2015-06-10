@@ -1,0 +1,3 @@
+input /echo Delivers a twofold attack that slows target
+input /echo Mod: STR 80%
+input /ws "Ukko's Fury" <t>

@@ -1,0 +1,3 @@
+input /echo Chance of critical hit varies with TP
+input /echo Mod: STR/VIT 50%
+input /ws "Ascetic's Fury" <t>

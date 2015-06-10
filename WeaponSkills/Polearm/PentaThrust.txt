@@ -1,0 +1,3 @@
+input /echo Delivers a fivefold attack. Accuracy varies with TP
+input /echo Mod: STR/DEX 20%
+input /ws "Penta Thrust" <t>

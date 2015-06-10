@@ -1,0 +1,3 @@
+input /echo Fire elemental damage. Damage varies with TP
+input /echo Mod: STR/INT 40%
+input /ws "Burning Blade" <t>

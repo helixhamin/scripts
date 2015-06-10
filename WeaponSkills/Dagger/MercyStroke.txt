@@ -1,0 +1,3 @@
+input /echo Critical Hit Rate +5%
+input /echo Mod: STR 80%
+input /ws "Mercy Stroke" <t>

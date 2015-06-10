@@ -1,0 +1,3 @@
+input /echo Lowers target's defense
+input /echo Mod: CHR 60%, STR 40%
+input /ws "Tachi: Ageha" <t>

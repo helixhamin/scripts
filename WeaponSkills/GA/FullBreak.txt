@@ -1,0 +1,3 @@
+input /echo Lowers accuracy, weakens attacks and defense, and impairs evasion of target
+input /echo Mod: STR/VIT 50%
+input /ws "Full Break" <t>

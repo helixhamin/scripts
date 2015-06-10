@@ -1,0 +1,3 @@
+input /echo Wind elemental damage. Chokes target
+input /echo Mod: STR 100%
+input /ws "Gale Axe" <t>

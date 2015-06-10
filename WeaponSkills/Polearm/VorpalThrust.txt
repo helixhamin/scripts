@@ -1,0 +1,3 @@
+input /echo Deals critical damage. Chance of critical varies with TP
+input /echo Mod: STR/AGI 50%
+input /ws "Vorpal Thrust" <t>

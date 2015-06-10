@@ -1,0 +1,3 @@
+input /echo Delivers an area attack. Damage varies with TP
+input /echo Mod: STR/DEX 40%
+input /ws "Sonic Thrust" <t>

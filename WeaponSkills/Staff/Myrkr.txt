@@ -1,0 +1,3 @@
+input /echo Restores MP and removes status ailments
+input /echo Mod: Max MP
+input /ws "Myrkr" <t>

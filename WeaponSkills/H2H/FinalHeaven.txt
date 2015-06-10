@@ -1,0 +1,3 @@
+input /echo Subtle Blow +10
+input /echo Mod: VIT 80%
+input /ws "Final Heaven" <t>
