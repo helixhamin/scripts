@@ -1,0 +1,3 @@
+input /ma "Bludgeon" <t>
+send Yuehan input /ma "Bludgeon" <t>
+send Delaide input /ma "Bludgeon" <t>

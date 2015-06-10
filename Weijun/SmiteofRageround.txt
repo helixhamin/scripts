@@ -1,0 +1,3 @@
+input /ma "Smite of Rage" <t>
+send Yuehan input /ma "Smite of Rage" <t>
+send Delaide input /ma "Smite of Rage" <t>
