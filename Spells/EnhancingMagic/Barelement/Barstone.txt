@@ -1,0 +1,2 @@
+input /echo Increases your resistance against earth
+input /ma "Barstone" <me>

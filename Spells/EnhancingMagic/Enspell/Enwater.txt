@@ -1,0 +1,2 @@
+input /echo Adds water damage to your attacks
+input /ma "Enwater" <me>

@@ -1,0 +1,11 @@
+input /echo ` = -ga/ja spells
+input /echo 1 = Water I
+input /echo 2 = Water II
+input /echo 3 = Water III
+input /echo 4 = Water IV
+input /echo 5 = Water V
+input /echo 6 = Water VI
+input /echo 7 = Flood I
+input /echo 8 = Flood II
+input /echo 9 = 
+input /echo 0 = Drown

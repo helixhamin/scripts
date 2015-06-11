@@ -1,2 +1,2 @@
 input /echo Orders the avatar to attack
-input /pet "Assault" <stnpc>
+input /pet "Assault" <t>

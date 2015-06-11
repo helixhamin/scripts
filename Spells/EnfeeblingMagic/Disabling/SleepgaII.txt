@@ -1,0 +1,2 @@
+input /echo Puts all enemies within area of effect to sleep
+input /ma "Sleepga II" <t>

@@ -1,0 +1,2 @@
+input /echo Deals water damage to enemies within area of effect
+input /ma "Waterga II" <t>

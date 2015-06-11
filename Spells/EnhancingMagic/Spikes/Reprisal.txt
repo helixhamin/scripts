@@ -1,0 +1,2 @@
+input /echo Increases chance of blocking with shield, and reflects portion of blocked damage back to attacker
+input /ma "Reprisal" <me>

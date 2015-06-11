@@ -1,0 +1,2 @@
+input /echo Transports party members within area of effect out of a dungeon
+input /ma "Escape" <me>

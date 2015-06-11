@@ -1,0 +1,2 @@
+input /echo Lowers special defense of Skeletons and Ghosts by 97% for 45 seconds
+input /ma "Banish III" <t>

@@ -1,0 +1,2 @@
+input /echo Lowers special defense of Skeletons and Ghosts by 50% for 15 seconds
+input /ma "Banish" <t>

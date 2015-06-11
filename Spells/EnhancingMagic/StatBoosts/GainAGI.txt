@@ -1,0 +1,2 @@
+input /echo Enhances Agility
+input /ma "Gain-AGI" <me>

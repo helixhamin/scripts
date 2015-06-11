@@ -1,0 +1,2 @@
+input /echo Restores HP for party members within area of effect
+input /ma "Cura III" <me>

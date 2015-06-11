@@ -1,0 +1,2 @@
+input /echo Adds fire damage to your attacks
+input /ma "Enfire" <me>

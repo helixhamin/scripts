@@ -1,0 +1,2 @@
+input /echo Silences an enemy, preventing them from casting spells
+input /ma "Silence" <t>

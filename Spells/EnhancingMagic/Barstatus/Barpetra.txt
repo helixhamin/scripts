@@ -1,0 +1,2 @@
+input /echo Enhances resistance against petrification for party members within an area of effect
+input /ma "Barpetra" <me>

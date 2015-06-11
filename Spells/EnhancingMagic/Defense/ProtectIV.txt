@@ -1,0 +1,2 @@
+input /echo Increases Defense by 120
+input /ma "Protect IV" <me>

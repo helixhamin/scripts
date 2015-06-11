@@ -1,0 +1,2 @@
+input /echo Blinds an enemy, lowers its accuracy
+input /ma "Blind" <t>

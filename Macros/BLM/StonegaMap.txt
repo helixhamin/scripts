@@ -1,0 +1,5 @@
+input /echo ` = Single Target Stone Spells
+input /echo 1 = Stonega I
+input /echo 2 = Stonega II
+input /echo 3 = Stonega III
+input /echo 4 = Stoneja

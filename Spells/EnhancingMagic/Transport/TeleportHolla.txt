@@ -1,0 +1,2 @@
+input /echo Transports qualified party members within area of effect to the Crag of Holla, in La Theine Plateau
+input /ma "Teleport-Holla" <me>

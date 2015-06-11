@@ -1,2 +1,2 @@
 input /echo Lowers accuracy, evasion, magic accuracy, magic evasion, and TP gain for demons
-input /ja "Hamanoha" <stnpc>
+input /ja "Hamanoha" <t>

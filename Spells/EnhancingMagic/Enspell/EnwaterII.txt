@@ -1,0 +1,2 @@
+input /echo Adds Water damage to your initial attacks. Reduces your targets resistance to lightning
+input /ma "Enwater II" <me>

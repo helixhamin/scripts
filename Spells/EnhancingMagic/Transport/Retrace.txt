@@ -1,0 +1,2 @@
+input /echo Transports qualified party members to their nation of affiliation in the past
+input /ma "Retrace" <me>

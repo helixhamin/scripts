@@ -1,0 +1,2 @@
+input /echo Grants the effect of Raise when you are K.O.'d
+input /ma "Reraise" <me>

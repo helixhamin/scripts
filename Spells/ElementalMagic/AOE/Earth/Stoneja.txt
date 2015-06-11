@@ -1,0 +1,2 @@
+input /echo Deals earth damage to enemies within area of effect. Successive use enhances spell potency
+input /ma "Stoneja" <t>

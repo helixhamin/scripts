@@ -1,0 +1,2 @@
+input /echo Deals fire damage to an enemy
+input /ma "Fire IV" <t>

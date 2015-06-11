@@ -1,0 +1,2 @@
+input /echo Deals water damage to an enemy and lowers its resistance against lightning
+input /ma "Flood II" <t>

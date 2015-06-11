@@ -1,0 +1,2 @@
+input /echo Lowers MND (Lightning) - MND-based debuffs hit more often and last longer
+input /ma "Shock" <t>

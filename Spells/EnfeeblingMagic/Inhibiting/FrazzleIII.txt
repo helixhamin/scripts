@@ -1,0 +1,2 @@
+input /echo Lowers target's magic evasion
+input /ma "Frazzle III" <t>

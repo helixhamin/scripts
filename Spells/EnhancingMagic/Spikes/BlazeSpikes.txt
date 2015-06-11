@@ -1,0 +1,2 @@
+input /echo Covers you with magical fire spikes. Enemies that hit you take fire damage
+input /ma "Blaze Spikes" <me>

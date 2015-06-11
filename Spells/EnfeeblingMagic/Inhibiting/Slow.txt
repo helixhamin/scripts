@@ -1,0 +1,2 @@
+input /echo Reduces an enemy's attack speed
+input /ma "Slow" <t>

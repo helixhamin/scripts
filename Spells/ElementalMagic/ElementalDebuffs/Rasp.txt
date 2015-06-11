@@ -1,0 +1,2 @@
+input /echo Lowers DEX (Earth) - Lowers target's accuracy and chance of critical attacks
+input /ma "Rasp" <t>

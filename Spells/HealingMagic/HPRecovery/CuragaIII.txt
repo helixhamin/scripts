@@ -1,0 +1,2 @@
+input /echo Softcap:390HP
+input /ma "Curaga III" <me>

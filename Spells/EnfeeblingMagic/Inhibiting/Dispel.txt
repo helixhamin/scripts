@@ -1,0 +1,2 @@
+input /echo Removes one beneficial magic effect from an enemy
+input /ma "Dispel" <t>

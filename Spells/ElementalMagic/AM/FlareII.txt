@@ -1,0 +1,2 @@
+input /echo Deals fire damage to an enemy and lowers its resistance against water
+input /ma "Flare II" <t>

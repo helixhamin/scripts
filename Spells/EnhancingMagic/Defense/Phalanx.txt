@@ -1,0 +1,2 @@
+input /echo Gives you a certain amount of damage resistance
+input /ma "Phalanx" <me>

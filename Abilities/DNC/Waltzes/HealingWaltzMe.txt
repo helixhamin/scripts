@@ -1,0 +1,2 @@
+input /echo Removes one detrimental status effect from target party member
+input /ja "Healing Waltz" <me>

@@ -1,0 +1,2 @@
+input /echo Enhances resistance against paralysis for party members within an Area of Effect
+input /ma "Barparalyzra" <me>

@@ -1,0 +1,2 @@
+input /echo Adds Fire damage to your initial attacks. Reduces your target's resistance to water
+input /ma "Enfire II" <me>

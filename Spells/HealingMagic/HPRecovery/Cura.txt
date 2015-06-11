@@ -1,0 +1,2 @@
+input /echo AOE Cure, Soft cap at 175 HP
+input /ma "Cura" <me>

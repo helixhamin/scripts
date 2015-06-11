@@ -1,0 +1,2 @@
+input /echo Lower's target's evasion: [Floor(4/21)(Enfeebling Skill - 190)] + Floor(dMND/5)
+input /ma "Distract III" <t>

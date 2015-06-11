@@ -1,0 +1,2 @@
+input /echo Transports target party member to their home point
+input /ma "Warp II" <me>

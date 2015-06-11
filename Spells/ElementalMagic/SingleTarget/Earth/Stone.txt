@@ -1,0 +1,2 @@
+input /echo Deals earth damage to an enemy
+input /ma "Stone" <t>

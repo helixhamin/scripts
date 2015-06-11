@@ -1,0 +1,2 @@
+input /echo Softcap:Unknown
+input /ma "Curaga V" <me>

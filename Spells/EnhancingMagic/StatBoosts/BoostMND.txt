@@ -1,0 +1,2 @@
+input /echo Enhances Mind for party members in an area of effect
+input /ma "Boost-MND" <me>

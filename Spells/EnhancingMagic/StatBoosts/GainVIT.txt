@@ -1,0 +1,2 @@
+input /echo Enhances Vitality
+input /ma "Gain-VIT" <me>

@@ -1,0 +1,2 @@
+input /echo Lessens chance of being detected by sound
+input /ma "Sneak" <me>

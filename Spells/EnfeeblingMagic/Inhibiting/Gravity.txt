@@ -1,0 +1,2 @@
+input /echo Weighs an enemy down and lowers its movement speed
+input /ma "Gravity" <t>

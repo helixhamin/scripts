@@ -1,0 +1,2 @@
+input /echo Deals fire damage to enemies within area of effect
+input /ma "Firaga" <t>

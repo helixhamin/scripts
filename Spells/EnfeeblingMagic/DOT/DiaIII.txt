@@ -1,0 +1,2 @@
+input /echo Lowers an enemy's defense and gradually deals Light elemental damage
+input /ma "Dia III" <t>

@@ -1,0 +1,2 @@
+input /echo Reduces TP dealt when striking an enemy and bestows an accuracy bonus when the target is missed for party members within area of effect
+input /ma "Auspice" <me>

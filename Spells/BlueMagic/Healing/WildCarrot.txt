@@ -1,2 +1,2 @@
-input /echo Mod:MND-VIT Cure III
+input /echo Mod:MND-VIT Softcap:180HP Cure III
 input /ma "Wild Carrot" <stpt>

@@ -1,0 +1,2 @@
+input /echo Deals wind damage to enemies within area of effect
+input /ma "Aeroga III" <t>

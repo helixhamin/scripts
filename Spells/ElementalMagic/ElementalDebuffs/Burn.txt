@@ -1,0 +1,2 @@
+input /echo Lowers INT (Fire) - Target's offensive magic spells do less damage, damage from black magic increases
+input /ma "Burn" <t>

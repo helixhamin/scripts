@@ -1,0 +1,2 @@
+input /echo Covers you with magical ice spikes. Enemies that hit you take ice damage AE: Paralyzed
+input /ma "Ice Spikes" <me>

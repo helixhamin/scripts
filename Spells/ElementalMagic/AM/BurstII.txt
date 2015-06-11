@@ -1,0 +1,2 @@
+input /echo Deals lightning damage to an enemy and lowers its resistance against earth
+input /ma "Burst II" <t>

@@ -1,0 +1,2 @@
+input /echo Deals water damage that gradually reduces a target's HP
+input /ma "Hydrohelix" <t>

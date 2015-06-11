@@ -1,0 +1,2 @@
+input /echo Increases resistance against water for party members within an Area of Effect
+input /ma "Barwatera" <me>

@@ -1,3 +1,3 @@
 input /echo AOE:Around MType:Beastmen SType:P(Blunt) AE:Stun
 input /echo Mod:VIT 50%, STR 20% 
-input 
+input /ma "Tail Slap" <t>

@@ -1,2 +1,2 @@
 input /echo Tames a monster to fight by your side
-input /ja "Charm" <stnpc>
+input /ja "Charm" <t>

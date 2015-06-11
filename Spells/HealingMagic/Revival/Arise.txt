@@ -1,0 +1,2 @@
+input /echo Revives target from KO and grants the effect of Reraise III
+input /ma "Arise" <stpc>

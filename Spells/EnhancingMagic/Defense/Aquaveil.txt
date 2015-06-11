@@ -1,0 +1,2 @@
+input /echo Reduces chance of having a spell interrupted
+input /ma "Aquaveil" <me>

@@ -1,2 +1,2 @@
 input /echo Terrorizes the target
-input /ja "Feral Howl" <stnpc>
+input /ja "Feral Howl" <t>

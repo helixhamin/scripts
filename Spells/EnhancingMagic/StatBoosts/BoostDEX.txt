@@ -1,0 +1,2 @@
+input /echo Enhances Dexterity for party members with an area of effect
+input /ma "Boost-DEX" <me>

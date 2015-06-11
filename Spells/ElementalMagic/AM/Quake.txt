@@ -1,0 +1,2 @@
+input /echo Deals earth damage to an enemy and lowers its resistance against wind
+input /ma "Quake" <t>

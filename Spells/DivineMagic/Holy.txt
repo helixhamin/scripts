@@ -1,0 +1,2 @@
+input /echo Deals Light elemental damage to an enemy
+input /ma "Holy" <t>

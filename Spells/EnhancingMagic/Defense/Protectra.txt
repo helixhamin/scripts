@@ -1,0 +1,2 @@
+input /echo Party: Increases target's Defense by 15
+input /ma "Protectra" <me>

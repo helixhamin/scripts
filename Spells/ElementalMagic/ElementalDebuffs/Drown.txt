@@ -1,0 +1,2 @@
+input /echo Lowers STR (Water) - Lowers target's melee damage
+input /ma "Drown" <t>

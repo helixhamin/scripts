@@ -1,0 +1,2 @@
+input /echo Petrifies an enemy, preventing it from acting
+input /ma "Break" <t>

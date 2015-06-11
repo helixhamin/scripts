@@ -1,0 +1,2 @@
+input /echo Heals HP to target player
+input /ja "Curing Waltz IV" <me>

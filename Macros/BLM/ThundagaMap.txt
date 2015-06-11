@@ -1,0 +1,5 @@
+input /echo ` = Single Target Thunder Spells
+input /echo 1 = Thundaga I
+input /echo 2 = Thundaga II
+input /echo 3 = Thundaga III
+input /echo 4 = Thundaja

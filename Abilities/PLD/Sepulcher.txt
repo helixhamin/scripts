@@ -1,2 +1,2 @@
 input /echo Lowers accuracy, evasion, magic accuracy, magic evasion, and TP gain for undead
-input /ja "Sepulcher" <stnpc>
+input /ja "Sepulcher" <t>

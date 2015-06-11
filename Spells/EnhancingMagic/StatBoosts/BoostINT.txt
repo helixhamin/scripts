@@ -1,0 +1,2 @@
+input /echo Enhances Intelligence for party members with an area of effect
+input /ma "Boost-INT" <me>

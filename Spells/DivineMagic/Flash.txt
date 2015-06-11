@@ -1,0 +1,2 @@
+input /echo Temporarily blinds an enemy, greatly lowers its accuracy
+input /ma "Flash" <t>

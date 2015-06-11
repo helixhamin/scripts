@@ -1,0 +1,2 @@
+input /echo Adds Ice damage to your initial attacks. Reduces your targets resistance to fire
+input /ma "Enblizzard II" <me>

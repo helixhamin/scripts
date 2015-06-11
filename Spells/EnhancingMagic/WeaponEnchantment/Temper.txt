@@ -1,0 +1,2 @@
+input /echo Grants the ability to occasionally attack twice
+input /ma "Temper" <me>

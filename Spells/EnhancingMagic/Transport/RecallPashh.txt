@@ -1,0 +1,2 @@
+input /echo Teleports qualified party members within area of effect to Pashhow Marshlands (S)
+input /ma "Recall-Pashh" <me>

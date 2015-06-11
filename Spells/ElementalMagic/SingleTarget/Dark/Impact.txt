@@ -1,0 +1,2 @@
+input /echo Deals dark damage that lowers an enemy's Strength, Dexterity, Vitality, Agility, Intelligence, Mind, and Charisma
+input /ma "Impact" <t>

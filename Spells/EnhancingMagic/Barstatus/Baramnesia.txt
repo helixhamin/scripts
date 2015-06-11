@@ -1,0 +1,2 @@
+input /echo Enhances your resistance against Amnesia
+input /ma "Baramnesia" <me>

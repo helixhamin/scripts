@@ -1,0 +1,2 @@
+input /echo Decreases an enemy's magic accuracy and increases its spellcasting time
+input /ma "Addle" <t>

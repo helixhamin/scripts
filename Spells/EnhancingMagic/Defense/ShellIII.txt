@@ -1,0 +1,2 @@
+input /echo Reduces magic damage by 48/256 (~18.8%)
+input /ma "Shell III" <me>

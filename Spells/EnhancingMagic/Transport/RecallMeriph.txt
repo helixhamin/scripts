@@ -1,0 +1,2 @@
+input /echo Transports qualified party members within area of effect to Meriphataud Mountains (S)
+input /ma "Recall-Meriph" <me>

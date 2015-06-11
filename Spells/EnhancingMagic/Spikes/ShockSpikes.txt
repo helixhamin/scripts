@@ -1,0 +1,2 @@
+input /echo Covers you with magical lightning spikes. Enemies that hit you take lightning damage AE: Stun
+input /ma "Shock Spikes" <me>

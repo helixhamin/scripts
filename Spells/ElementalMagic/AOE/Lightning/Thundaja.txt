@@ -1,0 +1,2 @@
+input /echo Deals Lightning damage to enemies within area of effect. Successive use enhances spell potency
+input /ma "Thundaja" <t>

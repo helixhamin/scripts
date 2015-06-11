@@ -1,0 +1,2 @@
+input /echo Changes the weather around target party member to "auroras."
+input /ma "Aurorastorm" <me>

@@ -1,2 +1,2 @@
 input /echo Carbuncle restores party member's hit points within area of effect
-input /pet "Healing Ruby II" <stpc>
+input /pet "Healing Ruby II" <me>

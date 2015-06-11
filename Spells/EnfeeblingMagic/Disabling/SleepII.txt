@@ -1,0 +1,2 @@
+input /echo Puts an enemy to sleep
+input /ma "Sleep II" <t>

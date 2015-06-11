@@ -1,0 +1,2 @@
+input /echo Poisons an enemy and gradually reduces its HP
+input /ma "Poison" <t>

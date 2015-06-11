@@ -1,0 +1,2 @@
+input /echo Adds Lightning damage to your initial attacks and lowers the target's resistance against earth
+input /ma "Enthunder II" <me>

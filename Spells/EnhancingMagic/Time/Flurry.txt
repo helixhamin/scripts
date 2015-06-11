@@ -1,0 +1,2 @@
+input /echo Spell decreases ranged attack delay by 15%
+input /ma "Flurry" <me>

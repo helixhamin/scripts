@@ -1,0 +1,2 @@
+input /echo Poisons enemies within area of effect and gradually reduces their HP
+input /ma "Poisonga" <t>

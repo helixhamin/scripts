@@ -1,0 +1,2 @@
+input /echo Enhances target's defense by 175 points
+input /ma "Protect V" <me>

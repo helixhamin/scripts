@@ -1,0 +1,2 @@
+input /echo Enhances your resistance against poison
+input /ma "Barpoison" <me>

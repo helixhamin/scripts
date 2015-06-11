@@ -1,0 +1,2 @@
+input /echo Enhances resistance against poison for party members within an Area of Effect
+input /ma "Barpoisonra" <me>

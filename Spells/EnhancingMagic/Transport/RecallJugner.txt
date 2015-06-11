@@ -1,0 +1,2 @@
+input /echo Teleports qualified party members within area of effect to Jugner Forest (S)
+input /ma "Recall-Jugner" <me>

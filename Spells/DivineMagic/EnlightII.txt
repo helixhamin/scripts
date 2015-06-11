@@ -1,0 +1,2 @@
+input /echo Enlight damage +7. Honorbound melee hits only.
+input /ma "Enlight II" <me>

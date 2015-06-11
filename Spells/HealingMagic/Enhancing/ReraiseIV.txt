@@ -1,0 +1,2 @@
+input /echo Grants you the effect of Arise when you are KO'd
+input /ma "Reraise IV" <me>

@@ -1,0 +1,2 @@
+input /echo Enhances Vitality for party members with an area of effect
+input /ma "Boost-VIT" <me>

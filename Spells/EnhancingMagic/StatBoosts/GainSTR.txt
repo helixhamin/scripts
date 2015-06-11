@@ -1,0 +1,2 @@
+input /echo Enhances Strength
+input /ma "Gain-STR" <me>

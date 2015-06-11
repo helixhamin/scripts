@@ -1,4 +1,4 @@
-Finished setting up BLU solo SCes. Still need to test
-Added Unbridled Learning to BLU spells that require it, so it will use the ability before it uses the spell.
-Finished Weapon skills.
-Started scripting more BLU binds.
+Pausing BLU binds. Need to rethink, since there are too many combinations. Might just do those case by case until I have a good foundation set up.
+Finished Divine Magic, Elemental (All), EnfeeblingMagic (All), EnhancingMagic (All), HealingMagic (All)
+
+Completed all BLM elemental mapping binds. Just need to complete Enfeeble and dark.

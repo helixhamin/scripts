@@ -1,0 +1,2 @@
+input /echo Lowers VIT (Wind) - Target's defense is reduced
+input /ma "Choke" <t>

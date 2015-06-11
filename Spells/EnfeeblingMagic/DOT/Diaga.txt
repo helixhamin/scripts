@@ -1,0 +1,2 @@
+input /echo Lowers defense of enemies within area of effect and gradually deals Light elemental damage
+input /ma "Diaga" <t>

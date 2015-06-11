@@ -1,2 +1,2 @@
 input /echo Examines the target's enmity level
-input /ja "Libra" <st>
+input /ja "Libra" <t>

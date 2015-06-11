@@ -1,0 +1,2 @@
+input /echo Grants you the effect of Raise II when you are KO'd
+input /ma "Reraise II" <me>

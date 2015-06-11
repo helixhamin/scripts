@@ -1,0 +1,2 @@
+input /echo Light based -en spell. Damage: (Divine Magic Skill/8)+12.5
+input /ma "Enlight" <me>

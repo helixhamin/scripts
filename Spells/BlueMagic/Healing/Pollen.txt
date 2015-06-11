@@ -1,2 +1,2 @@
-input /echo Mod:MND-VIT Softcap:36HP Cure I
+input /echo Mod:MND-VIT Softcap:34HP
 input /ma Pollen <me>

@@ -1,0 +1,2 @@
+input /echo Lowers defense of Skeletons and Ghosts
+input /ma "Banishga II" <t>

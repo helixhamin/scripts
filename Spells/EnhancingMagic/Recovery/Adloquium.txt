@@ -1,0 +1,2 @@
+input /echo Gradually increases target's TP
+input /ma "Adloquium" <t>

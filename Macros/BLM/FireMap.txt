@@ -1,0 +1,11 @@
+input /echo ` = -ga/ja spells
+input /echo 1 = Fire I
+input /echo 2 = Fire II
+input /echo 3 = Fire III
+input /echo 4 = Fire IV
+input /echo 5 = Fire V
+input /echo 6 = Fire VI
+input /echo 7 = Flare I
+input /echo 8 = Flare II
+input /echo 9 = 
+input /echo 0 = Burn

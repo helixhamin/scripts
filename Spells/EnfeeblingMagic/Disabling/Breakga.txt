@@ -1,0 +1,2 @@
+input /echo Petrifies enemies within area of effect, preventing them from acting
+input /ma "Breakga" <t>

@@ -1,0 +1,2 @@
+input /echo Deals wind damage to an enemy and lowers its resistance against ice
+input /ma "Tornado" <t>

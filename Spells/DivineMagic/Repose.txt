@@ -1,0 +1,2 @@
+input /echo Light based sleep
+input /ma "Repose" <t>

@@ -1,0 +1,2 @@
+input /echo Gives a party member certain amount of damage resistance
+input /ma "Phalanx II" <me>

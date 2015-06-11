@@ -1,2 +1,2 @@
 input /echo Delivers an attack that can stun the target
-input /ja "Shield Bash" <stnpc>
+input /ja "Shield Bash" <t>

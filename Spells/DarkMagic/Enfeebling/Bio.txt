@@ -1,2 +1,2 @@
 input /echo Deals dark damage that weakens an enemy's attacks and gradually reduces its HP
-input /ma "Bio" <stnpc>
+input /ma "Bio" <t>

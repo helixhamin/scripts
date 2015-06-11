@@ -4,8 +4,8 @@ bind ^3 exec Abilities/BLM/EnmityDouse.txt
 bind ^4 exec Abilities/BLM/Manawell.txt
 bind ^5 exec Abilities/BLM/SubtleSorcery.txt
 bind ^6 exec Macros/Nothing.txt
-bind ^7 exec Macros/Nothing.txt
-bind ^8 exec Macros/Nothing.txt
-bind ^9 exec Macros/Nothing.txt
+bind ^7 exec Spells/EnhancingMagic/Spikes/BlazeSpikes.txt
+bind ^8 exec Spells/EnhancingMagic/Spikes/IceSpikes.txt
+bind ^9 exec Spells/EnhancingMagic/Spikes/ShockSpikes.txt
 bind ^0 exec Macros/Nothing.txt
 bind ^- exec Macros/BLM/AbilitiesMap.txt

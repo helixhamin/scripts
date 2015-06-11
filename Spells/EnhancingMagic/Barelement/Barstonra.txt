@@ -1,0 +1,2 @@
+input /echo Increases resistance against earth for party members within and Area of Effect
+input /ma "Barstonra" <me>

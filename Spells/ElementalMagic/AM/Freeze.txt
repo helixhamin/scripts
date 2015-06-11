@@ -1,0 +1,2 @@
+input /echo Deals ice damage to an enemy and lowers its resistance against fire
+input /ma "Freeze" <t>

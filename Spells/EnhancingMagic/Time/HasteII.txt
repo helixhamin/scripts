@@ -1,0 +1,2 @@
+input /echo Spell decreases attack delay and recast timers by 30%
+input /ma "Haste II" <me>

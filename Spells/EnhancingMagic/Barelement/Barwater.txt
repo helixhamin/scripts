@@ -1,0 +1,2 @@
+input /echo Increases your resistance against water
+input /ma "Barwater" <me>

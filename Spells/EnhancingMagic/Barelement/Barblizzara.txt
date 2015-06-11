@@ -1,0 +1,2 @@
+input /echo Increases resistance against ice for party members within an area of effect
+input /ma "Barblizzara" <me>

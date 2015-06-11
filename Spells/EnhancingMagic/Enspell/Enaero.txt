@@ -1,0 +1,2 @@
+input /echo Adds wind damage to your attacks
+input /ma "Enaero" <me>

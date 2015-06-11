@@ -1,0 +1,2 @@
+input /echo Enhances Charisma for party members in an area of effect
+input /ma "Boost-CHR" <me>

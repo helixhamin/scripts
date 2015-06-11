@@ -1,0 +1,2 @@
+input /echo Deals Earth damage to enemies within area of effect
+input /ma "Stonega" <t>

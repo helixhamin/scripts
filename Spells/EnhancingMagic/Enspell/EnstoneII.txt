@@ -1,0 +1,2 @@
+input /echo Adds Earth damage to your initial attacks. Reduces your targets resistance to wind
+input /ma "Enstone II" <me>

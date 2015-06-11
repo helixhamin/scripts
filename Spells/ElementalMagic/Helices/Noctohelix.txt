@@ -1,0 +1,2 @@
+input /echo Deals dark damage that gradually reduces a target's HP
+input /ma "Noctohelix" <t>

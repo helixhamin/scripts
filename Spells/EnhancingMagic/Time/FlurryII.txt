@@ -1,0 +1,2 @@
+input /echo Spell decreases ranged attack delay and recast timers by 30%
+input /ma "Flurry II" <me>

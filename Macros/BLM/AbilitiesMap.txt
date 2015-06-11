@@ -3,3 +3,7 @@ input /echo 2 = Mana Wall
 input /echo 3 = Enmity Douse
 input /echo 4 = Manawell
 input /echo 5 = Subtle Sorcery
+input /echo 6 = 
+input /echo 7 = Blaze Spikes
+input /echo 8 = Ice Spikes
+input /echo 9 = Shock Spikes

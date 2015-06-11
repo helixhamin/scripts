@@ -1,2 +1,2 @@
 input /echo Goads an enemy into attacking you
-input /ja "Provoke" <stnpc>
+input /ja "Provoke" <t>

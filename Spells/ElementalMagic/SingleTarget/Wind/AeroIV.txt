@@ -1,0 +1,2 @@
+input /echo Deals Wind damage to an enemy
+input /ma "Aero IV" <t>

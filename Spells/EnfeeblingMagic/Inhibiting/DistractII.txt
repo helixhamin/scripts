@@ -1,0 +1,2 @@
+input /echo Reduces target's physical evasion
+input /ma "Distract II" <t>

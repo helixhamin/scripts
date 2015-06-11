@@ -1,0 +1,2 @@
+input /echo Join with your comrades to summon a massive meteor from the heavens and smite your foes
+input /ma "Meteor" <t>

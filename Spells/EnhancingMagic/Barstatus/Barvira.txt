@@ -1,0 +1,2 @@
+input /echo Enhances resistance against disease for party members within an area of effect
+input /ma "Barvira" <me>
