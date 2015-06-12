@@ -1,0 +1,2 @@
+input /echo Attribute:STR
+input /ma "Sinewy Etude" <stpt>

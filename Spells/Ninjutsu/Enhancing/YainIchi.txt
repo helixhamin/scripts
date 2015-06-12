@@ -1,0 +1,2 @@
+input /echo Tool:Furusumi Enhance:Enmity -15
+input /nin "Yain: Ichi" <me>

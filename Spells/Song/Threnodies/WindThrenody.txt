@@ -1,0 +1,2 @@
+input /echo EW:Wind
+input /ma "Wind Threnody" <t>

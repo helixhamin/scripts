@@ -1,0 +1,2 @@
+input /echo Debuff:Decrease MACC and increase casting time
+input /ma "Pining Nocturne" <t>

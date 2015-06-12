@@ -1,0 +1,10 @@
+input /echo 1 = Utsusemi: Ichi
+input /echo 2 = Utsusemi: Ni
+input /echo 3 = Migawari: Ichi
+input /echo 4 = Gekka: Ichi
+input /echo 5 = Kakka: Ichi
+input /echo 6 = Myoshu: Ichi
+input /echo 7 = Yain: Ichi
+input /echo 8 = Monomi: Ichi
+input /echo 9 = Tonko: Ichi
+input /echo 0 = Tonko: Ni

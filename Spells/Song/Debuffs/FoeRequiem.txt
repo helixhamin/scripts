@@ -1,0 +1,2 @@
+input /echo Debuff:DOT 2/tick
+input /ma "Foe Requiem" <t>

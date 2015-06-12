@@ -1,0 +1,2 @@
+input /echo EW:Fire
+input /ma "Fire Threnody" <t>

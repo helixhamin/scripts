@@ -1,1 +1,0 @@
-exec Macros/BLU/(Insert Sword.txt or Club.txt here)

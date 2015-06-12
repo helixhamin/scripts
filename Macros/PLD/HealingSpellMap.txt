@@ -1,0 +1,4 @@
+input /echo 1 = Cure
+input /echo 2 = CureII
+input /echo 3 = CureIII
+input /echo 4 = CureIV

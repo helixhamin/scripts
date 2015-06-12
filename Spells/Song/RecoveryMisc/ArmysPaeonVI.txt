@@ -1,0 +1,2 @@
+input /echo Effect:Regen 7/tick
+input /ma "Army's Paeon VI" <me>

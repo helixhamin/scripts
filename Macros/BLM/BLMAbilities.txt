@@ -7,5 +7,5 @@ bind ^6 exec Macros/Nothing.txt
 bind ^7 exec Spells/EnhancingMagic/Spikes/BlazeSpikes.txt
 bind ^8 exec Spells/EnhancingMagic/Spikes/IceSpikes.txt
 bind ^9 exec Spells/EnhancingMagic/Spikes/ShockSpikes.txt
-bind ^0 exec Macros/Nothing.txt
+bind ^0 exec Spells/ElementalMagic/SingleTarget/Meteor.txt
 bind ^- exec Macros/BLM/AbilitiesMap.txt

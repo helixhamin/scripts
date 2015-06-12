@@ -1,0 +1,2 @@
+input /echo Resistance:Bind
+input /ma "Goblin Gavotte" <me>

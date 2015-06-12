@@ -1,0 +1,4 @@
+input /echo 1 = Dodge
+input /echo 2 = Chakra
+input /echo 3 = Mantra
+input /echo 4 = Perfect Counter

@@ -1,0 +1,2 @@
+input /echo Resistance:Earth
+input /ma "Earth Carol" <me>

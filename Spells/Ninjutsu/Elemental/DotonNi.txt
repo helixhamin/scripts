@@ -1,0 +1,2 @@
+input /echo Tool:Makibishi DE:Earth LE:Wind
+input /nin "Doton: Ni" <t>

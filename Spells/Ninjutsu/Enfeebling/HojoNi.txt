@@ -1,0 +1,2 @@
+input /echo Tool:Kaginawa Enfeeble:ATT speed down
+input /nin "Hojo: Ni" <t>

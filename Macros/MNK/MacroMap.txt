@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/MNK/MNKOAbilities.txt
+2-/console exec Macros/MNK/MNKDAbilities.txt
+3-/console exec Macros/MNK/SUB.txt
+4-/console exec Macros/MNK/
+5-/console exec Macros/MNK/
+6-/console exec Macros/MNK/
+7-/console exec Macros/MNK/
+8-/console exec Macros/MNK/
+9-/console exec Macros/MNK/
+0-/console exec Macros/MNK/

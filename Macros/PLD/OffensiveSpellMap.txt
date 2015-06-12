@@ -1,0 +1,10 @@
+input /echo 1 = Flash
+input /echo 2 = Banish
+input /echo 3 = Banish II
+input /echo 4 = Holy
+input /echo 5 = Holy II
+input -------------------
+input /echo 7 = Crusade
+input /echo 8 = Reprisal
+input /echo 9 = Enlight
+input /echo 0 = Enlight II

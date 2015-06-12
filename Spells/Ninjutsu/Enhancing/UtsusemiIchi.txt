@@ -1,0 +1,2 @@
+input /echo Tool:Shihei Enhance:Create 3 shadows
+input /nin "Utsusemi: Ichi" <me>

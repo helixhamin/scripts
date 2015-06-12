@@ -1,0 +1,2 @@
+input /echo Tool:Uchitake DE:Fire LE:Water
+input /nin "Katon: San" <t>

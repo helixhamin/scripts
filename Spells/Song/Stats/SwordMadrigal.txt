@@ -1,0 +1,2 @@
+input /echo Increased Stat:ACC
+input /ma "Sword Madrigal" <me>

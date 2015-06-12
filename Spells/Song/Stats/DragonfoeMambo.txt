@@ -1,0 +1,2 @@
+input /echo Increased Stat:EVA
+input /ma "Dragonfoe Mambo" <me>

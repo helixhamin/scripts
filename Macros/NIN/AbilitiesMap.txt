@@ -1,0 +1,5 @@
+input /echo 1 = Yonin
+input /echo 2 = Innin
+input /echo 3 = Sange
+input /echo 4 = Futae
+input /echo 5 = Issekigan

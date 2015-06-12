@@ -1,0 +1,2 @@
+input /echo Tool:Ranka Enhance:Increased emnity gain
+input /nin "Gekka: Ichi" <me>

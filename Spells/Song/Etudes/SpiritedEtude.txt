@@ -1,0 +1,2 @@
+input /echo Attribute:MND
+input /ma "Spirited Etude" <stpt>

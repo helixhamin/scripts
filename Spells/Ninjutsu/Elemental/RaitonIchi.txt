@@ -1,0 +1,2 @@
+input /echo Tool:Hiraishin DE:Lightning LE:Earth
+input /nin "Raiton: Ichi" <t>

@@ -1,0 +1,4 @@
+input /echo ` = Dark
+input /echo 1 = Bio
+input /echo 2 = Bio II
+input /echo 3 = Bio III

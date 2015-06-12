@@ -1,0 +1,2 @@
+input /echo Resistance:Petrification
+input /ma "Gold Capriccio" <me>

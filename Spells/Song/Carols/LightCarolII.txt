@@ -1,0 +1,2 @@
+input /echo Resistance:Light
+input /ma "Light Carol II" <me>

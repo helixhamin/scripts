@@ -1,0 +1,2 @@
+input /echo Resistance:Fire
+input /ma "Fire Carol II" <me>

@@ -1,0 +1,6 @@
+input /echo 1 = Hyoton: San
+input /echo 2 = Katon: San
+input /echo 3 = Suiton: San
+input /echo 4 = Raiton: San
+input /echo 5 = Doton: San
+input /echo 6 = Huton: San

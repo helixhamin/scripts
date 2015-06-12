@@ -1,11 +1,11 @@
 ctrl:
 1-/console exec Macros/BLU/BLUAbilities.txt
 2-/console exec Macros/BLU/SUB.txt
-3-/console exec Macros/BLU/Healing.txt
-4-/console exec Macros/BLU/PhysicalSpells.txt
-5-/console exec Macros/BLU/MagicSpells.txt
-6-/console exec Macros/BLU/UnbridledLearning.txt
+3-/console exec Macros/BLU/
+4-/console exec Macros/BLU/
+5-/console exec Macros/BLU/
+6-/console exec Macros/BLU/
 7-/console exec Macros/BLU/
 8-/console exec Macros/BLU/
 9-/console exec Macros/BLU/
-0-/console exec Macros/BLU/WeaponSkills.txt
+0-/console exec Macros/BLU/

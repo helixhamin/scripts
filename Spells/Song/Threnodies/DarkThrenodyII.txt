@@ -1,0 +1,2 @@
+input /echo EW:Dark
+input /ma "Dark Threnody II" <t>

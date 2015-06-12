@@ -1,0 +1,2 @@
+input /echo Tool:Mokujin Enhance:Immune to damage greater than max HP
+input /nin "Migawari: Ichi" <me>

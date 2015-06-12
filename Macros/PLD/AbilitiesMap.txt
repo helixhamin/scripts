@@ -1,0 +1,10 @@
+input /echo 1 = Holy Circle
+input /echo 2 = Shield Bash
+input /echo 3 = Sentinel
+input /echo 4 = Cover
+input /echo 5 = Rampart
+input /echo 6 = Fealty
+input /echo 7 = Chivalry
+input /echo 8 = Divine Emblem
+input /echo 9 = Sepulcher
+input /echo 0 = Palisade

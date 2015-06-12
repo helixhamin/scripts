@@ -1,0 +1,6 @@
+input /echo 1 = Hyoton: Ni
+input /echo 2 = Katon: Ni
+input /echo 3 = Suiton: Ni
+input /echo 4 = Raiton: Ni
+input /echo 5 = Doton: Ni
+input /echo 6 = Huton: Ni

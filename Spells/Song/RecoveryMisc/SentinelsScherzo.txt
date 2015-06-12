@@ -1,0 +1,2 @@
+input /echo Effect:Reduces damage if it would take >75% of max HP
+input /ma "Sentinel's Scherzo" <me>

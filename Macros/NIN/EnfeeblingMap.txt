@@ -1,0 +1,8 @@
+input /echo 1 = Kurayami: Ichi
+input /echo 2 = Kurayami: Ni
+input /echo 3 = Hojo: Ichi
+input /echo 4 = Hojo: Ni
+input /echo 5 = Dokumori: Ichi
+input /echo 6 = Jubaku: Ichi
+input /echo 7 = Aisha: Ichi
+input /echo 8 = Yurin: Ichi

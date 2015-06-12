@@ -1,0 +1,2 @@
+input /echo Attribute:CHR
+input /ma "Enchanting Etude" <stpt>

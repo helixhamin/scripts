@@ -1,0 +1,2 @@
+input /echo Tool:Sanjaku-Tenugui Enhance:Sneak
+input /nin "Monomi: Ichi" <me>

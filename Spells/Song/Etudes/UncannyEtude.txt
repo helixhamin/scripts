@@ -1,0 +1,2 @@
+input /echo Attribute:DEX
+input /ma "Uncanny Etude" <stpt>

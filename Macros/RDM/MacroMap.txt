@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/RDM/RDMAbilities.txt
+2-/console exec Macros/RDM/SUB.txt
+3-/console exec Macros/RDM/Healing.txt
+4-/console exec Macros/RDM/Enhance.txt
+5-/console exec Macros/RDM/EnSpikes.txt (Or EnIISpikes)
+6-/console exec Macros/RDM/StoneWater.txt
+7-/console exec Macros/RDM/AeroFire.txt
+8-/console exec Macros/RDM/BlizzardThunder.txt
+9-/console exec Macros/RDM/DOT.txt
+0-/console exec Macros/RDM/Enfeeble.txt

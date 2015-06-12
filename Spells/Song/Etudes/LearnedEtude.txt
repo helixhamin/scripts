@@ -1,0 +1,2 @@
+input /echo Attribute:INT
+input /ma "Learned Etude" <stpt>

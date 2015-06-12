@@ -1,0 +1,2 @@
+input /echo Attribute:VIT
+input /ma "Vital Etude" <stpt>

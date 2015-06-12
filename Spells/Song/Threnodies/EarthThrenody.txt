@@ -1,0 +1,2 @@
+input /echo EW:Earth
+input /ma "Earth Threnody" <t>

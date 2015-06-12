@@ -1,0 +1,2 @@
+input /echo EW:Water
+input /ma "Water Threnody II" <t>

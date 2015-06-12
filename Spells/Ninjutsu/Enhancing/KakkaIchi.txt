@@ -1,0 +1,2 @@
+input /echo Tool:Ryuno Enhance:Increase TP gain
+input /nin "Kakka: Ichi" <me>

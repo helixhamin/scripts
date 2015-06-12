@@ -1,0 +1,2 @@
+input /echo Tool:Jinko Enfeeble:TP gain down
+input /nin "Yurin: Ichi" <t>

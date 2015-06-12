@@ -1,11 +1,10 @@
-input /echo ` = 
-input /echo 1 = 
-input /echo 2 = 
-input /echo 3 = 
-input /echo 4 = 
-input /echo 5 = 
-input /echo 6 = 
-input /echo 7 = 
-input /echo 8 = 
-input /echo 9 = 
-input /echo 0 = 
+input /echo ` = Dark DOT
+input /echo 1 = Stun
+input ----------------
+input /echo 3 = Impact
+input /echo 4 = Comet
+input ----------------
+input /echo 6 = Drain
+input /echo 7 = Drain II
+input /echo 8 = Aspir
+input /echo 9 = Aspir II

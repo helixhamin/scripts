@@ -1,0 +1,2 @@
+input /echo Resistance:Blind
+input /ma "Shining Fantasia" <me>

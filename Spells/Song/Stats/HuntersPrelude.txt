@@ -1,0 +1,2 @@
+input /echo Increased Stat:RACC
+input /ma "Hunter's Prelude" <stpc>

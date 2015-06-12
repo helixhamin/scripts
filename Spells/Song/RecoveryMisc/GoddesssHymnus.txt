@@ -1,0 +1,2 @@
+input /echo Effect:Grants reraise
+input /ma "Goddess's Hymnus" <me>

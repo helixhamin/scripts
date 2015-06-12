@@ -1,0 +1,2 @@
+input /echo Increased Stat:Increase ATT speed
+input /ma "Victory March" <me>

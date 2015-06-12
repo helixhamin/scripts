@@ -1,0 +1,2 @@
+input /echo Effect:Refresh 1 MP/tick
+input /ma "Mage's Ballad" <me>

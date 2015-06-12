@@ -1,0 +1,2 @@
+input /echo Debuff:Slow 25%
+input /ma "Battlefield Elegy" <t>

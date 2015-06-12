@@ -1,0 +1,2 @@
+input /echo Tool:Sairui-Ran Enfeeble:Blind
+input /nin "Kurayami: Ni" <t>

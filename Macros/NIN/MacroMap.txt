@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/NIN/NINAbilities.txt
+2-/console exec Macros/NIN/SUB.txt
+3-/console exec Macros/NIN/Enhancing.txt
+4-/console exec Macros/NIN/Enfeebling.txt
+5-/console exec Macros/NIN/Elemental.txt
+6-/console exec Macros/NIN/
+7-/console exec Macros/NIN/
+8-/console exec Macros/NIN/
+9-/console exec Macros/NIN/
+0-/console exec Macros/NIN/

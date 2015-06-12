@@ -1,0 +1,2 @@
+input /echo Tool:Tsurara DE:Ice LE:Fire
+input /nin "Hyoton: Ichi" <t>

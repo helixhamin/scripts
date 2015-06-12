@@ -1,0 +1,2 @@
+input /echo Tool:Soshi Enfeeble:ATT down
+input /nin "Aisha: Ichi" <t>

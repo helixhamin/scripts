@@ -1,0 +1,2 @@
+input /echo Debuff:AOE sleep 30 seconds
+input /ma "Horde Lullaby" <t>

@@ -1,0 +1,2 @@
+input /echo Increased Stat:Increase DEF Cap:Knight's Minne IV
+input /ma "Knight's Minne V" <me>

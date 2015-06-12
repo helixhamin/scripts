@@ -1,0 +1,2 @@
+input /echo Resistance:Dark
+input /ma "Dark Carol II" <me>

@@ -1,0 +1,2 @@
+input /echo Debuff:Slow 50%
+input /ma "Carnage Elegy" <t>

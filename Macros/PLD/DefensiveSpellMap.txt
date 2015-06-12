@@ -1,0 +1,10 @@
+input /echo 1 = Protect
+input /echo 2 = Protect II
+input /echo 3 = Protect III
+input /echo 4 = Protect IV
+input /echo 5 = Protect V
+input /echo 6 = Shell
+input /echo 7 = Shell II
+input /echo 8 = Shell III
+input /echo 9 = Shell IV
+input /echo 0 = Phalanx

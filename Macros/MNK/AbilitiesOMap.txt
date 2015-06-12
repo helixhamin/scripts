@@ -1,0 +1,10 @@
+input /echo 1 = Boost
+input /echo 2 = Focus
+input /echo 3 = Chi Blast
+input /echo 4 = Counterstance
+input /echo 5 = Footwork
+input /echo 6 = Formless Strikes
+input /echo 7 = Impetus
+input /echo 8 = 
+input /echo 9 = 
+input /echo 0 = 

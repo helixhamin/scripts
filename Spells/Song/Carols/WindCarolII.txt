@@ -1,0 +1,2 @@
+input /echo Resistance:Wind
+input /ma "Wind Carol II" <me>

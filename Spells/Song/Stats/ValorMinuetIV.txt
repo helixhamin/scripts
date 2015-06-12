@@ -1,0 +1,2 @@
+input /echo Increased Stat:ATT/RATT Cap:56
+input /ma "Valor Minuet IV" <me>

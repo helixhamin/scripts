@@ -1,0 +1,2 @@
+input /echo Resistance:Silence
+input /ma "Scop's Operetta" <me>

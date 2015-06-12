@@ -1,0 +1,2 @@
+input /echo Attribute:AGI
+input /ma "Swift Etude" <stpt>

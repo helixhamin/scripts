@@ -1,0 +1,2 @@
+input /echo Effect:Increase movement speed +25%
+input /ma "Chocobo Mazurka" <me>

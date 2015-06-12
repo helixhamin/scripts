@@ -1,0 +1,2 @@
+input /echo Debuff:Sleep 30 seconds
+input /ma "Foe Lullaby" <t>

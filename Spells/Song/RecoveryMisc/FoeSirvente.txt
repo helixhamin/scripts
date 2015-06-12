@@ -1,0 +1,2 @@
+input /echo Effect:Reduce emnity loss
+input /ma "Foe Sirvente" <stpc>

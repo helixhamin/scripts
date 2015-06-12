@@ -1,0 +1,2 @@
+input /echo Debuff:Charm
+input /ma "Maiden's Virelai" <t>
