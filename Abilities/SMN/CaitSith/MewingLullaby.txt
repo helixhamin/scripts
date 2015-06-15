@@ -1,0 +1,2 @@
+input /echo Puts enemies in area of effect to sleep and lowers their TP
+input /pet "Mewing Lullaby" <t>

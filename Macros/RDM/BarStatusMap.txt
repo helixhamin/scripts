@@ -1,0 +1,10 @@
+input /echo 1 = Enhance binds
+input /echo 2 = Bar Elemental binds
+input /echo 3 = Barsleep
+input /echo 4 = Barpoison
+input /echo 5 = Barparalyze
+input /echo 6 = Barblind
+input /echo 7 = Barsilence
+input /echo 8 = Barvirus
+input /echo 9 = Barpetrify
+input /echo 0 = Baramnesia

@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/RNG/RNGAbilities.txt
+2-/console exec Macros/RNG/Shot.txt
+3-/console exec Macros/RNG/SUB.txt
+4-/console exec Macros/RNG/
+5-/console exec Macros/RNG/
+6-/console exec Macros/RNG/
+7-/console exec Macros/RNG/
+8-/console exec Macros/RNG/
+9-/console exec Macros/RNG/
+0-/console exec Macros/RNG/

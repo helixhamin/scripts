@@ -2,3 +2,4 @@ input /echo 1 = Convert
 input /echo 2 = Composure
 input /echo 3 = Saboteur
 input /echo 4 = Spontaneity
+input /echo 5 = Temper

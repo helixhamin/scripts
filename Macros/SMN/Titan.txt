@@ -1,0 +1,12 @@
+bind ^` exec Abilities/SMN/Titan/Titan.txt
+bind ^1 exec Abilities/SMN/Titan/RockThrow.txt
+bind ^2 exec Abilities/SMN/Titan/Stone II.txt
+bind ^3 exec Abilities/SMN/Titan/RockBuster.txt
+bind ^4 exec Abilities/SMN/Titan/MegalithThrow.txt
+bind ^5 exec Abilities/SMN/Titan/StoneIV.txt
+bind ^6 exec Abilities/SMN/Titan/MountainBuster.txt
+bind ^7 exec Abilities/SMN/Titan/Geocrush.txt
+bind ^8 exec Abilities/SMN/Titan/CragThrow.txt
+bind ^9 exec Abilities/SMN/Titan/EarthenWard.txt
+bind ^0 exec Abilities/SMN/Titan/EarthenArmor.txt
+bind ^- exec Macros/SMN/TitanMap.txt

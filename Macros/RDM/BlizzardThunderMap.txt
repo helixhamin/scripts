@@ -1,0 +1,10 @@
+input /echo 1 = Blizzard
+input /echo 2 = Blizzard II
+input /echo 3 = Blizzard III
+input /echo 4 = Blizzard IV
+input /echo 5 = Blizzard V
+input /echo 6 = Thunder
+input /echo 7 = Thunder II
+input /echo 8 = Thunder III
+input /echo 9 = Thunder IV
+input /echo 0 = Thunder V

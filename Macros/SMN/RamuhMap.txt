@@ -1,0 +1,11 @@
+input /echo ` = Ramuh
+input /echo 1 = Shock Strike
+input /echo 2 = Thunder II
+input /echo 3 = Thunderspark
+input /echo 4 = Thunder IV
+input /echo 5 = Chaotic Strike
+input /echo 6 = Thunderstorm
+input /echo 7 = Volt Strike
+input /echo 8 = Rolling Thunder
+input /echo 9 = Lightning Armor
+input /echo 0 = Shock Squall

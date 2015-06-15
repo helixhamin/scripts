@@ -1,0 +1,2 @@
+input /echo Rolls a die to determine damage dealt to nearby enemies
+input /pet "Level ? Holy" <t>

@@ -1,0 +1,8 @@
+input /echo 1 = Fire Spirit
+input /echo 2 = Ice Spirit
+input /echo 3 = Air Spirit
+input /echo 4 = Earth Spirit
+input /echo 5 = Thunder Spirit
+input /echo 6 = Water Spirit
+input /echo 7 = Light Spirit
+input /echo 8 = Dark Spirit

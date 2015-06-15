@@ -1,0 +1,7 @@
+input /echo 1 = Divine Seal
+input /echo 2 = Afflatus Solace
+input /echo 3 = Afflatus Misery
+input /echo 4 = Devotion
+input /echo 5 = Martyr
+input /echo 6 = Divine Caress
+input /echo 7 = Sacrosanctity

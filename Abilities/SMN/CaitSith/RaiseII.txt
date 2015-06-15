@@ -1,0 +1,2 @@
+input /echo Grants the effects of Raise II to the target
+input /pet "Raise II (Blood Pact)" <t>

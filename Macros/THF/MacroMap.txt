@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/THF/THFAbilities.txt
+2-/console exec Macros/THF/THFAbilities2.txt
+3-/console exec Macros/THF/SUB.txt
+4-/console exec Macros/THF/
+5-/console exec Macros/THF/
+6-/console exec Macros/THF/
+7-/console exec Macros/THF/
+8-/console exec Macros/THF/
+9-/console exec Macros/THF/
+0-/console exec Macros/THF/

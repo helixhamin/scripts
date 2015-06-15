@@ -1,0 +1,4 @@
+input /echo 1 = Sneak Attack
+input /echo 2 = Trick Attack
+input /echo 3 = Accomplice
+input /echo 4 = Collaborator

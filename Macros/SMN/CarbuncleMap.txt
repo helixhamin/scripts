@@ -1,0 +1,10 @@
+input /echo 1 = Carbuncle
+input /echo 2 = Poison Nails
+input /echo 3 = Meteorite
+input /echo 4 = Holy Mist
+input /echo 5 = Healing Ruby
+input /echo 6 = Shining Ruby
+input /echo 7 = Glittering Ruby
+input /echo 8 = Healing Ruby II
+input /echo 9 = Soothing Ruby
+input /echo 0 = Pacifying Ruby

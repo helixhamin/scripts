@@ -1,0 +1,2 @@
+input /echo Grants the effects of Reraise II to the targeted party member
+input /pet "Reraise II (Blood Pact)" <t>

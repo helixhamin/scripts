@@ -1,0 +1,8 @@
+input /echo 1 = White Grimoire binds
+input /echo 2 = Black Grimoire binds
+input /echo 3 = Light Arts
+input /echo 4 = Dark Arts
+input /echo 5 = Sublimation
+input /echo 6 = Modus Veritas
+input /echo 7 = Enlightenment
+input /echo 8 = Libra

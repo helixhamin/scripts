@@ -1,0 +1,11 @@
+input /echo ` = Garuda
+input /echo 1 = Claw
+input /echo 2 = Aero II
+input /echo 3 = Aero IV
+input /echo 4 = Predator Claws
+input /echo 5 = Wind Blade
+input /echo 6 = Aerial Armor
+input /echo 7 = Whispering Wind
+input /echo 8 = Hastega
+input /echo 9 = Fleet Wind
+input /echo 0 = Hastega II

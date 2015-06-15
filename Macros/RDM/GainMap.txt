@@ -1,0 +1,8 @@
+input /echo 1 = Enhance binds
+input /echo 2 = Gain-VIT
+input /echo 3 = Gain-MND
+input /echo 4 = Gain-CHR
+input /echo 5 = Gain-AGI
+input /echo 6 = Gain-STR
+input /echo 7 = Gain-INT
+input /echo 8 = Gain-DEX

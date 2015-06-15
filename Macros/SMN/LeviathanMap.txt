@@ -1,0 +1,11 @@
+input /echo ` = Leviathan
+input /echo 1 = Barracuda Dive
+input /echo 2 = Water II
+input /echo 3 = Tail Whip
+input /echo 4 = Water IV
+input /echo 5 = Spinning Dive
+input /echo 6 = Grand Fall
+input /echo 7 = Slowga
+input /echo 8 = Spring Water
+input /echo 9 = Tidal Roar
+input /echo 0 = Soothing Current

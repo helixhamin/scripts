@@ -1,0 +1,2 @@
+input /echo Grants the effects of Arise and Reraise III to all targets within area of effect
+input /pet "Altana's Favor" <me>

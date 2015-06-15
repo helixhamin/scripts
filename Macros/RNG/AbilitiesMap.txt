@@ -1,0 +1,5 @@
+input /echo 1 = Sharpshot
+input /echo 2 = Scavenge
+input /echo 3 = Camouflage
+input /echo 4 = Barrage
+input /echo 5 = Shadowbind

@@ -1,0 +1,2 @@
+input /echo Three-hit attack
+input /pet "Regal Scratch" <t>

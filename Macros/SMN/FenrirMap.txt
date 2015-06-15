@@ -1,0 +1,10 @@
+input /echo 1 = Fenrir
+input /echo 2 = Moonlit Charge
+input /echo 3 = Crescent Fang
+input /echo 4 = Eclipse Bite
+input /echo 5 = Lunar Bay
+input /echo 6 = Lunar Cry
+input /echo 7 = Lunar Roar
+input /echo 8 = Ecliptic Growl
+input /echo 9 = Ecliptic Howl
+input /echo 0 = Heavenward Howl

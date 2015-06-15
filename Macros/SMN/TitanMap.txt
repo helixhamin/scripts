@@ -1,0 +1,11 @@
+input /echo ` = Titan
+input /echo 1 = Rock Throw
+input /echo 2 = Stone II
+input /echo 3 = Rock Buster
+input /echo 4 = Megalith Throw
+input /echo 5 = Stone IV
+input /echo 6 = Mountain Buster
+input /echo 7 = Geocrush
+input /echo 8 = Crag Throw
+input /echo 9 = Earthen Ward
+input /echo 0 = Earthen Armor

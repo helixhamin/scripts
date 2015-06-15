@@ -1,0 +1,11 @@
+input /echo ` = Shiva
+input /echo 1 = Axe Kick
+input /echo 2 = Blizzard II
+input /echo 3 = Double Slap
+input /echo 4 = Blizzard IV
+input /echo 5 = Rush
+input /echo 6 = Heavenly Strike
+input /echo 7 = Frost Armor
+input /echo 8 = Sleepga
+input /echo 9 = Diamond Storm
+input /echo 0 = Crystal Blessing

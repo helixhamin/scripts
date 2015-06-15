@@ -1,0 +1,10 @@
+input /echo 1 = Dia
+input /echo 2 = Dia II
+input /echo 3 = Dia III
+input /echo 4 = Bio
+input /echo 5 = Bio II
+input /echo 6 = Bio III
+input /echo 7 = Poison
+input /echo 8 = Poison II
+input -------------------
+input /echo 0 = Diaga

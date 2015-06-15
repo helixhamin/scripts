@@ -1,0 +1,10 @@
+input /echo 1 = Diabolos
+input /echo 2 = Camisado
+input /echo 3 = Nether Blast
+input /echo 4 = Night Terror
+input /echo 5 = Somnolence
+input /echo 6 = Nightmare
+input /echo 7 = Ultimate Terror
+input /echo 8 = Noctoshield
+input /echo 9 = Dream Shroud
+input /echo 0 = Pavor Nocturnus

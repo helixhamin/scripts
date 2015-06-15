@@ -1,0 +1,2 @@
+input /echo Delivers a threefold attack
+input /pet "Regal Gash" <t>

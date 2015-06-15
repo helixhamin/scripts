@@ -1,0 +1,6 @@
+input /echo 1 = Ifrit
+input /echo 2 = Titan
+input /echo 3 = Leviathan
+input /echo 4 = Garuda
+input /echo 5 = Shiva
+input /echo 6 = Ramuh

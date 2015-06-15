@@ -1,0 +1,2 @@
+input /echo Deals darkness damage to an enemy: 40% more damage to slept monsters
+input /pet "Night Terror" <t>

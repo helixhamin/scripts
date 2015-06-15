@@ -1,0 +1,2 @@
+input /echo Attempts to inflict Death on the target. Success rate is known to be higher if the target is asleep
+input /pet "Pavor Nocturnus" <t>

@@ -1,0 +1,2 @@
+input /echo Decreases attributes of enemies within area of effect
+input /pet "Ultimate Terror" <t>

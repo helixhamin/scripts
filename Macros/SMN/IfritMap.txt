@@ -1,0 +1,11 @@
+input /echo ` = Ifrit
+input /echo 1 = Punch
+input /echo 2 = Fire II
+input /echo 3 = Burning Strike
+input /echo 4 = Double Punch
+input /echo 5 = Fire IV
+input /echo 6 = Flaming Crush
+input /echo 7 = Meteor Strike
+input /echo 8 = Crimson Howl
+input /echo 9 = Inferno Howl
+input /echo 0 = Conflag Strike

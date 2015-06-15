@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/SAM/SAMOAbilities.txt
+2-/console exec Macros/SAM/SAMDAbilities.txt
+3-/console exec Macros/SAM/SUB.txt
+4-/console exec Macros/SAM/
+5-/console exec Macros/SAM/
+6-/console exec Macros/SAM/
+7-/console exec Macros/SAM/
+8-/console exec Macros/SAM/
+9-/console exec Macros/SAM/
+0-/console exec Macros/SAM/

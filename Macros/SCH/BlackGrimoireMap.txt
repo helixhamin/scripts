@@ -1,0 +1,8 @@
+input /echo 1 = Parsimony
+input /echo 2 = Alacrity
+input /echo 3 = Addendum: Black
+input /echo 4 = Manifestation
+input /echo 5 = Ebullience
+input /echo 6 = Focalization
+input /echo 7 = Equanimity
+input /echo 8 = Immanence

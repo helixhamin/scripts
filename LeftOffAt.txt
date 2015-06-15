@@ -1,9 +1,9 @@
-Ninjitsu done
-Songs done
-Spells are done, although some modification may be needed for the selectable target spells.
-SMN will be mapped in the SMN Abilities area, for each avatar.
-Created a master BLU spell guide, so spells can be copied and pasted easily into a macro set.
-Finished RDM bind system. Still need to do SJs, but MJ is done.
-Adjusted DNC macros a bit
-Created MNK, NIN, PLD binds
-Started RDM binds. Have Abilities and healing (HP&MP) macros.
+Finished RDM binds. For RDM, keep in mind, they have alot of different spells, so there are also quite a few sub menus, and some you will either have to add in higher tier spells (Changing Slow to SlowII for example), or swap bind sets (EnSpikes vs. ExIISpikes)
+Completed RNG abilities
+Completed SAM abilities
+Completed SCH abilities
+Completed SMN abilities (Atomos, Alexander, and Odin are under abilities, but 1-hour ability would need to be activated via the menu before they can be used)
+Including SMN avatars and elementals
+Completed THF abilities
+Completed WAR abilities
+Completed WHM abilities

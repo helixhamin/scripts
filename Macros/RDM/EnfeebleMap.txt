@@ -1,0 +1,7 @@
+input /echo 1 = Battle enfeeble binds
+input /echo 2 = Gravity
+input /echo 3 = Gravity II
+input /echo 4 = Bind
+input /echo 5 = Sleep
+input /echo 6 = Sleep II
+input /echo 7 = Break

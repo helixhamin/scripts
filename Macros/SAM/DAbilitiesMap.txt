@@ -1,0 +1,5 @@
+input /echo 1 = Warding Circle
+input /echo 2 = Third Eye
+input /echo 3 = Seigan
+input /echo 4 = Shikikoyo
+input /echo 5 = Hamanoha

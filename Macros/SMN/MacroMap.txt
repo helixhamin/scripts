@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/SMN/SMNAbilities.txt
+2-/console exec Macros/SMN/SUB.txt
+3-/console exec Macros/SMN/Elemental.txt
+4-/console exec Macros/SMN/Carbuncle.txt
+5-/console exec Macros/SMN/Fenrir.txt
+6-/console exec Macros/SMN/Diabolos.txt
+7-/console exec Macros/SMN/CaitSith.txt
+8-/console exec Macros/SMN/ElementalAvatars.txt
+9-/console exec Macros/SMN/
+0-/console exec Macros/SMN/

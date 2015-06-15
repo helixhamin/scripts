@@ -1,0 +1,10 @@
+input /echo 1 = Elemental Siphon
+input /echo 2 = Apogee
+input /echo 3 = Mana Cede
+input /echo 4 = Assault
+input /echo 5 = Release
+input /echo 6 = Retreat
+input /echo 7 = Avatar's Favor
+input /echo 8 = Atomos
+input /echo 9 = Alexander
+input /echo 0 = Odin

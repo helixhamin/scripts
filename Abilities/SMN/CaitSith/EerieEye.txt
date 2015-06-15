@@ -1,0 +1,2 @@
+input /echo Inflicts silence and amnesia on the target
+input /pet "Eerie Eye" <t>

@@ -1,0 +1,10 @@
+input /echo 1 = Enthunder
+input /echo 2 = Enstone
+input /echo 3 = Enaero
+input /echo 4 = Enblizzard
+input /echo 5 = Enfire
+input /echo 6 = Enwater
+input ----------------------
+input /echo 8 = Blaze Spikes
+input /echo 9 = Ice Spikes
+input /echo 0 = Shock Spikes

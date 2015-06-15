@@ -1,0 +1,11 @@
+input /echo ` = Gain binds
+input /echo 1 = Bar Elemental binds
+input /echo 2 = Bar Status binds
+input /echo 3 = Protect
+input /echo 4 = Shell
+input /echo 5 = Aquaveil
+input /echo 6 = Blink
+input /echo 7 = Phalanx
+input /echo 8 = Stoneskin
+input /echo 9 = Haste
+input /echo 0 = Flurry

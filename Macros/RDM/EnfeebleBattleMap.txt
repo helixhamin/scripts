@@ -1,0 +1,8 @@
+input /echo 1 = Paralyze
+input /echo 2 = Blind
+input /echo 3 = Slow
+input /echo 4 = Silence
+input /echo 5 = Distract
+input /echo 6 = Frazzle
+input /echo 7 = Addle
+input /echo 8 = Dispel

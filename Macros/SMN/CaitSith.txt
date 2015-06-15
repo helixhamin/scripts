@@ -1,0 +1,11 @@
+bind ^1 exec Abilities/SMN/CaitSith/CaitSith.txt
+bind ^2 exec Abilities/SMN/CaitSith/RegalScratch.txt
+bind ^3 exec Abilities/SMN/CaitSith/LevelHoly.txt
+bind ^4 exec exec Macros/Nothing.txt
+bind ^5 exec Abilities/SMN/CaitSith/RaiseII.txt
+bind ^6 exec Abilities/SMN/CaitSith/MewingLullaby.txt
+bind ^7 exec Abilities/SMN/CaitSith/ReraiseII.txt
+bind ^8 exec Abilities/SMN/CaitSith/EerieEye.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
+bind ^- exec Macros/SMN/CaitSithMap.txt

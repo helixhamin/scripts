@@ -1,0 +1,9 @@
+input /echo 1 = Steal
+input /echo 2 = Flee
+input /echo 3 = Mug
+input /echo 4 = Hide
+input /echo 5 = Assassin's Charge
+input /echo 6 = Feint
+input /echo 7 = Despoil
+input /echo 8 = Conspirator
+input /echo 9 = Bully

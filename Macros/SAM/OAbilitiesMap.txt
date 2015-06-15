@@ -1,0 +1,7 @@
+input /echo 1 = Hasso
+input /echo 2 = Meditate
+input /echo 3 = Sekkanoki
+input /echo 4 = Konzen-ittai
+input /echo 5 = Blade Bash
+input /echo 6 = Sengikori
+input /echo 7 = Hagakure

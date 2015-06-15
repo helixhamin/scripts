@@ -1,0 +1,8 @@
+input /echo 1 = Cait Sith
+input /echo 2 = Regal Scratch
+input /echo 3 = Level ? Holy
+input /echo -----------------
+input /echo 5 = Raise II
+input /echo 6 = Mewing Lullaby
+input /echo 7 = Reraise II
+input /echo 8 = Eerie Eye

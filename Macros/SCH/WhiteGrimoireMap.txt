@@ -1,0 +1,8 @@
+input /echo 1 = Penury
+input /echo 2 = Addendum: White
+input /echo 3 = Celerity
+input /echo 4 = Accession
+input /echo 5 = Rapture
+input /echo 6 = Altruism
+input /echo 7 = Tranquility
+input /echo 8 = Perpetuance

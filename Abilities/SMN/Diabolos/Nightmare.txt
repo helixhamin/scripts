@@ -1,0 +1,2 @@
+input /echo Deals darkness elemental damage that puts all enemies within the area of effect to sleep and gradually reduces their HP
+input /pet "Nightmare" <t>
