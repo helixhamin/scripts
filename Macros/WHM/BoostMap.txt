@@ -1,0 +1,7 @@
+input /echo 1 = Boost-VIT
+input /echo 2 = Boost-MND
+input /echo 3 = Boost-CHR
+input /echo 4 = Boost-AGI
+input /echo 5 = Boost-STR
+input /echo 6 = Boost-INT
+input /echo 7 = Boost-DEX

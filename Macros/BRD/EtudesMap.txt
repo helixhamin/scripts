@@ -1,0 +1,7 @@
+input /echo 1 = Enchanting Etude
+input /echo 2 = Spirited Etude
+input /echo 3 = Learned Etude
+input /echo 4 = Quick Etude
+input /echo 5 = Vivacious Etude
+input /echo 6 = Dextrous Etude
+input /echo 7 = Sinewy Etude

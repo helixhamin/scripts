@@ -1,0 +1,7 @@
+input /echo 1 = Protectra
+input /echo 2 = Shellra
+input /echo 3 = Aquaveil
+input /echo 4 = Blink
+input /echo 5 = Auspice
+input /echo 6 = Stoneskin
+input /echo 7 = Haste

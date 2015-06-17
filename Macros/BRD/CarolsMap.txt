@@ -1,0 +1,8 @@
+input /echo 1 = Light Carol
+input /echo 2 = Earth Carol
+input /echo 3 = Water Carol
+input /echo 4 = Wind Carol
+input /echo 5 = Fire Carol
+input /echo 6 = Ice Carol
+input /echo 7 = Lightning Carol
+input /echo 8 = Dark Carol

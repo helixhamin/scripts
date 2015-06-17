@@ -1,0 +1,11 @@
+input /echo ` = Cure
+input /echo 1 = Cure II
+input /echo 2 = Cure III
+input /echo 3 = Cure IV
+input /echo 4 = Cure V
+input /echo 5 = Cure VI
+input /echo 6 = Regen
+input /echo 7 = Regen II
+input /echo 8 = Regen III
+input /echo 9 = Regen IV
+input /echo 0 = Regen V

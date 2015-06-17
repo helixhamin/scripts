@@ -1,0 +1,8 @@
+input /echo 1 = Army's Paeon
+input /echo 2 = Mage's Ballad
+input /echo ------------------
+input /echo 4 = Raptor Mazurka
+input /echo 5 = Goddess's Hymnus
+input /echo 6 = Adventurer's Dirge
+input /echo 7 = Foe Sirvente
+input /echo 8 = Sentinel's Scherzo

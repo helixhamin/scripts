@@ -1,0 +1,87 @@
+Spells: Complete
+Abilities: Complete
+Weaponskills: Complete
+
+BLM - 
+Main: Complete
+SUB: Not started
+
+BLU - 
+Main: Mapped abilities. Created solo SCes, but need to create shortcuts since full path is not enterable in FFXI macro slots. Need to think about how to set up spell maps. Might have a general reference, which can be changed easily with individual sets set up.
+SUB: Not started
+
+BRD - 
+Main: Abilities and songs done. Keep in mind, you will need to increment new songs as you level up (For example, Knight's Minne is bound to I, so at level 21, just add a II to the end). Need to map WSes.
+SUB: Not started
+
+BST - 
+Main: Abilities and basic pet abilities done. Need to map out specific pet /ja's and WSes.
+SUB: Not started
+
+COR - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+DNC - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+DRG - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+DRK - 
+Main: Abilities and spells complete. Need to map WSes.
+SUB: Not started
+
+MNK - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+NIN - 
+Main: Abilities and spells complete. Need to map WSes.
+SUB: Not started
+
+PLD - 
+Main: Abilities and spells complete. Need to map WSes.
+SUB: Not started
+
+PUP - 
+Main: Not started (Will not work on PUP until it is implemented in Legiondark, unless I map for my own personal server going forward)
+SUB: Not started
+
+RDM - 
+Main: Abilities and spells complete. Need to map WSes.
+SUB: Not started
+
+RNG - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+SAM - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+SCH - 
+Main: Abilities complete. Need to map spells.
+SUB: Not started
+
+SMN - 
+Main: Complete
+SUB: Not started
+
+THF - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+WAR - 
+Main: Abilities complete. Need to map WSes.
+SUB: Not started
+
+WHM - 
+Main: Abilities and spells complete.
+SUB: Not started
+
+Yuehan Mule - Not started
+Weijun Mule - Not started
+Delaide Mule - Not started

@@ -1,0 +1,9 @@
+input /echo ` = Bar Elemental binds
+input /echo 1 = Barsleepra
+input /echo 2 = Barpoisonra
+input /echo 3 = Barparalyzra
+input /echo 4 = Barblindra
+input /echo 5 = Barsilencera
+input /echo 6 = Barvira
+input /echo 7 = Barpetra
+input /echo 8 = Baramnesra

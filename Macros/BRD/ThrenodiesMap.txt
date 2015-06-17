@@ -1,0 +1,8 @@
+input /echo 1 = Light Threnody
+input /echo 2 = Dark Threnody
+input /echo 3 = Earth Threnody
+input /echo 4 = Water Threnody
+input /echo 5 = Wind Threnody
+input /echo 6 = Fire Threnody
+input /echo 7 = Ice Threnody
+input /echo 8 = Lightning Threnody

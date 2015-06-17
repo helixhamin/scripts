@@ -1,11 +1,11 @@
 ctrl:
 1-/console exec Macros/BRD/BRDAbilities.txt
 2-/console exec Macros/BRD/SUB.txt
-3-/console exec Macros/BRD/
-4-/console exec Macros/BRD/
-5-/console exec Macros/BRD/
-6-/console exec Macros/BRD/
-7-/console exec Macros/BRD/
-8-/console exec Macros/BRD/
-9-/console exec Macros/BRD/
+3-/console exec Macros/BRD/Carols.txt
+4-/console exec Macros/BRD/Debuffs.txt
+5-/console exec Macros/BRD/Threnodies.txt
+6-/console exec Macros/BRD/Etudes.txt
+7-/console exec Macros/BRD/RecoveryMisc.txt
+8-/console exec Macros/BRD/Stats.txt
+9-/console exec Macros/BRD/Resistance.txt
 0-/console exec Macros/BRD/

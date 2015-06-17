@@ -2,10 +2,10 @@ ctrl:
 1-/console exec Macros/WHM/WHMAbilities.txt
 2-/console exec Macros/WHM/SUB.txt
 3-/console exec Macros/WHM/Healing.txt
-4-/console exec Macros/WHM/Enhancing.txt
-5-/console exec Macros/WHM/Bar.txt
-6-/console exec Macros/WHM/Na.txt
-7-/console exec Macros/WHM/Enfeebling.txt
-8-/console exec Macros/WHM/Boost.txt
-9-/console exec Macros/WHM/
-0-/console exec Macros/WHM/
+4-/console exec Macros/WHM/GaHealing.txt
+5-/console exec Macros/WHM/Enhancing.txt
+6-/console exec Macros/WHM/BarElemental.txt
+7-/console exec Macros/WHM/Na.txt
+8-/console exec Macros/WHM/EnfeebleDOT.txt
+9-/console exec Macros/WHM/Boost.txt
+0-/console exec Macros/WHM/Divine.txt

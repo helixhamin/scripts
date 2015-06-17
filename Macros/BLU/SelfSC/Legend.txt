@@ -1,0 +1,13 @@
+AABC(c)CD(d)D
+AA = level chain
+L1 = Level 1 chain
+L2 = Level 2 chain
+L3 = Level 3 chain
+
+B = Weapon type
+C = Club
+S = Sword
+
+C(c)C = Weapon Skill
+
+D(d)D = Blue spell

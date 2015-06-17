@@ -1,0 +1,7 @@
+input /echo ` = Bar Status binds
+input /echo 1 = Barstonra
+input /echo 2 = Barwatera
+input /echo 3 = Baraera
+input /echo 4 = Barfira
+input /echo 5 = Barblizzara
+input /echo 6 = Barthundra

@@ -1,0 +1,5 @@
+input /echo 1 = Bind
+input /echo 2 = Sleep
+input /echo 3 = Sleep II
+input /echo 4 = Stun
+input /echo 5 = Break

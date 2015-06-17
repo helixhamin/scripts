@@ -1,0 +1,6 @@
+input /echo 1 = Poison
+input /echo 2 = Poison II
+input /echo 3 = Bio
+input /echo 4 = Bio II
+input /echo --------------
+input /echo 0 = Poisonga

@@ -1,0 +1,10 @@
+input /echo 1 = Foe Requiem
+input /echo 2 = Magic Finale
+input /echo 3 = Battlefield Elegy
+input /echo 4 = Maiden's Virelai
+input /echo 5 = Pining Nocturne
+input /echo ---------------------
+input /echo 7 = Foe Lullaby
+input /echo 8 = Foe Lullaby II
+input /echo 9 = Horde Lullaby
+input /echo 0 = Horde Lullaby II

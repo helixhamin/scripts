@@ -1,0 +1,10 @@
+input /echo 1 = Poisona
+input /echo 2 = Paralyna
+input /echo 3 = Blindna
+input /echo 4 = Silena
+input /echo 5 = Cursna
+input /echo 6 = Viruna
+input /echo 7 = Stona
+input /echo 8 = Esuna
+input /echo 9 = Erase
+input /echo 0 = Sacrifice

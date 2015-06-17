@@ -1,0 +1,8 @@
+input /echo 1 = Curaga
+input /echo 2 = Curaga II
+input /echo 3 = Curaga III
+input /echo 4 = Curaga IV
+input /echo 5 = Curaga V
+input /echo 6 = Cura
+input /echo 7 = Cura II
+input /echo 8 = Cura III

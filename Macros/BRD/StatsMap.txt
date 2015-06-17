@@ -1,0 +1,7 @@
+input /echo 1 = Knight's Minne
+input /echo 2 = Valor Minuet
+input /echo ------------------
+input /echo 4 = Sword Madrigal
+input /echo 5 = Sheepfoe Mambo
+input /echo 6 = Advancing March
+input /echo 7 = Hunter's Prelude

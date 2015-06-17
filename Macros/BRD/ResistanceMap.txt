@@ -1,0 +1,7 @@
+input /echo 1 = Herb Pastoral
+input /echo 2 = Scop's Operetta
+input /echo 3 = Fowl Aubade
+input /echo 4 = Goblin Gavotte
+input /echo 5 = Gold Capriccio
+input /echo 6 = Shining Fantasia
+input /echo 7 = Warding Round

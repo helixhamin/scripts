@@ -1,9 +1,8 @@
-Finished RDM binds. For RDM, keep in mind, they have alot of different spells, so there are also quite a few sub menus, and some you will either have to add in higher tier spells (Changing Slow to SlowII for example), or swap bind sets (EnSpikes vs. ExIISpikes)
-Completed RNG abilities
-Completed SAM abilities
-Completed SCH abilities
-Completed SMN abilities (Atomos, Alexander, and Odin are under abilities, but 1-hour ability would need to be activated via the menu before they can be used)
-Including SMN avatars and elementals
-Completed THF abilities
-Completed WAR abilities
-Completed WHM abilities
+Completed BRD songs binds
+Completed DRK spells binds
+Completed WHM spells binds
+
+BLU: (All shortcuts can be found at Macros\BLU\SelfSC)
+All shortcuts made for: 
+L1\Compression
+L1\Detonation

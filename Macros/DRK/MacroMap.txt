@@ -1,11 +1,11 @@
 ctrl:
 1-/console exec Macros/DRK/DRKAbilities.txt
 2-/console exec Macros/DRK/SUB.txt
-3-/console exec Macros/DRK/
-4-/console exec Macros/DRK/
-5-/console exec Macros/DRK/
-6-/console exec Macros/DRK/
-7-/console exec Macros/DRK/
-8-/console exec Macros/DRK/
-9-/console exec Macros/DRK/
+3-/console exec Macros/DRK/Elemental.txt
+4-/console exec Macros/DRK/ElementalII.txt
+5-/console exec Macros/DRK/ElementalIII.txt
+6-/console exec Macros/DRK/DOT.txt
+7-/console exec Macros/DRK/Enfeeble.txt
+8-/console exec Macros/DRK/Absorb.txt
+9-/console exec Macros/DRK/DrainEnSpikes.txt
 0-/console exec Macros/DRK/

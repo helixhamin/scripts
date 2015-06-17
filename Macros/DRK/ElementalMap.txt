@@ -1,0 +1,6 @@
+input /echo 1 = Stone
+input /echo 2 = Water
+input /echo 3 = Aero
+input /echo 4 = Fire
+input /echo 5 = Blizzard
+input /echo 6 = Thunder

@@ -1,0 +1,5 @@
+exec Macros/BLU/SelfSC/L1/Detonation/Sword/SeraphBlade/SpinalCleave.txt
+wait 8
+send Delaide exec Macros/BLU/SelfSC/L1/Detonation/Sword/SeraphBlade/SpinalCleave.txt
+wait 8
+send Yuehan exec Macros/BLU/SelfSC/L1/Detonation/Sword/SeraphBlade/SpinalCleave.txt

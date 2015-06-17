@@ -1,0 +1,6 @@
+input /echo 1 = Stone III
+input /echo 2 = Water III
+input /echo 3 = Aero III
+input /echo 4 = Fire III
+input /echo 5 = Blizzard III
+input /echo 6 = Thunder III

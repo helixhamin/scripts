@@ -1,0 +1,10 @@
+input /echo 1 = Paralyze
+input /echo 2 = Slow
+input /echo 3 = Silence
+input /echo 4 = Repose
+input /echo 5 = Addle
+input /echo -------------
+input /echo 7 = Dia
+input /echo 8 = Dia II
+input /echo -------------
+input /echo 0 = Diaga

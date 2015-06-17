@@ -1,0 +1,10 @@
+input /echo 1 = Absorb-MND
+input /echo 2 = Absorb-CHR
+input /echo 3 = Absorb-VIT
+input /echo 4 = Absorb-AGI
+input /echo 5 = Absorb-INT
+input /echo 6 = Absorb-DEX
+input /echo 7 = Absorb-STR
+input /echo 8 = Absorb-TP
+input /echo 9 = Absorb-ACC
+input /echo 0 = Absorb-Attri

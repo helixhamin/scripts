@@ -1,0 +1,10 @@
+input /echo 1 = Banish
+input /echo 2 = Banish II
+input /echo 3 = Banish III
+input /echo 4 = Holy
+input /echo 5 = Holy II
+input /echo 6 = Banishga
+input /echo 7 = Banishga II
+input /echo ---------------
+input /echo 9 = Flash
+input /echo 0 = Repose

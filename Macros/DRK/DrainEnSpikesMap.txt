@@ -1,0 +1,8 @@
+input /echo 1 = Drain
+input /echo 2 = Drain II
+input /echo 3 = Aspir
+input /echo 4 = Aspir II
+input /echo ----------------
+input /echo 6 = Dread Spikes
+input /echo 7 = Endark
+input /echo 8 = Endark II

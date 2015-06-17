@@ -1,7 +1,0 @@
-exec WeaponSkills/Sword/(WSName).txt
-OR
-exec WeaponSkills/Club/(WSName).txt
-wait 2
-exec Abilities/BLU/ChainAffinity.txt
-wait 2
-exec Spells/BlueMagic/(Pathtospell)/(SpellName).txt
