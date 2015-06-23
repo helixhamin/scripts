@@ -1,9 +1,11 @@
+Macro maps note: Most macro maps have been created. Please note, the macro maps are designed to be mapped to your job specific book in FFXI client itself, not in Windower. If you use macro changer, then put them in the proper book/page. If you do it manually, you can figure out your own place to put them. Like all of my scripts, these are my preferences. You can modify as you want/need to.
+
 Spells: Complete
 Abilities: Complete
 Weaponskills: Complete
 
 BLM - 
-Main: Complete
+Main: Complete. Mapped WSes. You will need to put in the correct weapon family manually into the BLMAbilities.txt file (Staff if you want to use staff, club if you want to use club, dagger if you want to use dagger, and scythe if you want to use scythe). The WSes are on a second menu selection, since most BLMs will not use WSes except during skill ups. Please note, for staff, I did not add Earth Crusher, since there are only 10 maps, and there are 11 staff skills BLM can use with the correct SJ (And since it is basically the same as Rock Crusher). If you want it, please manually add as desired.
 SUB: Not started
 
 BLU - 
@@ -11,7 +13,7 @@ Main: Mapped abilities. Created solo SCes, but need to create shortcuts since fu
 SUB: Not started
 
 BRD - 
-Main: Abilities and songs done. Keep in mind, you will need to increment new songs as you level up (For example, Knight's Minne is bound to I, so at level 21, just add a II to the end). Need to map WSes.
+Main: Abilities and songs done. Keep in mind, you will need to increment new songs as you level up (For example, Knight's Minne is bound to I, so at level 21, just add a II to the end). WSes have been mapped. You wil need to set the weapon type in the macro map (CTRL+0).
 SUB: Not started
 
 BST - 

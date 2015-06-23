@@ -1,3 +1,4 @@
+bind ^` exec Macros/BLM/(NameofWeaponType).txt
 bind ^1 exec Abilities/BLM/ElementalSeal.txt
 bind ^2 exec Abilities/BLM/ManaWall.txt
 bind ^3 exec Abilities/BLM/EnmityDouse.txt

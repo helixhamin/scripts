@@ -1,8 +1,8 @@
-input /ws "Red Lotus Blade" <t>
-wait 2
-send Yuehan input /ja Boost <me>
-wait 2
-send Yuehan input /ws Combo <t>
-wait 3
-send Delaide input /ma "Holy" <t>
-input /ma Flash <t>
+    input /ws "Red Lotus Blade" <t>
+    wait 2
+    send Yuehan input /ja Boost <me>
+    wait 2
+    send Yuehan input /ws Combo <t>
+    wait 3
+    send Delaide input /ma "Holy" <t>
+    input /ma Flash <t>

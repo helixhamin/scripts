@@ -1,7 +1,7 @@
 input /ma "Head Butt" <t>
-wait 3
+wait 4
 send Yuehan input /ma "Head Butt" <t>
-wait 3
+wait 4
 send Delaide input /ma "Head Butt" <t>
 wait 4
 input /echo Head Butt round ready!

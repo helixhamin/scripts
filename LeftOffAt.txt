@@ -1,6 +1,4 @@
-Completed BRD songs binds
-Completed DRK spells binds
-Completed WHM spells binds
+Completed BLM/BRD WS macros. BLM macros is a sub menu of abilities, since BLMs will be meleeing less frequently on average, and because I just did not have free macro map slots for the WSes.
 
 BLU: (All shortcuts can be found at Macros\BLU\SelfSC)
 All shortcuts made for: 
