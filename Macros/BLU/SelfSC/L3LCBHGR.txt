@@ -1,0 +1,5 @@
+exec Macros/BLU/SelfSC/L3/Light/Club/BlackHalo/GoblinRush.txt
+wait 8
+send Delaide exec Macros/BLU/SelfSC/L3/Light/Club/BlackHalo/GoblinRush.txt
+wait 8
+send Yuehan exec Macros/BLU/SelfSC/L3/Light/Club/BlackHalo/GoblinRush.txt

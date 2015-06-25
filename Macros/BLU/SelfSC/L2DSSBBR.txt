@@ -1,0 +1,5 @@
+exec Macros/BLU/SelfSC/L2/Distortion/Sword/SavageBlade/Bloodrake.txt
+wait 8
+send Delaide exec Macros/BLU/SelfSC/L2/Distortion/Sword/SavageBlade/Bloodrake.txt
+wait 8
+send Yuehan exec Macros/BLU/SelfSC/L2/Distortion/Sword/SavageBlade/Bloodrake.txt

@@ -1,0 +1,9 @@
+input /echo 1 = Wasp Sting
+input /echo 2 = Gust Slash
+input /echo 3 = Shadowstitch
+input /echo 4 = Viper Bite (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)
+input /echo 5 = Cyclone (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)
+input /echo 6 = Energy Steal
+input /echo 7 = Energy Drain (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)
+input /echo 8 = Evisceration
+input /echo 9 = Aeolian Edge (Only with SJ THF/RDM/BRD/RNG/DNC/NIN)

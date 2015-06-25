@@ -1,0 +1,5 @@
+exec Macros/BLU/SelfSC/L1/Induration/Club/Brainshaker/GrandSlam.txt
+wait 8
+send Delaide exec Macros/BLU/SelfSC/L1/Induration/Club/Brainshaker/GrandSlam.txt
+wait 8
+send Yuehan exec Macros/BLU/SelfSC/L1/Induration/Club/Brainshaker/GrandSlam.txt

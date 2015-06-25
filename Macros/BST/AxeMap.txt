@@ -1,0 +1,11 @@
+input /echo ` = Raging Axe
+input /echo 1 = Smash Axe
+input /echo 2 = Gale Axe
+input /echo 3 = Avalanche Axe
+input /echo 4 = Spinning Axe
+input /echo 5 = Rampage
+input /echo 6 = Calamity
+input /echo 7 = Mistral Axe
+input /echo 8 = Decimation
+input /echo 9 = Primal Rend
+input /echo 0 = Bora Axe

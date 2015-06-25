@@ -9,7 +9,7 @@ Main: Complete. Mapped WSes. You will need to put in the correct weapon family m
 SUB: Not started
 
 BLU - 
-Main: Mapped abilities. Created solo SCes, but need to create shortcuts since full path is not enterable in FFXI macro slots. Need to think about how to set up spell maps. Might have a general reference, which can be changed easily with individual sets set up.
+Main: Mapped abilities. Created solo SCes, and shortcuts that are enterable in FFXI macro slots. These short cuts will fire off multiple character WSes, so if you do not want your main, then mule, then mule, to use these, you will need to modify. Need to think about how to set up spell maps. Might have a general reference, which can be changed easily with individual sets set up. Thinking about creating sword/club WSes that are the solo sc binds.
 SUB: Not started
 
 BRD - 
