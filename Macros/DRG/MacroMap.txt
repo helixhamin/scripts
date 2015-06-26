@@ -8,4 +8,4 @@ ctrl:
 7-/console exec Macros/DRG/
 8-/console exec Macros/DRG/
 9-/console exec Macros/DRG/
-0-/console exec Macros/DRG/
+0-/console exec Macros/DRG/(Insert weapon here).txt

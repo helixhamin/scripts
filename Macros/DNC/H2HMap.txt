@@ -1,0 +1,6 @@
+input /echo 1 = Combo
+input /echo 2 = Shoulder Tackle
+input /echo 3 = One Inch Punch
+input /echo 4 = Backhand Blow
+input /echo 5 = Raging Fists (Only with SJ MNK/PUP)
+input /echo 6 = Spinning Attack

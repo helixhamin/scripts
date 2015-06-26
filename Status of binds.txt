@@ -17,19 +17,19 @@ Main: Abilities and songs done. Keep in mind, you will need to increment new son
 SUB: Not started
 
 BST - 
-Main: Abilities and basic pet abilities done. Need to map out specific pet /ja's and WSes.
+Main: Abilities and basic pet abilities done. WSes mapped. Need to map out specific pet /ja's.
 SUB: Not started
 
 COR - 
-Main: Abilities complete. Need to map WSes.
+Main: Abilities complete. WSes completed. Please ensure you map your weapon to the master binds.
 SUB: Not started
 
 DNC - 
-Main: Abilities complete. Need to map WSes.
+Main: Abilities complete. WSes ompleted. For Dagger, there are too many WSes, so please remove what you don't want to add the missing. Missing are noted in the DaggerMap.txt file.
 SUB: Not started
 
 DRG - 
-Main: Abilities complete. Need to map WSes.
+Main: Abilities complete. WSes completed.
 SUB: Not started
 
 DRK - 

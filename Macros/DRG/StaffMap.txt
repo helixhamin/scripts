@@ -1,0 +1,10 @@
+input /echo 1 = Heavy Swing
+input /echo 2 = Rock Crusher
+input /echo 3 = Earth Crusher (Only with SJ GEO/PLD/WAR/MNK/WHM)
+input /echo 4 = Starburst
+input /echo 5 = Sunburst (Only with SJ GEO/PLD/WAR/MNK/WHM)
+input /echo 6 = Shell Crusher
+input /echo 7 = Full Swing
+input /echo 8 = Spirit Taker
+input /echo 9 = Retribution
+input /echo 0 = Cataclysm (Only with SJ GEO/PLD/WAR/MNK/WHM)

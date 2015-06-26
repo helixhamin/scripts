@@ -8,4 +8,4 @@ ctrl:
 7-/console exec Macros/DNC/Flourishes.txt
 8-/console exec Macros/DNC/
 9-/console exec Macros/DNC/
-0-/console exec Macros/DNC/
+0-/console exec Macros/DNC/(Insert weapon here).txt

@@ -1,0 +1,7 @@
+input /echo 1 = Hot Shot
+input /echo 2 = Split Shot
+input /echo 3 = Sniper Shot
+input /echo 4 = Slug Shot
+input /echo 5 = Detonator
+input /echo 6 = Leaden Salute
+input /echo 7 = Numbing Shot

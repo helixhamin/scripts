@@ -1,0 +1,12 @@
+input /echo ` = Wasp Sting
+input /echo 1 = Gust Slash
+input /echo 2 = Shadowstitch
+input /echo 3 = Viper Bite
+input /echo 4 = Cyclone
+input /echo 5 = Energy Steal
+input /echo 6 = Energy Drain
+input /echo 7 = Dancing Edge
+input /echo 8 = Shark Bite
+input /echo 9 = Evisceration
+input /echo 0 = Pyrrhic Kleos
+input /echo unmapped, so if you want, map: Aeolian Edge, Exenterator

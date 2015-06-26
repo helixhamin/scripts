@@ -1,0 +1,2 @@
+input /echo Charges:1-Target:Single target damage
+input /pet "Foot Kick" <me>

@@ -1,0 +1,11 @@
+input /echo ` = Double Thrust
+input /echo 1 = Thunder Thrust
+input /echo 2 = Raiden Thrust
+input /echo 3 = Leg Sweep
+input /echo 4 = Penta Thrust
+input /echo 5 = Vorpal Thrust
+input /echo 6 = Skewer
+input /echo 7 = Wheeling Thrust
+input /echo 8 = Impulse Drive
+input /echo 9 = Drakesbane
+input /echo 0 = Sonic Thrust

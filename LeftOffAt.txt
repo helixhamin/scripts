@@ -1,7 +1,3 @@
-Completed BLM/BRD WS macros. BLM macros is a sub menu of abilities, since BLMs will be meleeing less frequently on average, and because I just did not have free macro map slots for the WSes.
-
-BLU: (All shortcuts can be found at Macros\BLU\SelfSC)
-All shortcuts made for all SCes, so it should work in POL macros directly, or if you are binding them, you can just use the unshortcutted in the binds. Please note, my solo-sc shortcuts creates a multi-character SC, so you will have one SC, then the second SC off that SC, then the third SC off the second SC. If this is not what you want, then modify the solo SC shortcuts, if you are using them.
-Sorry, there are 213 total combinations of solo SC for BLU, depending on your weapons (Sword/Club) and spell sets. Anyone using will need to plan which they want to use for proper macroing/binding.
-
-Completed BST WSes
+Completed COR WSes
+Completed DNC WSes
+Completed DRG WSes

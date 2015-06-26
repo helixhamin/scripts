@@ -1,0 +1,2 @@
+input /echo Charges:1-Target:AOE Damage
+input /pet "Whirl Claws" <me>

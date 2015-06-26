@@ -8,4 +8,4 @@ ctrl:
 7-/console exec Macros/COR/
 8-/console exec Macros/COR/
 9-/console exec Macros/COR/
-0-/console exec Macros/COR/
+0-/console exec Macros/COR/(Insert weapon here).txt
