@@ -1,0 +1,4 @@
+input /echo Delaide's and Weijun's pets should be attacking now...
+input /pet "Fight" <t>
+send Delaide /pet "Fight" <t>
+send Weijun /pet "Fight" <t>

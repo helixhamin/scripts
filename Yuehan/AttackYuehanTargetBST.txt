@@ -1,0 +1,7 @@
+input /echo Delaide and Weijun should be attacking now...
+input /pet "Fight" <t>
+send Delaide /attack <t>
+send Weijun /attack <t>
+wait 2
+send Delaide /pet "Fight" <t>
+send Weijun /pet "Fight" <t>

@@ -1,0 +1,5 @@
+exec WeaponSkills/Axe/AvalancheAxe.txt
+wait 4
+send Delaide exec WeaponSkills/Axe/SpinningAxe.txt
+wait 4
+send Weijun exec WeaponSkills/Axe/AvalancheAxe.txt

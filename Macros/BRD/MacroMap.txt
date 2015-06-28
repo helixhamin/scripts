@@ -8,4 +8,4 @@ ctrl:
 7-/console exec Macros/BRD/RecoveryMisc.txt
 8-/console exec Macros/BRD/Stats.txt
 9-/console exec Macros/BRD/Resistance.txt
-0-/console exec Macros/BRD/(Insert weapon here).txt
+0-/console exec Macros/BRD/Sword.txt
