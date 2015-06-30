@@ -1,0 +1,24 @@
+bind ^` exec Macros/BLM/Aero.txt
+bind ^1 exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+bind ^1 send Delaide exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+bind ^1 Send Weijun exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+bind ^1 Send Yuehan exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+bind ^2 exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^2 send Delaide exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^2 Send Weijun exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^2 Send Yuehan exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^3 exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^3 send Delaide exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^3 Send Weijun exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^3 Send Yuehan exec Spells/ElementalMagic/AOE/Wind/AerogaII.txt
+bind ^4 exec Spells/ElementalMagic/AOE/Wind/Aeroja.txt
+bind ^4 send Delaide exec Spells/ElementalMagic/AOE/Wind/Aeroja.txt
+bind ^4 Send Weijun exec Spells/ElementalMagic/AOE/Wind/Aeroja.txt
+bind ^4 Send Yuehan exec Spells/ElementalMagic/AOE/Wind/Aeroja.txt
+bind ^5 exec Macros/Nothing.txt
+bind ^6 exec Macros/Nothing.txt
+bind ^7 exec Macros/Nothing.txt
+bind ^8 exec Macros/Nothing.txt
+bind ^9 exec Macros/Nothing.txt
+bind ^0 exec Macros/Nothing.txt
+bind ^- exec Macros/BLM/AerogaMap.txt

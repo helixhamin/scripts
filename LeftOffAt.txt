@@ -1,3 +1,3 @@
-Completed COR WSes
-Completed DNC WSes
-Completed DRG WSes
+Added BLM Multitoon macro system. This is designed for two mules (Named as my mules/main) to cast the same spell at the same time as the main caster. Still need to experiment with this to see how well multibinds and main send commands work.
+Only the base elemental spells and elemental -ga spells are mapped (Fire, Fire II, Fire III, Fire IV, etc, Ice, Water, Firaga, Firaga II, etc)
+BLM macros for enfeeble will be set up in a different manner for multibox support (Rotational binding), and AMs need to be figured out.
