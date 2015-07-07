@@ -1,3 +1,2 @@
-Added BLM Multitoon macro system. This is designed for two mules (Named as my mules/main) to cast the same spell at the same time as the main caster. Still need to experiment with this to see how well multibinds and main send commands work.
-Only the base elemental spells and elemental -ga spells are mapped (Fire, Fire II, Fire III, Fire IV, etc, Ice, Water, Firaga, Firaga II, etc)
-BLM macros for enfeeble will be set up in a different manner for multibox support (Rotational binding), and AMs need to be figured out.
+Completed DRK, MNK WSes.
+Change SJ mapping method. I will instead create a single SJ map for each job, so it will be universally referenced. This will be a mess for a while on jobs with many possible maps (Like caster sjs, where you can have many spells)

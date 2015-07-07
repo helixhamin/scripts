@@ -1,0 +1,11 @@
+input /echo ` = -ga/ja spells
+input /echo 1 = Blizzard I
+input /echo 2 = Blizzard II
+input /echo 3 = Blizzard III
+input /echo 4 = Blizzard IV
+input /echo 5 = Blizzard V
+input /echo 6 = Blizzard VI
+input /echo 7 = Freeze I
+input /echo 8 = Freeze II
+input /echo 9 = 
+input /echo 0 = Frost

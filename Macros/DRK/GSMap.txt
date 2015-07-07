@@ -1,0 +1,11 @@
+input /echo ` = Hard Slash
+input /echo 1 = Power Slash
+input /echo 2 = Frostbite
+input /echo 3 = Freezebite
+input /echo 4 = Shockwave
+input /echo 5 = Crescent Moon
+input /echo 6 = Sickle Moon
+input /echo 7 = Spinning Slash
+input /echo 8 = Ground Strike
+input /echo 9 = Herculean Slash
+input /echo 0 = Torcleaver

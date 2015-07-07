@@ -1,0 +1,11 @@
+input /echo ` = Weapon Skills
+input /echo 1 = Elemental Seal
+input /echo 2 = Mana Wall
+input /echo 3 = Enmity Douse
+input /echo 4 = Manawell
+input /echo 5 = Subtle Sorcery
+input /echo ------------------
+input /echo 7 = Blaze Spikes
+input /echo 8 = Ice Spikes
+input /echo 9 = Shock Spikes
+input /echo 0 = Meteor

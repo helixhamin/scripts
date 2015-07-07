@@ -1,0 +1,5 @@
+input /echo ` = Single Target Aero Spells
+input /echo 1 = Aeroga I
+input /echo 2 = Aeroga II
+input /echo 3 = Aeroga III
+input /echo 4 = Aeroja

@@ -1,0 +1,5 @@
+input /echo ` = Single Target Fire Spells
+input /echo 1 = Firaga I
+input /echo 2 = Firaga II
+input /echo 3 = Firaga III
+input /echo 4 = Firaja

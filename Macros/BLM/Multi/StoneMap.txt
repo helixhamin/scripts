@@ -1,0 +1,11 @@
+input /echo ` = -ga/ja spells
+input /echo 1 = Stone I
+input /echo 2 = Stone II
+input /echo 3 = Stone III
+input /echo 4 = Stone IV
+input /echo 5 = Stone V
+input /echo 6 = Stone VI
+input /echo 7 = Quake I
+input /echo 8 = Quake II
+input /echo 9 = 
+input /echo 0 = Rasp

@@ -1,0 +1,5 @@
+input /echo ` = Single Target Blizzard Spells
+input /echo 1 = Blizzaga I
+input /echo 2 = Blizzaga II
+input /echo 3 = Blizzaga III
+input /echo 4 = Blizzaja

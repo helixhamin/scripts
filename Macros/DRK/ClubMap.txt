@@ -1,0 +1,9 @@
+input /echo 1 = Shining Strike
+input /echo 2 = Seraph Strike
+input /echo 3 = Brainshaker
+input /echo 4 = Starlight
+input /echo 5 = Moonlight
+input /echo 6 = Skullbreaker
+input /echo 7 = True Strike
+input /echo 8 = Judgment
+input /echo 9 = Flash Nova

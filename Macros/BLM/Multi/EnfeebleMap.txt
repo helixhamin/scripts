@@ -1,0 +1,7 @@
+input /echo ` = Enfeeble DOT/-ga
+input /echo 1 = Blind
+input /echo 2 = Blind II
+input /echo 3 = Bind
+input /echo 4 = Sleep
+input /echo 5 = Sleep II
+input /echo 6 = Break

@@ -1,0 +1,4 @@
+input /echo 1 = Hot Shot (Only with SJ RNG/COR)
+input /echo 2 = Split Shot (Only with SJ RNG/COR)
+input /echo 3 = Sniper Shot (Only with SJ RNG/COR)
+input /echo 4 = Slug Shot (Only with SJ RNG/COR)

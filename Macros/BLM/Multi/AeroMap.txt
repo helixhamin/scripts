@@ -1,0 +1,11 @@
+input /echo ` = -ga/ja spells
+input /echo 1 = Aero I
+input /echo 2 = Aero II
+input /echo 3 = Aero III
+input /echo 4 = Aero IV
+input /echo 5 = Aero V
+input /echo 6 = Aero VI
+input /echo 7 = Tornado I
+input /echo 8 = Tornado II
+input /echo 9 = 
+input /echo 0 = Choke

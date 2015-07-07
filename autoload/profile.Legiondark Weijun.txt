@@ -23,6 +23,7 @@ lua load distance;
 lua load enternity;
 lua load eval;
 lua load findAll;
+lua load GearSwap;
 lua load lottery;
 lua load macrochanger;
 lua load pet_fix;

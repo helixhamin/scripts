@@ -1,0 +1,12 @@
+input /echo ` = Slice
+input /echo 1 = Dark Harvest
+input /echo 2 = Shadow of Death
+input /echo 3 = Nightmare Scythe
+input /echo 4 = Spinning Scythe
+input /echo 5 = Vorpal Scythe
+input /echo 6 = Guillotine
+input /echo 7 = Cross Reaper
+input /echo 8 = Spiral Hell
+input /echo 9 = Insurgency
+input /echo 0 = Infernal Scythe
+input /echo Missing Quietus, map if needed

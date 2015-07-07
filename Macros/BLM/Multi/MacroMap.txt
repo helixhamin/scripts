@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/BLM/BLMAbilities.txt
+2-/console exec Macros/BLM/SUB.txt
+3-/console exec Macros/BLM/Stone.txt
+4-/console exec Macros/BLM/Water.txt
+5-/console exec Macros/BLM/Aero.txt
+6-/console exec Macros/BLM/Fire.txt
+7-/console exec Macros/BLM/Blizzard.txt
+8-/console exec Macros/BLM/Thunder.txt
+9-/console exec Macros/BLM/Dark.txt
+0-/console exec Macros/BLM/Enfeeble.txt

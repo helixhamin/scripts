@@ -1,0 +1,12 @@
+input /echo ` = Combo
+input /echo 1 = Shoulder Tackle
+input /echo 2 = One Inch Punch
+input /echo 3 = Backhand Blow
+input /echo 4 = Raging Fists
+input /echo 5 = Spinning Attack
+input /echo 6 = Howling Fist
+input /echo 7 = Dragon Kick
+input /echo 8 = Asuran Fists
+input /echo 9 = Tornado Kick
+input /echo 0 = Shijin Spiral
+input /echo Ascetic's Fury not mapped, replace another if needed

@@ -18,7 +18,7 @@ Main: Abilities and songs done. Keep in mind, you will need to increment new son
 SUB: Not started
 
 BST - 
-Main: Abilities and basic pet abilities done. WSes mapped. Need to map out specific pet /ja's.
+Main: Abilities and basic pet abilities done. WSes mapped. Not mapping pet WSes since it seems that DSP/Legion does not support Jug pet WSes. Will work on this once the Ready ability has pet WSes.
 SUB: Not started
 
 COR - 
@@ -34,11 +34,11 @@ Main: Abilities complete. WSes completed.
 SUB: Not started
 
 DRK - 
-Main: Abilities and spells complete. Need to map WSes.
+Main: Abilities and spells complete. WSes completed.
 SUB: Not started
 
 MNK - 
-Main: Abilities complete. Need to map WSes.
+Main: Abilities complete. WSes completed.
 SUB: Not started
 
 NIN - 
