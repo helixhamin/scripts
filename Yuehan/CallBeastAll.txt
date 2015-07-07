@@ -1,11 +1,3 @@
-input /equip ammo "S. Herbal Broth"
-send Delaide /equip ammo "F. Carrot Broth"
-send Weijun /equip ammo "Fish Oil Broth"
-wait 1
 exec Abilities/BST/CallBeast.txt
 send Delaide exec Abilities/BST/CallBeast.txt
 send Weijun exec Abilities/BST/CallBeast.txt
-wait 1
-input /equip ammo "Pet Fd. Gamma"
-send Delaide /equip ammo "Pet Fd. Gamma"
-send Weijun /equip ammo "Pet Fd. Gamma"

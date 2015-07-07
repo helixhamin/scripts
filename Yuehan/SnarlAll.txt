@@ -1,0 +1,3 @@
+exec Abilities/BST/PetCommands/Snarl.txt
+send Delaide exec Abilities/BST/PetCommands/Snarl.txt
+send Weijun exec Abilities/BST/PetCommands/Snarl.txt
