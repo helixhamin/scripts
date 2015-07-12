@@ -1,0 +1,5 @@
+input /equip ammo "F. Antica Broth"
+wait 1
+exec Abilities/BST/CallBeast.txt
+wait 1
+input /equip ammo "Pet Fd. Epsilon"

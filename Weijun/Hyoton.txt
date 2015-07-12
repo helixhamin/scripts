@@ -1,0 +1,2 @@
+exec Spells/Ninjutsu/Elemental/HyotonIchi.txt
+wait 2

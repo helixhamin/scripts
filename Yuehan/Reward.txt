@@ -1,0 +1,7 @@
+input /equip body "Beast Jackcoat"
+input /equip feet "Beast Gaiters"
+wait 1
+exec Abilities/BST/Reward.txt
+wait 1
+input /equip body "Scp. Harness +1"
+input /equip feet "Tabin Boots +1"
