@@ -1,20 +1,8 @@
-bind ^` exec Macros/BLM/Stone.txt
-bind ^1 exec Spells/ElementalMagic/AOE/Earth/Stonega.txt
-bind ^1 send Delaide exec Spells/ElementalMagic/AOE/Earth/Stonega.txt
-bind ^1 send Weijun exec Spells/ElementalMagic/AOE/Earth/Stonega.txt
-bind ^1 send Yuehan exec Spells/ElementalMagic/AOE/Earth/Stonega.txt
-bind ^2 exec Spells/ElementalMagic/AOE/Earth/StonegaII.txt
-bind ^2 send Delaide exec Spells/ElementalMagic/AOE/Earth/StonegaII.txt
-bind ^2 send Weijun exec Spells/ElementalMagic/AOE/Earth/StonegaII.txt
-bind ^2 send Yuehan exec Spells/ElementalMagic/AOE/Earth/StonegaII.txt
-bind ^3 exec Spells/ElementalMagic/AOE/Earth/StonegaIII.txt
-bind ^3 send Delaide exec Spells/ElementalMagic/AOE/Earth/StonegaIII.txt
-bind ^3 send Weijun exec Spells/ElementalMagic/AOE/Earth/StonegaIII.txt
-bind ^3 send Yuehan exec Spells/ElementalMagic/AOE/Earth/StonegaIII.txt
-bind ^4 exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
-bind ^4 send Delaide exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
-bind ^4 send Weijun exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
-bind ^4 send Yuehan exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
+bind ^` exec Macros/BLM/Multi/Stone.txt
+bind ^1 exec Macros/BLM/Multi/AOE/Earth/Stonega.txt
+bind ^2 exec Macros/BLM/Multi/AOE/Earth/StonegaII.txt
+bind ^3 exec Macros/BLM/Multi/AOE/Earth/StonegaIII.txt
+bind ^4 exec Macros/BLM/Multi/AOE/Earth/Stoneja.txt
 bind ^5 exec Macros/Nothing.txt
 bind ^6 exec Macros/Nothing.txt
 bind ^7 exec Macros/Nothing.txt

@@ -15,8 +15,8 @@ send Yuehan exec Spells/ElementalMagic/SingleTarget/Lightning/Thunder.txt
 wait 3
 input /nin "Raiton: Ichi" <t>
 wait 7
-send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt
-send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt
+send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
 wait 3
 input /nin "Doton: Ichi" <t>
 wait 7

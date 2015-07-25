@@ -1,7 +1,0 @@
-input /echo ` = BLM Abilities
-input /echo 1 = Slice
-input /echo 2 = Dark Harvest
-input /echo 3 = Shadow of Death (Only with SJ DRK/WAR)
-input /echo 4 = Nightmare Scythe
-input /echo 5 = Spinning Scythe
-input /echo 6 = Vorpal Scythe

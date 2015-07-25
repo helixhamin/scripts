@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/AOE/Lightning/Thundaga.txt
+send Delaide exec Spells/ElementalMagic/AOE/Lightning/Thundaga.txt
+send Weijun exec Spells/ElementalMagic/AOE/Lightning/Thundaga.txt
+send Yuehan exec Spells/ElementalMagic/AOE/Lightning/Thundaga.txt

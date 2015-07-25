@@ -1,28 +1,10 @@
-bind ^` exec Macros/BLM/Stonega.txt
-bind ^1 exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt
-bind ^1 send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt
-bind ^1 send Weijun exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt
-bind ^1 send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt
-bind ^2 exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
-bind ^2 send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
-bind ^2 send Weijun exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
-bind ^2 send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
-bind ^3 exec Spells/ElementalMagic/SingleTarget/Earth/StoneIII.txt
-bind ^3 send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneIII.txt
-bind ^3 send Weijun exec Spells/ElementalMagic/SingleTarget/Earth/StoneIII.txt
-bind ^3 send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneIII.txt
-bind ^4 exec Spells/ElementalMagic/SingleTarget/Earth/StoneIV.txt
-bind ^4 send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneIV.txt
-bind ^4 send Weijun exec Spells/ElementalMagic/SingleTarget/Earth/StoneIV.txt
-bind ^4 send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneIV.txt
-bind ^5 exec Spells/ElementalMagic/SingleTarget/Earth/StoneV.txt
-bind ^5 send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneV.txt
-bind ^5 send Weijun exec Spells/ElementalMagic/SingleTarget/Earth/StoneV.txt
-bind ^5 send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneV.txt
-bind ^6 exec Spells/ElementalMagic/SingleTarget/Earth/StoneVI.txt
-bind ^6 send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneVI.txt
-bind ^6 send Weijun exec Spells/ElementalMagic/SingleTarget/Earth/StoneVI.txt
-bind ^6 send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneVI.txt
+bind ^` exec Macros/BLM/Multi/Stonega.txt
+bind ^1 exec Macros/BLM/Multi/SingleTarget/Earth/Stone.txt
+bind ^2 exec Macros/BLM/Multi/SingleTarget/Earth/StoneII.txt
+bind ^3 exec Macros/BLM/Multi/SingleTarget/Earth/StoneIII.txt
+bind ^4 exec Macros/BLM/Multi/SingleTarget/Earth/StoneIV.txt
+bind ^5 exec Macros/BLM/Multi/SingleTarget/Earth/StoneV.txt
+bind ^6 exec Macros/BLM/Multi/SingleTarget/Earth/StoneVI.txt
 bind ^7 exec Spells/ElementalMagic/AM/Quake.txt
 bind ^8 exec Spells/ElementalMagic/AM/QuakeII.txt
 bind ^9 exec Macros/Nothing.txt

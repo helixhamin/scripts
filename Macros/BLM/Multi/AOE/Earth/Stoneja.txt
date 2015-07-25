@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
+send Delaide exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
+send Weijun exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt
+send Yuehan exec Spells/ElementalMagic/AOE/Earth/Stoneja.txt

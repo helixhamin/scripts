@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/SingleTarget/Ice/BlizzardVI.txt
+Send Delaide exec Spells/ElementalMagic/SingleTarget/Ice/BlizzardVI.txt
+Send Weijun exec Spells/ElementalMagic/SingleTarget/Ice/BlizzardVI.txt
+Send Yuehan exec Spells/ElementalMagic/SingleTarget/Ice/BlizzardVI.txt

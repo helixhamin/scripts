@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/SingleTarget/Water/WaterIV.txt
+send Delaide exec Spells/ElementalMagic/SingleTarget/Water/WaterIV.txt
+send Weijun exec Spells/ElementalMagic/SingleTarget/Water/WaterIV.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Water/WaterIV.txt

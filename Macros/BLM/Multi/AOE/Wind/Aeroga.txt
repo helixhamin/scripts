@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+send Delaide exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+Send Weijun exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt
+Send Yuehan exec Spells/ElementalMagic/AOE/Wind/Aeroga.txt

@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
+send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
+send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt

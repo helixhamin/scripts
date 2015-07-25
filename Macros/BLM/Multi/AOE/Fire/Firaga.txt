@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/AOE/Fire/Firaga.txt
+send Delaide exec Spells/ElementalMagic/AOE/Fire/Firaga.txt
+send Weijun exec Spells/ElementalMagic/AOE/Fire/Firaga.txt
+send Yuehan exec Spells/ElementalMagic/AOE/Fire/Firaga.txt

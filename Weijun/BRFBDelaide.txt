@@ -2,5 +2,5 @@ input /ws "Blade: Rin" <t>
 wait 4
 send Delaide input /ws "Fast Blade" <t>
 wait 3
-send Delaide input /ma Water <t>
-send Yuehan input /ma Water <t>
+send Delaide input /ma "Water II" <t>
+send Yuehan input /ma "Water II" <t>

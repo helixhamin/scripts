@@ -1,0 +1,31 @@
+input /nin "Hyoton: Ni" <t>
+wait 3
+send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
+wait 3
+input /nin "Katon: Ni" <t>
+wait 3
+send Delaide input /ma "Water II" <t>
+send Yuehan input /ma "Water II" <t>
+wait 3
+input /nin "Suiton: Ni" <t>
+wait 3
+send Delaide exec Spells/ElementalMagic/SingleTarget/Lightning/Thunder.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Lightning/Thunder.txt
+wait 3
+input /nin "Raiton: Ni" <t>
+wait 3
+send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
+wait 3
+input /nin "Doton: Ni" <t>
+wait 3
+send Delaide exec Spells/ElementalMagic/SingleTarget/Wind/AeroII.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Wind/AeroII.txt
+wait 3
+input /nin "Huton: Ni" <t>
+wait 3
+send Delaide exec Spells/ElementalMagic/SingleTarget/Ice/Blizzard.txt
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Ice/Blizzard.txt
+wait 3
+input /echo Elemental wheel ready again

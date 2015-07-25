@@ -1,28 +1,10 @@
-bind ^` exec Macros/BLM/Firaga.txt
-bind ^1 exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
-bind ^1 send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
-bind ^1 send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
-bind ^1 send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
-bind ^2 exec Spells/ElementalMagic/SingleTarget/Fire/FireII.txt
-bind ^2 send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/FireII.txt
-bind ^2 send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/FireII.txt
-bind ^2 send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/FireII.txt
-bind ^3 exec Spells/ElementalMagic/SingleTarget/Fire/FireIII.txt
-bind ^3 send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/FireIII.txt
-bind ^3 send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/FireIII.txt
-bind ^3 send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/FireIII.txt
-bind ^4 exec Spells/ElementalMagic/SingleTarget/Fire/FireIV.txt
-bind ^4 send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/FireIV.txt
-bind ^4 send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/FireIV.txt
-bind ^4 send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/FireIV.txt
-bind ^5 exec Spells/ElementalMagic/SingleTarget/Fire/FireV.txt
-bind ^5 send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/FireV.txt
-bind ^5 send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/FireV.txt
-bind ^5 send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/FireV.txt
-bind ^6 exec Spells/ElementalMagic/SingleTarget/Fire/FireVI.txt
-bind ^6 send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/FireVI.txt
-bind ^6 send Weijun exec Spells/ElementalMagic/SingleTarget/Fire/FireVI.txt
-bind ^6 send Yuehan exec Spells/ElementalMagic/SingleTarget/Fire/FireVI.txt
+bind ^` exec Macros/BLM/Multi/Firaga.txt
+bind ^1 exec Macros/BLM/Multi/SingleTarget/Fire/Fire.txt
+bind ^2 exec Macros/BLM/Multi/SingleTarget/Fire/FireII.txt
+bind ^3 exec Macros/BLM/Multi/SingleTarget/Fire/FireIII.txt
+bind ^4 exec Macros/BLM/Multi/SingleTarget/Fire/FireIV.txt
+bind ^5 exec Macros/BLM/Multi/SingleTarget/Fire/FireV.txt
+bind ^6 exec Macros/BLM/Multi/SingleTarget/Fire/FireVI.txt
 bind ^7 exec Spells/ElementalMagic/AM/Flare.txt
 bind ^8 exec Spells/ElementalMagic/AM/FlareII.txt
 bind ^9 exec Macros/Nothing.txt

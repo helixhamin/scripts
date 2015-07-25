@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/AOE/Ice/BlizzagaIII.txt
+send Delaide exec Spells/ElementalMagic/AOE/Ice/BlizzagaIII.txt
+send Weijun exec Spells/ElementalMagic/AOE/Ice/BlizzagaIII.txt
+send Yuehan exec Spells/ElementalMagic/AOE/Ice/BlizzagaIII.txt

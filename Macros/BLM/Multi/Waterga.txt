@@ -1,20 +1,8 @@
-bind ^` exec Macros/BLM/Water.txt
-bind ^1 exec Spells/ElementalMagic/AOE/Water/Waterga.txt
-bind ^1 send Delaide exec Spells/ElementalMagic/AOE/Water/Waterga.txt
-bind ^1 send Weijun exec Spells/ElementalMagic/AOE/Water/Waterga.txt
-bind ^1 send Yuehan exec Spells/ElementalMagic/AOE/Water/Waterga.txt
-bind ^2 exec Spells/ElementalMagic/AOE/Water/WatergaII.txt
-bind ^2 send Delaide exec Spells/ElementalMagic/AOE/Water/WatergaII.txt
-bind ^2 send Weijun exec Spells/ElementalMagic/AOE/Water/WatergaII.txt
-bind ^2 send Yuehan exec Spells/ElementalMagic/AOE/Water/WatergaII.txt
-bind ^3 exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
-bind ^3 send Delaide exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
-bind ^3 send Weijun exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
-bind ^3 send Yuehan exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
-bind ^4 exec Spells/ElementalMagic/AOE/Water/Waterja.txt
-bind ^4 send Delaide exec Spells/ElementalMagic/AOE/Water/Waterja.txt
-bind ^4 send Weijun exec Spells/ElementalMagic/AOE/Water/Waterja.txt
-bind ^4 send Yuehan exec Spells/ElementalMagic/AOE/Water/Waterja.txt
+bind ^` exec Macros/BLM/Multi/Water.txt
+bind ^1 exec Macros/BLM/Multi/AOE/Water/Waterga.txt
+bind ^2 exec Macros/BLM/Multi/AOE/Water/WatergaII.txt
+bind ^3 exec Macros/BLM/Multi/AOE/Water/WatergaIII.txt
+bind ^4 exec Macros/BLM/Multi/AOE/Water/Waterja.txt
 bind ^5 exec Macros/Nothing.txt
 bind ^6 exec Macros/Nothing.txt
 bind ^7 exec Macros/Nothing.txt

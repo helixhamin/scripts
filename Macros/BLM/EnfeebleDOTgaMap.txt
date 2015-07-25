@@ -1,9 +1,9 @@
 input /echo ` = Enfeeble
 input /echo 1 = Poison
 input /echo 2 = Poison II
-input ----------------
+input /echo --------------
 input /echo 4 = Poisonga
-input ----------------
+input /echo --------------
 input /echo 6 = Sleepga
 input /echo 7 = Sleepga II
 input /echo 8 = Breakga

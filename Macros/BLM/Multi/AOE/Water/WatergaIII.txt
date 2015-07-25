@@ -1,0 +1,4 @@
+exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
+send Delaide exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
+send Weijun exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
+send Yuehan exec Spells/ElementalMagic/AOE/Water/WatergaIII.txt
