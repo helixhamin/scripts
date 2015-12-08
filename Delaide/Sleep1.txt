@@ -1,2 +1,2 @@
 exec Spells/EnfeeblingMagic/Disabling/SleepII.txt
-bind !4 exec Delaide/Sleep2.txt
+bind !3 exec Delaide/Sleep2.txt

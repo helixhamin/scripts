@@ -1,0 +1,2 @@
+send Weijun exec Spells/DarkMagic/Enfeebling/Stun.txt
+bind !3 exec Delaide/Stun3.txt
