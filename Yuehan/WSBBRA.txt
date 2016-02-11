@@ -1,0 +1,7 @@
+exec WeaponSkills/Dagger/WaspSting.txt
+wait 4
+send Weijun input /ws "Burning Blade" <t>
+wait 3
+send Delaide input /ja Boost <me>
+wait 1
+send Delaide input /ws "Raging Axe" <t>

@@ -1,0 +1,5 @@
+send Weijun exec WeaponSkills/Sword/FastBlade.txt
+wait 2
+send Delaide input /ja Boost <me>
+wait 2
+send Delaide exec WeaponSkills/Axe/RagingAxe.txt

@@ -1,0 +1,3 @@
+input /ws "Shining Strike" <t>
+send Delaide input /ws "Combo" <t>
+send Yuehan input /ws "Raging Axe" <t>
