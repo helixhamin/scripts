@@ -1,0 +1,8 @@
+input /echo 1 = Fight
+input /echo 2 = Heel
+input /echo 3 = Stay
+input /echo 4 = Sic
+input /echo 5 = Leave
+input /echo 6 = Snarl
+input /echo -------------------
+input /echo 0 = BST SJ commands
