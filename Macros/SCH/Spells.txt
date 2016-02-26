@@ -1,0 +1,80 @@
+05	Embrava?
+05	Kaustra?
+10	Poisona?
+10	Protect
+12	Paralyna?
+13	Aquaveil
+15	Deodorize
+17	Blindna?
+18	Geohelix
+20	Shell
+20	Sneak
+20	Hydrohelix
+21	Drain
+22	Silena?
+22	Anemohelix
+24	Pyrohelix
+25	Invisible
+26	Cryohelix
+28	Ionohelix
+29	Blink
+30	Protect II
+30	Sleep?
+30	Blaze Spikes
+30	Noctohelix
+32	Cursna?
+32	Dispel?
+32	Luminohelix
+35	Raise
+35	Reraise?
+36	Aspir
+37	Regen II
+39	Erase?
+40	Shell II
+41	Sandstorm
+42	Rainstorm
+43	Windstorm
+44	Stoneskin
+44	Firestorm
+45	Hailstorm
+46	Klimaform
+46	Viruna?
+46	Thunderstorm
+47	Voidstorm
+48	Aurorastorm
+50	Protect III
+50	Stona?
+50	Ice Spikes
+54	Stone III
+60	Shell III
+65	Sleep II?
+66	Protect IV
+70	Shock Spikes
+70	Raise II?
+70	Reraise II?
+71	Shell IV
+80	Protect V
+85	Animus Augeo
+85	Animus Minuo
+88	Adloquium
+90	Shell V
+90	Break?
+91	Raise III?
+91	Reraise III?
+97	Aspir II
+99	Firestorm II+
+99	Rainstorm II+
+99	Windstorm II+
+99	Sandstorm II+
+99	Hailstorm II+
+99	Thunderstorm II+
+99	Aurorastorm II+
+99	Voidstorm II+
+99	Pyrohelix II++
+99	Hydrohelix II++
+99	Anemohelix II++
+99	Geohelix II++
+99	Cryohelix II++
+99	Ionohelix II++
+99	Luminohelix II++
+99	Noctohelix II++

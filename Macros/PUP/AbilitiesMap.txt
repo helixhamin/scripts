@@ -1,0 +1,9 @@
+input /echo 1 = Activate
+input /echo 2 = Deus Ex Automata
+input /echo 3 = Repair
+input /echo 4 = Maintenance
+input /echo 5 = Role Reversal
+input /echo 6 = Ventriloquy
+input /echo 7 = Tactical Switch
+input /echo 8 = Cooldown
+input /echo 9 = Heady Artifice

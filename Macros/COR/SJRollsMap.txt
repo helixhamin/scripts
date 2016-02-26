@@ -1,0 +1,12 @@
+input /echo ` = SJ abilities
+input /echo 1 = Mage rolls
+input /echo ------------------
+input /echo 2 = Ninja Roll
+input /echo 3 = Hunter's Roll
+input /echo 4 = Chaos Roll
+input /echo 5 = Drachen Roll
+input /echo 6 = Monk's Roll
+input /echo 7 = Beast Roll
+input /echo 8 = Samurai Roll
+input /echo 9 = Rogue's Roll
+input /echo 0 = Fighter's Roll

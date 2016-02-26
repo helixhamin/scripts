@@ -1,0 +1,5 @@
+input /echo 1 = Ancient Circle
+input /echo ------------------
+input /echo 2 = Jump
+input /echo 3 = High Jump
+input /echo 4 = Super Jump

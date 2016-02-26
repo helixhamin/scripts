@@ -1,0 +1,2 @@
+input /echo Orders your automaton to return to your side
+input /pet "Retrieve" <me>

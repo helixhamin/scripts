@@ -1,0 +1,11 @@
+input /echo 1 = Aero
+input /echo 2 = Aero II
+input /echo 3 = Aero III
+input /echo 4 = Aero IV
+input /echo 5 = Aero V
+input /echo -----------
+input /echo 6 = Fire
+input /echo 7 = Fire II
+input /echo 8 = Fire III
+input /echo 9 = Fire IV
+input /echo 0 = Fire V

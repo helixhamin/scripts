@@ -1,2 +1,1 @@
-Completed DRK, MNK WSes.
-Change SJ mapping method. I will instead create a single SJ map for each job, so it will be universally referenced. This will be a mess for a while on jobs with many possible maps (Like caster sjs, where you can have many spells)
+Completed PUP mapping. Started SCH spell mapping.

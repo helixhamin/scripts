@@ -1,0 +1,9 @@
+input /echo ` = SJ abilities
+input /echo 1 = Melee rolls
+input /echo ------------------
+input /echo 3 = Corsair's Roll
+input /echo 4 = Magus's Roll
+input /echo 5 = Healer's Roll
+input /echo 6 = Choral Roll
+input /echo 7 = Evoker's Roll
+input /echo 8 = Warlock's Roll

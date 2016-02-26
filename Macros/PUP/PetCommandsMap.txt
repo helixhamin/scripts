@@ -1,0 +1,3 @@
+input /echo 1 = Deploy
+input /echo 2 = Deactivate
+input /echo 3 = Retrieve

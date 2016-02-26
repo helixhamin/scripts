@@ -1,0 +1,8 @@
+input /echo ----Offensive----
+input /echo 1 = Boost
+input /echo 2 = Focus
+input /echo 3 = Chi Blast
+input /echo 4 = Counterstance
+input /echo ----Defensive----
+input /echo 5 = Dodge
+input /echo 6 = Chakra

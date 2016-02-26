@@ -1,0 +1,13 @@
+input /echo ` = Sambas/Waltzes
+input /echo ----------------
+input /echo 1 = Quickstep
+input /echo 2 = Box Step
+input /echo 3 = Stutter Step
+input /echo ----------------
+input /echo 4 = Spectral Jig
+input /echo ----------------
+input /echo 5 = Flourishes I: Animated Flourish
+input /echo 6 = Flourishes I: Desperate Flourish
+input /echo 7 = Flourishes I: Violent Flourish
+input /echo ----------------------------------
+input /echo 8 = Flourishes II: Reverse Flourish

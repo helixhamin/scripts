@@ -19,19 +19,19 @@ SUB: Not started
 
 BST - 
 Main: Abilities and basic pet abilities done. WSes mapped. Not mapping pet WSes since it seems that DSP/Legion does not support Jug pet WSes. Will work on this once the Ready ability has pet WSes.
-SUB: Not started
+SUB: Done.
 
 COR - 
 Main: Abilities complete. WSes completed. Please ensure you map your weapon to the master binds.
-SUB: Not started
+SUB: Done.
 
 DNC - 
 Main: Abilities complete. WSes ompleted. For Dagger, there are too many WSes, so please remove what you don't want to add the missing. Missing are noted in the DaggerMap.txt file.
-SUB: Not started
+SUB: Done.
 
 DRG - 
 Main: Abilities complete. WSes completed.
-SUB: Not started
+SUB: Done.
 
 DRK - 
 Main: Abilities and spells complete. WSes completed.
@@ -39,7 +39,7 @@ SUB: Not started
 
 MNK - 
 Main: Abilities complete. WSes completed.
-SUB: Not started
+SUB: Done.
 
 NIN - 
 Main: Abilities and spells complete. Need to map WSes.
@@ -50,7 +50,7 @@ Main: Abilities and spells complete. Need to map WSes.
 SUB: Not started
 
 PUP - 
-Main: Not started (Will not work on PUP until it is implemented in Legiondark, unless I map for my own personal server going forward)
+Main: Abilities complete. Need to map WSes.
 SUB: Not started
 
 RDM - 
@@ -59,14 +59,14 @@ SUB: Not started
 
 RNG - 
 Main: Abilities complete. Need to map WSes.
-SUB: Not started
+SUB: Done.
 
 SAM - 
 Main: Abilities complete. Need to map WSes.
-SUB: Not started
+SUB: Done.
 
 SCH - 
-Main: Abilities complete. Need to map spells.
+Main: Abilities complete. Need to map spells (Started).
 SUB: Not started
 
 SMN - 
@@ -75,11 +75,11 @@ SUB: Not started
 
 THF - 
 Main: Abilities complete. Need to map WSes.
-SUB: Not started
+SUB: Done.
 
 WAR - 
 Main: Abilities complete. Need to map WSes.
-SUB: Not started
+SUB: Done.
 
 WHM - 
 Main: Abilities and spells complete.

@@ -1,0 +1,5 @@
+input /echo 1 = Provoke
+input /echo 2 = Berserk
+input /echo 3 = Defender
+input /echo 4 = Warcry
+input /echo 5 = Aggressor

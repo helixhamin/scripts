@@ -1,0 +1,13 @@
+input /echo ` = Melee rolls
+input /echo 1 = Mage rolls
+input /echo ---------------
+input /echo 2 = Double-Up
+input /echo ---------------
+input /echo 3 = LightShot
+input /echo 4 = DarkShot
+input /echo 5 = EarthShot
+input /echo 6 = FireShot
+input /echo 7 = IceShot
+input /echo 8 = ThunderShot
+input /echo 9 = WaterShot
+input /echo 0 = WindShot

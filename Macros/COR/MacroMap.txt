@@ -7,5 +7,5 @@ ctrl:
 6-/console exec Macros/COR/OtherRolls.txt
 7-/console exec Macros/COR/
 8-/console exec Macros/COR/
-9-/console exec Macros/COR/
+9-/console exec Macros/COR/Marksmanship.txt
 0-/console exec Macros/COR/Dagger.txt

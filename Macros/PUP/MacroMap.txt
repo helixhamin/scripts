@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/PUP/PUPAbilities.txt
+2-/console exec Macros/PUP/SUB.txt
+3-/console exec Macros/PUP/PetCommands.txt
+4-/console exec Macros/PUP/PetManeuvers.txt
+5-/console exec Macros/PUP/
+6-/console exec Macros/PUP/
+7-/console exec Macros/PUP/
+8-/console exec Macros/PUP/
+9-/console exec Macros/PUP/
+0-/console exec Macros/PUP/(Insert weapon here).txt

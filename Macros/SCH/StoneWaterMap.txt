@@ -1,0 +1,11 @@
+input /echo 1 = Stone
+input /echo 2 = Stone II
+input /echo 3 = Stone III
+input /echo 4 = Stone IV
+input /echo 5 = Stone V
+input /echo ------------
+input /echo 6 = Water
+input /echo 7 = Water II
+input /echo 8 = Water III
+input /echo 9 = Water IV
+input /echo 0 = Water V

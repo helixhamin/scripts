@@ -1,0 +1,8 @@
+input /echo 1 = Dark Maneuver
+input /echo 2 = Earth Maneuver
+input /echo 3 = Fire Maneuver
+input /echo 4 = Ice Maneuver
+input /echo 5 = Light Maneuver
+input /echo 6 = Thunder Maneuver
+input /echo 7 = Water Maneuver
+input /echo 8 = Wind Maneuver

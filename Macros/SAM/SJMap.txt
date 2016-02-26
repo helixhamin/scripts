@@ -1,0 +1,8 @@
+input /echo ----Defensive----
+input /echo 1 = Warding Circle
+input /echo 2 = Third Eye
+input /echo 3 = Seigan
+input /echo ----Offensive----
+input /echo 4 = Hasso
+input /echo 5 = Meditate
+input /echo 6 = Sekkanoki

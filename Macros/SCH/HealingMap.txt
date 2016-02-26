@@ -1,0 +1,10 @@
+input /echo 1 = Cure
+input /echo 2 = Cure II
+input /echo 3 = Cure III
+input /echo 4 = Cure IV
+input /echo -------------
+input /echo 5 = Regen
+input /echo 6 = Regen II
+input /echo 7 = Regen III
+input /echo 8 = Regen IV
+input /echo 9 = Regen V

@@ -2,7 +2,9 @@ input /echo 1 = Cure
 input /echo 2 = Cure II
 input /echo 3 = Cure III
 input /echo 4 = Cure IV
+input /echo -------------
 input /echo 5 = Refresh
 input /echo 6 = Refresh II
+input /echo -------------
 input /echo 7 = Regen
 input /echo 8 = Regen II

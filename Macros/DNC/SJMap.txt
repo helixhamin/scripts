@@ -1,0 +1,15 @@
+input /echo ` = Steps/Flourishes/Jigs
+input /echo 1 = Drain Samba
+input /echo 2 = Drain Samba II
+input ----------------
+input /echo 3 = Aspir Samba
+input ----------------
+input /echo 4 = Haste Samba
+input ----------------
+input /echo 5 = Curing Waltz
+input /echo 6 = Curing Waltz II
+input /echo 7 = Curing Waltz III
+input ----------------
+input /echo 8 = Divine Waltz
+input ----------------
+input /echo 9 = Healing Waltz

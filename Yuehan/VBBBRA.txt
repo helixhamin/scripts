@@ -1,0 +1,15 @@
+send Delaide input /ja Berserk <me>
+wait 2
+send Delaide input /ja Warcry <me>
+wait 2
+exec Abilities/THF/SneakAttack.txt
+wait 2
+exec WeaponSkills/Dagger/ViperBite.txt
+wait 4
+send Weijun input /ws "Burning Blade" <t>
+wait 2
+send Delaide input /ja Boost <me>
+wait 2
+send Delaide input /ws "Raging Axe" <t>
+wait 2
+send Weijun input /ma "Fire" <t>

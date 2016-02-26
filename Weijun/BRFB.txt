@@ -1,0 +1,3 @@
+send Yuehan input /ws "Blade: Rin" <t>
+wait 4
+input /ws "Fast Blade" <t>
