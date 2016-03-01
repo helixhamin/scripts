@@ -1,0 +1,11 @@
+input /echo ` = Protect
+input /echo 1 = Shell
+input /echo 2 = Aquaveil
+input /echo 3 = Blink
+input /echo 4 = Stoneskin
+input /echo 5 = Sneak
+input /echo 6 = Invisible
+input /echo 7 = Klimaform
+input /echo 8 = Animus Augeo
+input /echo 9 = Animus Minuo
+input /echo 0 = Adloquium

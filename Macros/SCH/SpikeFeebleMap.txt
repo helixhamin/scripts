@@ -1,0 +1,10 @@
+input /echo 1 = Drain
+input /echo 2 = Aspir
+input /echo 3 = Aspir II
+input /echo 4 = Sleep
+input /echo 5 = Sleep II
+input /echo 6 = Dispel
+input /echo 7 = Break
+input /echo 8 = Blaze Spikes
+input /echo 9 = Ice Spikes
+input /echo 0 = Shock Spikes

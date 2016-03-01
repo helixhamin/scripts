@@ -1,3 +1,4 @@
+input /echo ` = Enfeeble
 input /echo 1 = Paralyze
 input /echo 2 = Blind
 input /echo 3 = Slow

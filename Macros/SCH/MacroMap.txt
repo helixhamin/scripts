@@ -2,10 +2,10 @@ ctrl:
 1-/console exec Macros/SCH/SCHAbilities.txt
 2-/console exec Macros/SCH/SUB.txt
 3-/console exec Macros/SCH/Healing.txt
-4-/console exec Macros/SCH/
-5-/console exec Macros/SCH/
+4-/console exec Macros/SCH/Enhance.txt
+5-/console exec Macros/SCH/Na.txt
 6-/console exec Macros/SCH/StoneWater.txt
 7-/console exec Macros/SCH/AeroFire.txt
 8-/console exec Macros/SCH/BlizzardThunder.txt
-9-/console exec Macros/SCH/
-0-/console exec Macros/SCH/
+9-/console exec Macros/SCH/Storm.txt
+0-/console exec Macros/SCH/SpikeFeeble.txt

@@ -1,3 +1,4 @@
+bind ^` exec Macros/RDM/Enfeeble.txt
 bind ^1 exec Spells/EnfeeblingMagic/Inhibiting/Paralyze.txt
 bind ^2 exec Spells/EnfeeblingMagic/Inhibiting/Blind.txt
 bind ^3 exec Spells/EnfeeblingMagic/Inhibiting/Slow.txt
@@ -8,4 +9,4 @@ bind ^7 exec Spells/EnfeeblingMagic/Inhibiting/Addle.txt
 bind ^8 exec Spells/EnfeeblingMagic/Inhibiting/Dispel.txt
 bind ^9 exec Macros/Nothing.txt
 bind ^0 exec Macros/Nothing.txt
-bind ^- exec Macros/RDM/EnfeebleMap.txt
+bind ^- exec Macros/RDM/EnfeebleBattleMap.txt

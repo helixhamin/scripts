@@ -1,0 +1,6 @@
+send Delaide exec WeaponSkills/Polearm/ThunderThrust.txt
+wait 4
+send Weijun exec WeaponSkills/Sword/FastBlade.txt
+exec WeaponSkills/Sword/FastBlade.txt
+wait 3
+exec Spells/ElementalMagic/SingleTarget/Ice/Blizzard.txt

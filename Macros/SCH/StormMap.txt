@@ -1,0 +1,10 @@
+input /echo ` = Helixes
+input /echo -------------
+input /echo 1 = Sandstorm
+input /echo 2 = Rainstorm
+input /echo 3 = Windstorm
+input /echo 4 = Firestorm
+input /echo 5 = Hailstorm
+input /echo 6 = Thunderstorm
+input /echo 7 = Voidstorm
+input /echo 8 = Aurorastorm

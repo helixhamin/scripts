@@ -56,6 +56,7 @@ SUB: Not started
 RDM - 
 Main: Abilities and spells complete. Need to map WSes.
 SUB: Not started
+Mules: Created specific elemental nukes (Earth, Aero, Fire, etc) that will bind the same spells to the mules, and send the command. For example, if my main casts Fire, the key will also be bound for the mules to cast Fire.
 
 RNG - 
 Main: Abilities complete. Need to map WSes.
@@ -66,8 +67,9 @@ Main: Abilities complete. Need to map WSes.
 SUB: Done.
 
 SCH - 
-Main: Abilities complete. Need to map spells (Started).
+Main: Abilities amd spells complete. Need to map WSes.
 SUB: Not started
+Mules: Created specific elemental nukes (Earth, Aero, Fire, etc) that will bind the same spells to the mules, and send the command. For example, if my main casts Fire, the key will also be bound for the mules to cast Fire.
 
 SMN - 
 Main: Complete

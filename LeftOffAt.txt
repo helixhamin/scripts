@@ -1,1 +1,1 @@
-Completed PUP mapping. Started SCH spell mapping.
+Finished SCH mapping. Added multi to SCH and RDM for nuking SCH/RDM leveling.

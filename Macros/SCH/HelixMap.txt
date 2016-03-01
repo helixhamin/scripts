@@ -1,0 +1,10 @@
+input /echo ` = Storms
+input /echo -------------
+input /echo 1 = Geohelix
+input /echo 2 = Hydrohelix
+input /echo 3 = Anemohelix
+input /echo 4 = Pyrohelix
+input /echo 5 = Cryohelix
+input /echo 6 = Ionohelix
+input /echo 7 = Noctohelix
+input /echo 8 = Luminohelix
