@@ -1,10 +1,10 @@
-input /echo 1 = Utsusemi: Ichi
-input /echo 2 = Utsusemi: Ni
-input /echo 3 = Migawari: Ichi
-input /echo 4 = Gekka: Ichi
-input /echo 5 = Kakka: Ichi
-input /echo 6 = Myoshu: Ichi
-input /echo 7 = Yain: Ichi
-input /echo 8 = Monomi: Ichi
-input /echo 9 = Tonko: Ichi
-input /echo 0 = Tonko: Ni
+input /echo 1 = Utsusemi: Ichi = Shadows x 3
+input /echo 2 = Utsusemi: Ni = Shadows x 4
+input /echo 3 = Migawari: Ichi = Immune to severe attack
+input /echo 4 = Gekka: Ichi = + Emnity gain
+input /echo 5 = Kakka: Ichi = + TP gain
+input /echo 6 = Myoshu: Ichi = + Subtle blow
+input /echo 7 = Yain: Ichi = - Emnity gain
+input /echo 8 = Monomi: Ichi =  Sneak
+input /echo 9 = Tonko: Ichi = Invisible
+input /echo 0 = Tonko: Ni = Invisible

@@ -1,0 +1,10 @@
+input /echo ` = Dark DOT
+input /echo 1 = Stun
+input /echo ------------
+input /echo 3 = Impact
+input /echo 4 = Comet
+input /echo ------------
+input /echo 6 = Drain
+input /echo 7 = Drain II
+input /echo 8 = Aspir
+input /echo 9 = Aspir II

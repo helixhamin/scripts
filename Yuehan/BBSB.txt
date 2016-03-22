@@ -1,0 +1,5 @@
+send Delaide exec WeaponSkills/Sword/BurningBlade.txt
+wait 4
+send Weijun exec WeaponSkills/GA/ShieldBreak.txt
+wait 3
+send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt

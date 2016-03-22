@@ -7,5 +7,5 @@ ctrl:
 6-/console exec Macros/BLM/Multi/Fire.txt
 7-/console exec Macros/BLM/Multi/Blizzard.txt
 8-/console exec Macros/BLM/Multi/Thunder.txt
-9-/console exec Macros/BLM/Dark.txt
+9-/console exec Macros/BLM/Multi/Dark.txt
 0-/console exec Macros/BLM/Enfeeble.txt

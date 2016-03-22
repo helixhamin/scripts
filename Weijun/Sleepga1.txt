@@ -1,0 +1,2 @@
+exec Spells/EnfeeblingMagic/Disabling/SleepgaII.txt
+bind !0 exec Weijun/Sleepga2.txt

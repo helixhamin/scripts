@@ -1,8 +1,8 @@
-input /echo 1 = Kurayami: Ichi
-input /echo 2 = Kurayami: Ni
-input /echo 3 = Hojo: Ichi
-input /echo 4 = Hojo: Ni
-input /echo 5 = Dokumori: Ichi
-input /echo 6 = Jubaku: Ichi
-input /echo 7 = Aisha: Ichi
-input /echo 8 = Yurin: Ichi
+input /echo 1 = Kurayami: Ichi = Blinds enemy
+input /echo 2 = Kurayami: Ni = Blinds enemy
+input /echo 3 = Hojo: Ichi = Slows enemy att speed
+input /echo 4 = Hojo: Ni = Slows enemy att speed
+input /echo 5 = Dokumori: Ichi = Poisons enemy
+input /echo 6 = Jubaku: Ichi = Paralyzes enemy
+input /echo 7 = Aisha: Ichi = - enemy att
+input /echo 8 = Yurin: Ichi = - enemy TP gain

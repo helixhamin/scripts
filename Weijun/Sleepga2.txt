@@ -1,0 +1,2 @@
+send Delaide exec Spells/EnfeeblingMagic/Disabling/SleepgaII.txt
+bind !0 exec Weijun/Sleepga3.txt

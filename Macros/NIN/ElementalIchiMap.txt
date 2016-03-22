@@ -1,6 +1,6 @@
-input /echo 1 = Hyoton: Ichi
-input /echo 2 = Katon: Ichi
-input /echo 3 = Suiton: Ichi
-input /echo 4 = Raiton: Ichi
-input /echo 5 = Doton: Ichi
-input /echo 6 = Huton: Ichi
+input /echo 1 = Hyoton: Ichi = Ice
+input /echo 2 = Katon: Ichi = Fire
+input /echo 3 = Suiton: Ichi = Water
+input /echo 4 = Raiton: Ichi = Lightning
+input /echo 5 = Doton: Ichi = Earth
+input /echo 6 = Huton: Ichi = Wind

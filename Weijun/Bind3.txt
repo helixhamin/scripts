@@ -1,0 +1,2 @@
+send Yuehan exec Spells/EnfeeblingMagic/Inhibiting/Bind.txt
+bind !2 exec Weijun/Bind1.txt

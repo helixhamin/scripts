@@ -1,0 +1,4 @@
+exec Spells/DarkMagic/HPMPAbsorb/Drain.txt
+send Delaide exec Spells/DarkMagic/HPMPAbsorb/Drain.txt
+send Weijun exec Spells/DarkMagic/HPMPAbsorb/Drain.txt
+send Yuehan exec Spells/DarkMagic/HPMPAbsorb/Drain.txt

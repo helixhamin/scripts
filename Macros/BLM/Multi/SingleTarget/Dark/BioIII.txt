@@ -1,0 +1,4 @@
+exec Spells/DarkMagic/Enfeebling/BioIII.txt
+send Delaide exec Spells/DarkMagic/Enfeebling/BioIII.txt
+send Weijun exec Spells/DarkMagic/Enfeebling/BioIII.txt
+send Yuehan exec Spells/DarkMagic/Enfeebling/BioIII.txt

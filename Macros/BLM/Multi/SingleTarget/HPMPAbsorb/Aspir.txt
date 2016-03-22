@@ -1,0 +1,4 @@
+exec Spells/DarkMagic/HPMPAbsorb/Aspir.txt
+send Delaide exec Spells/DarkMagic/HPMPAbsorb/Aspir.txt
+send Weijun exec Spells/DarkMagic/HPMPAbsorb/Aspir.txt
+send Yuehan exec Spells/DarkMagic/HPMPAbsorb/Aspir.txt
