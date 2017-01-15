@@ -3,8 +3,8 @@ input /echo 2 = Curing Waltz II
 input /echo 3 = Curing Waltz III
 input /echo 4 = Curing Waltz IV
 input /echo 5 = Curing Waltz V
-input ----------------
+input /echo ----------------
 input /echo 7 = Divine Waltz
 input /echo 8 = Divine Waltz II
-input ----------------
+input /echo ----------------
 input /echo 0 = Healing Waltz

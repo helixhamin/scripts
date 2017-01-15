@@ -1,2 +1,2 @@
-send Yuehan exec Spells/EnfeeblingMagic/Disabling/SleepgaII.txt
+send Yuehan exec Spells/EnfeeblingMagic/Disabling/Sleepga.txt
 bind !0 exec Weijun/Sleepga1.txt

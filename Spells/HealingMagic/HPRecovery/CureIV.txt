@@ -1,2 +1,2 @@
 input /echo Hard Cap: 640
-input /ma "Cure IV" <stpc>
+input /ma "Cure IV" <me>

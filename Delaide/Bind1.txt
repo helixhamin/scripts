@@ -1,2 +1,1 @@
 exec Spells/EnfeeblingMagic/Inhibiting/Bind.txt
-bind !2 exec Delaide/Bind2.txt

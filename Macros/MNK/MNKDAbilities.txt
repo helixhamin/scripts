@@ -8,4 +8,4 @@ bind ^7 exec Macros/Nothing.txt
 bind ^8 exec Macros/Nothing.txt
 bind ^9 exec Macros/Nothing.txt
 bind ^0 exec Macros/Nothing.txt
-bind ^- exec Macros/MNK/AbilitiesMap.txt
+bind ^- exec Macros/MNK/AbilitiesDMap.txt
