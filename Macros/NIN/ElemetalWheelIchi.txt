@@ -1,25 +1,13 @@
-input /nin "Hyoton: Ichi" <t>
-wait 7
-send Delaide exec Spells/ElementalMagic/SingleTarget/Fire/Fire.txt
-wait 3
-input /nin "Katon: Ichi" <t>
-wait 7
-send Delaide Spells/ElementalMagic/SingleTarget/Water/WaterII.txt
-wait 3
-input /nin "Suiton: Ichi" <t>
-wait 7
-send Delaide exec Spells/ElementalMagic/SingleTarget/Lightning/Thunder.txt
-wait 3
-input /nin "Raiton: Ichi" <t>
-wait 7
-send Delaide exec Spells/ElementalMagic/SingleTarget/Earth/StoneII.txt
-wait 3
-input /nin "Doton: Ichi" <t>
-wait 7
-send Delaide exec Spells/ElementalMagic/SingleTarget/Wind/AeroII.txt
-wait 3
-input /nin "Huton: Ichi" <t>
-wait 7
-send Delaide exec Spells/ElementalMagic/SingleTarget/Ice/Blizzard.txt
-wait 3
+exec Spells/Ninjutsu/Elemental/HyotonIchi.txt
+wait 10
+exec Spells/Ninjutsu/Elemental/KatonIchi.txt
+wait 10
+exec Spells/Ninjutsu/Elemental/SuitonIchi.txt
+wait 10
+exec Spells/Ninjutsu/Elemental/RaitonIchi.txt
+wait 10
+exec Spells/Ninjutsu/Elemental/DotonIchi.txt
+wait 10
+exec Spells/Ninjutsu/Elemental/HutonIchi.txt
+wait 10
 input /echo Elemental wheel ready again

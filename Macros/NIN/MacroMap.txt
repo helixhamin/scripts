@@ -8,4 +8,4 @@ ctrl:
 7-/console exec Macros/NIN/
 8-/console exec Macros/NIN/
 9-/console exec Macros/NIN/
-0-/console exec Macros/NIN/
+0-/console exec Macros/NIN/Katana.txt

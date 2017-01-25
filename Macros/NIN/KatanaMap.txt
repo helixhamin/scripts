@@ -1,0 +1,11 @@
+input /echo ` = Blade: Rin
+input /echo 1 = Blade: Retsu
+input /echo 2 = Blade: Teki
+input /echo 3 = Blade: To
+input /echo 4 = Blade: Chi
+input /echo 5 = Blade: Ei
+input /echo 6 = Blade: Jin
+input /echo 7 = Blade: Ten
+input /echo 8 = Blade: Ku
+input /echo 9 = Blade: Yu
+input /echo 0 = Blade: Shun
