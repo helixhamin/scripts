@@ -10,3 +10,4 @@ Unbind !8
 Unbind !9
 Unbind !0
 Unbind !-
+input /echo Alt unbound
