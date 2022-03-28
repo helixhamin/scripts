@@ -1,1 +1,2 @@
+input /echo Tool:Shihei Enhance:Create 5 shadows
 /ma "Utsusemi: San" <me>
