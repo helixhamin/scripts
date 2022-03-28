@@ -1,0 +1,2 @@
+input /echo Removes silence and mute from target
+input /ma "Silena" <a12>

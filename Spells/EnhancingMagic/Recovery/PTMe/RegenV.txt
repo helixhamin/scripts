@@ -1,0 +1,2 @@
+input /echo Default potency is 40 HP per tick
+input /ma "Regen V" <me>

@@ -1,0 +1,2 @@
+input /echo Restores 12HP/tick for 20 ticks, or 240 HP over 60 seconds
+input /ma "Regen II" <p5>

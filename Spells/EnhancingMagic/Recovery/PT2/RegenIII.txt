@@ -1,0 +1,2 @@
+input /echo Restores 20HP/tick for 20 ticks, or 400 HP healed over 60 seconds
+input /ma "Regen III" <p2>

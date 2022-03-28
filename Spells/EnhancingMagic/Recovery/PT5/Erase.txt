@@ -1,0 +1,2 @@
+input /echo Removes one detrimental magical effect from target party member
+input /ma "Erase" <p5>

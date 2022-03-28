@@ -1,0 +1,2 @@
+input /echo Removes blindness from target
+input /ma "Blindna" <a14>

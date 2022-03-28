@@ -1,0 +1,2 @@
+input /echo Transfers one enfeebling effect from target party member to yourself
+input /ma "Sacrifice" <a12>

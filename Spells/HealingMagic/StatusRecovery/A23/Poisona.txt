@@ -1,0 +1,2 @@
+input /echo Removes poison from target
+input /ma "Poisona" <a23>
