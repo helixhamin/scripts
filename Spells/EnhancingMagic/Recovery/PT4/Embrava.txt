@@ -1,0 +1,2 @@
+input /echo Gradually restores target's HP and MP and increases attack speed
+input /ma "Embrava" <p4>

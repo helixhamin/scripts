@@ -1,0 +1,2 @@
+input /echo Removes one enfeebling effect you have from yourself and party members within area of effect
+input /ma "Esuna" <p3>

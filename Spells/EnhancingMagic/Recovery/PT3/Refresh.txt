@@ -1,0 +1,2 @@
+input /echo Returns 3mp/tick, for a total of 150MP, a net of 110MP
+input /ma "Refresh" <p3>

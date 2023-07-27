@@ -1,0 +1,2 @@
+input /echo Removes disease and plague from target
+input /ma "Viruna" <a20>

@@ -1,0 +1,2 @@
+input /echo Removes curse and bane from target
+input /ma "Cursna" <p2>

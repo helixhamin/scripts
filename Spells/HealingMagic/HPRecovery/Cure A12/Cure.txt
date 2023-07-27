@@ -1,0 +1,2 @@
+input /echo Hard Cap: 65
+input /ma "Cure" <a12>
