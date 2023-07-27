@@ -1,2 +1,2 @@
 input /echo Enhances evasion Job:Ninja Lucky:4 Unlucky:8
-input /ja "Ninja's Roll" <me>
+input /ja "Ninja Roll" <me>
