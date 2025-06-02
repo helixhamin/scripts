@@ -1,0 +1,2 @@
+input /echo Removes petrification from target
+input /ma "Stona" <p5>

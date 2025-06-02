@@ -1,0 +1,2 @@
+input /echo Removes paralysis from target
+input /ma "Paralyna" <t>
