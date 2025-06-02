@@ -1,0 +1,6 @@
+input /echo 1 = Contradance
+input /echo 2 = Saber Dance
+input /echo 3 = Fan Dance
+input /echo 4 = No Foot Rise
+input /echo 5 = Presto
+input /echo 6 = Grand Pas

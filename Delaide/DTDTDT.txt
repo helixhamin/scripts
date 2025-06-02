@@ -1,0 +1,3 @@
+exec WeaponSkills/Polearm/DoubleThrust.txt
+send Yuehan exec WeaponSkills/Polearm/DoubleThrust.txt
+send Weijun exec WeaponSkills/Polearm/DoubleThrust.txt

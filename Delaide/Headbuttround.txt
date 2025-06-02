@@ -1,0 +1,7 @@
+exec Spells/BlueMagic/SingleTarget/P/Blunt/HeadButt.txt
+wait 4
+send Yuehan exec Spells/BlueMagic/SingleTarget/P/Blunt/HeadButt.txt
+wait 4
+send Weijun exec Spells/BlueMagic/SingleTarget/P/Blunt/HeadButt.txt
+wait 4
+input /echo Head Butt round ready!

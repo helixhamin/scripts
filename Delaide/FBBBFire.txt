@@ -1,0 +1,8 @@
+input /ws "Fast Blade" <t>
+wait 3
+send Yuehan input /ws "Burning Blade" <t>
+send Weijun input /ws "Burning Blade" <t>
+wait 4
+input /ma Fire <t>
+send Yuehan input /ma Fire <t>
+send Weijun input /ma Fire <t>

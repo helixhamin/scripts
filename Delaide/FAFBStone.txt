@@ -1,0 +1,7 @@
+exec Abilities/RNG/Sharpshot.txt
+wait 2
+exec WeaponSkills/Archery/FlamingArrow.txt
+wait 4
+send Weijun exec WeaponSkills/Sword/FastBlade.txt
+wait 3
+send Yuehan exec Spells/ElementalMagic/SingleTarget/Earth/Stone.txt

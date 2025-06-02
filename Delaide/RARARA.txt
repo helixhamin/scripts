@@ -1,0 +1,5 @@
+input /ws "Raging Axe" <t>
+wait 4
+send Yuehan exec WeaponSkills/Axe/RagingAxe.txt
+wait 4
+send Weijun exec WeaponSkills/Axe/RagingAxe.txt

@@ -1,0 +1,5 @@
+send Yuehan exec WeaponSkills/Sword/BurningBlade.txt
+wait 4
+exec WeaponSkills/Axe/RagingAxe.txt
+wait 3
+send Weijun exec Spells/DivineMagic/Banish.txt

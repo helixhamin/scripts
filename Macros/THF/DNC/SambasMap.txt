@@ -1,0 +1,8 @@
+input /echo 1 = Drain Samba
+input /echo 2 = Drain Samba II
+input /echo 3 = Drain Samba III
+input /echo ----------------
+input /echo 5 = Aspir Samba
+input /echo 6 = Aspir Samba II
+input /echo ----------------
+input /echo 8 = Haste Samba

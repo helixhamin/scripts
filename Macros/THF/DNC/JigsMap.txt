@@ -1,0 +1,3 @@
+input /echo 1 = Spectral Jig
+input /echo 2 = Chocobo Jig
+input /echo 3 = Chocobo Jig II

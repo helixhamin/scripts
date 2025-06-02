@@ -1,0 +1,2 @@
+input /echo Consumes all MP. Has a chance to knock out the target.
+input /ma "Death" <t>

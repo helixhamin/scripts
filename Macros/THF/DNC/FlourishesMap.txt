@@ -1,0 +1,9 @@
+input /echo 1 = Flourishes I: Animated Flourish
+input /echo 2 = Flourishes I: Desperate Flourish
+input /echo 3 = Flourishes I: Violent Flourish
+input /echo 4 = Flourishes II: Reverse Flourish
+input /echo 5 = Flourishes II: Building Flourish
+input /echo 6 = Flourishes II: Wild Flourish
+input /echo 7 = Flourishes III: Climactic Flourish
+input /echo 8 = Flourishes III: Striking Flourish
+input /echo 9 = Flourishes III: Ternary Flourish

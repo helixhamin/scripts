@@ -1,0 +1,5 @@
+exec WeaponSkills/GK/TachiEnpi.txt
+wait 4
+send Weijun exec WeaponSkills/GK/TachiEnpi.txt
+wait 4
+send Yuehan exec WeaponSkills/GK/TachiEnpi.txt

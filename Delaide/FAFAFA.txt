@@ -1,0 +1,5 @@
+exec WeaponSkills/Archery/FlamingArrow.txt
+wait 4
+send Weijun exec WeaponSkills/Dagger/WaspSting.txt
+wait 4
+send Yuehan exec WeaponSkills/Archery/FlamingArrow.txt

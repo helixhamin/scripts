@@ -1,0 +1,11 @@
+ctrl:
+1-/console exec Macros/THF/DNC/DNCAbilities.txt
+2-/console exec Macros/THF/DNC/SUB.txt
+3-/console exec Macros/THF/DNC/Sambas.txt
+4-/console exec Macros/THF/DNC/Waltzes.txt
+5-/console exec Macros/THF/DNC/Steps.txt
+6-/console exec Macros/THF/DNC/Jigs.txt
+7-/console exec Macros/THF/DNC/Flourishes.txt
+8-/console exec Macros/DNC/
+9-/console exec Macros/DNC/
+0-/console exec Macros/DNC/(Insert weapon here).txt

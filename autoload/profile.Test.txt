@@ -10,8 +10,11 @@
 
 wait 5;
 load LuaCore;
+load AutoExec;
 load Config;
 load DelayMeNot;
+load InfoBar;
+load Tickle;
 load Timers;
 lua load autoinvite;
 lua load autojoin;

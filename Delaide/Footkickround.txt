@@ -1,0 +1,3 @@
+exec Spells/BlueMagic/SingleTarget/P/Slashing/FootKick.txt
+send Weijun exec Spells/BlueMagic/SingleTarget/P/Slashing/FootKick.txt
+send Yuehan exec Spells/BlueMagic/SingleTarget/P/Slashing/FootKick.txt
