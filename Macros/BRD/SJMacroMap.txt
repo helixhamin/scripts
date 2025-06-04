@@ -1,0 +1,11 @@
+alt:
+1-/console exec Macros/BRD/SJBRDAbilities.txt
+2-/console exec 
+3-/console exec Macros/BRD/SJCarols.txt
+4-/console exec Macros/BRD/SJDebuffs.txt
+5-/console exec Macros/BRD/SJThrenodies.txt
+6-/console exec Macros/BRD/SJEtudes.txt
+7-/console exec Macros/BRD/SJRecoveryMisc.txt
+8-/console exec Macros/BRD/SJStats.txt
+9-/console exec Macros/BRD/SJResistance.txt
+0-/console exec 
