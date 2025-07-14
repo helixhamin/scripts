@@ -1,0 +1,11 @@
+alt:
+1-/console exec Macros/DRG/SJDRGAbilities.txt
+2-/console exec Macros/DRG/
+3-/console exec Macros/DRG/SJJumps.txt
+4-/console exec Macros/DRG/
+5-/console exec Macros/DRG/
+6-/console exec Macros/DRG/
+7-/console exec Macros/DRG/
+8-/console exec Macros/DRG/
+9-/console exec Macros/DRG/
+0-/console exec 

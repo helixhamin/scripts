@@ -1,0 +1,11 @@
+alt:
+1-/console exec Macros/DRK/SJDRKAbilities.txt
+2-/console exec Macros/DRK/
+3-/console exec Macros/DRK/SJElemental.txt
+4-/console exec Macros/DRK/SJElementalII.txt
+5-/console exec Macros/DRK/SJElementalIII.txt
+6-/console exec Macros/DRK/SJDOT.txt
+7-/console exec Macros/DRK/SJEnfeeble.txt
+8-/console exec Macros/DRK/SJAbsorb.txt
+9-/console exec Macros/DRK/SJDrainEnSpikes.txt
+0-/console exec Macros/DRK/

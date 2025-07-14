@@ -1,0 +1,11 @@
+alt:
+1-/console exec Macros/COR/SJCORAbilities.txt
+2-/console exec 
+3-/console exec Macros/COR/SJQuickdraw.txt
+4-/console exec Macros/COR/SJMageRolls.txt
+5-/console exec Macros/COR/SJMeleeRolls.txt
+6-/console exec Macros/COR/SJOtherRolls.txt
+7-/console exec Macros/COR/
+8-/console exec Macros/COR/
+9-/console exec Macros/COR/
+0-/console exec Macros/COR/
